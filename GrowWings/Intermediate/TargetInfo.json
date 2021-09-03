@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "GrowWings",
+			"Path": "C:\\Users\\happl\\OneDrive\\Documents\\GitHub\\Grow_Wings\\GrowWings\\Source\\GrowWings.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "GrowWingsEditor",
+			"Path": "C:\\Users\\happl\\OneDrive\\Documents\\GitHub\\Grow_Wings\\GrowWings\\Source\\GrowWingsEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

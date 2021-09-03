@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\GrowWings.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{ACDFBEB9-1425-46EA-BDD2-9BB81A9BDE58}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GrowWings.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\GrowWingsEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FB2C4DAC-43F9-4B49-B306-A364FED51942}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\GrowWings">
+      <UniqueIdentifier>{C44B8595-2F8F-49E3-AAB2-9F5A6B57F845}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GrowWings\GrowWings.Build.cs">
+      <Filter>Source\GrowWings</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\GrowWings\GrowWings.cpp">
+      <Filter>Source\GrowWings</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GrowWings\GrowWings.h">
+      <Filter>Source\GrowWings</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GrowWings\GrowWingsGameModeBase.cpp">
+      <Filter>Source\GrowWings</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GrowWings\GrowWingsGameModeBase.h">
+      <Filter>Source\GrowWings</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
