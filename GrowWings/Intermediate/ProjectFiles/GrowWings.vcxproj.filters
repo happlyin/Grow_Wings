@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\GrowWings.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{ACDFBEB9-1425-46EA-BDD2-9BB81A9BDE58}</UniqueIdentifier>
+      <UniqueIdentifier>{4E467CC2-8BA4-4BD1-B521-69FF68673010}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\GrowWings.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{FB2C4DAC-43F9-4B49-B306-A364FED51942}</UniqueIdentifier>
+      <UniqueIdentifier>{38899194-B269-4BAC-AEE9-B98B5B2B839D}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -23,8 +23,14 @@
     <None Include="..\..\Config\DefaultGame.ini">
       <Filter>Config</Filter>
     </None>
+    <Filter Include="Config\Android">
+      <UniqueIdentifier>{3C45617C-206D-4AE2-A0B3-A24BA5BDB21D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Android\AndroidEngine.ini">
+      <Filter>Config\Android</Filter>
+    </None>
     <Filter Include="Source\GrowWings">
-      <UniqueIdentifier>{C44B8595-2F8F-49E3-AAB2-9F5A6B57F845}</UniqueIdentifier>
+      <UniqueIdentifier>{F5104785-7886-4D5D-9C25-8DF914217043}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\GrowWings\GrowWings.Build.cs">
       <Filter>Source\GrowWings</Filter>
@@ -40,6 +46,18 @@
     </ClCompile>
     <ClInclude Include="..\..\Source\GrowWings\GrowWingsGameModeBase.h">
       <Filter>Source\GrowWings</Filter>
+    </ClInclude>
+    <Filter Include="Source\GrowWings\Private">
+      <UniqueIdentifier>{0B001C9E-19B5-4250-AA61-8744472018F8}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\GrowWings\Private\PlayerData.cpp">
+      <Filter>Source\GrowWings\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\GrowWings\Public">
+      <UniqueIdentifier>{7D8A2AF6-ED90-460D-9573-0A727AA56A5D}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\GrowWings\Public\PlayerData.h">
+      <Filter>Source\GrowWings\Public</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

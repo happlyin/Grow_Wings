@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-GrowWings-0006.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\happl\OneDrive\Documents\GitHub\Grow_Wings\GrowWings\Intermediate\Build\Win64\GrowWingsEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\happl\OneDrive\Documents\GitHub\Grow_Wings\GrowWings\Intermediate\Build\Win64\UE4Editor\Development\GrowWings\PlayerData.cpp.obj"
+"C:\Users\happl\OneDrive\Documents\GitHub\Grow_Wings\GrowWings\Intermediate\Build\Win64\UE4Editor\Development\GrowWings\GrowWings.cpp.obj"
+"C:\Users\happl\OneDrive\Documents\GitHub\Grow_Wings\GrowWings\Intermediate\Build\Win64\UE4Editor\Development\GrowWings\GrowWingsGameModeBase.cpp.obj"
+"C:\Users\happl\OneDrive\Documents\GitHub\Grow_Wings\GrowWings\Intermediate\Build\Win64\UE4Editor\Development\GrowWings\GrowWings.init.gen.cpp.obj"
+"C:\Users\happl\OneDrive\Documents\GitHub\Grow_Wings\GrowWings\Intermediate\Build\Win64\UE4Editor\Development\GrowWings\GrowWingsGameModeBase.gen.cpp.obj"
+"C:\Users\happl\OneDrive\Documents\GitHub\Grow_Wings\GrowWings\Intermediate\Build\Win64\UE4Editor\Development\GrowWings\Default.rc2.res"
+/OUT:"C:\Users\happl\OneDrive\Documents\GitHub\Grow_Wings\GrowWings\Intermediate\Build\Win64\UE4Editor\Development\GrowWings\UE4Editor-GrowWings-0006.lib"
+/INCLUDE:IMPLEMENT_MODULE_GrowWings
