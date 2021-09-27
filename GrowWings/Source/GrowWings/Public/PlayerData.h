@@ -37,6 +37,7 @@ class GROWWINGS_API PlayerData
 		unsigned int Critical_Plus_Damage_Lv;
 
 	public:
+		UFUNCTION(BlueprintCallable)
 		static PlayerData* GetPlayerData();
 
 		virtual ~PlayerData() {

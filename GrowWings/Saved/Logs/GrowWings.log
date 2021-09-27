@@ -1,8 +1,8 @@
-﻿Log file open, 09/15/21 16:11:42
+﻿Log file open, 09/27/21 19:26:53
 LogInit: Display: Running engine for game: GrowWings
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.496280
+LogStats: Stats thread started at 0.464307
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
 LogPluginManager: Mounting plugin Paper2D
@@ -115,40 +115,6 @@ LogPluginManager: Mounting plugin Synthesis
 LogPluginManager: Mounting plugin WebMMoviePlayer
 LogPluginManager: Mounting plugin WindowsMoviePlayer
 LogPluginManager: Mounting plugin ScreenshotTools
-Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe -Mode=QueryTargets -Project="C:/Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/GrowWings.uproject" -Output="C:/Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Intermediate/TargetInfo.json"]
-LogInit: Warning: Incompatible or missing module: GrowWings
-Running C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe Development Win64 -Project="C:/Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/GrowWings.uproject" -TargetType=Editor -Progress -NoEngineChanges -NoHotReloadFromIDE
-Using 'git status' to determine working set for adaptive non-unity build (C:\Users\happl\OneDrive\Documents\GitHub\Grow_Wings).
-Creating makefile for GrowWingsEditor (game project files are newer)
-@progress push 5%
-Parsing headers for GrowWingsEditor
-  Running UnrealHeaderTool "C:\Users\happl\OneDrive\Documents\GitHub\Grow_Wings\GrowWings\GrowWings.uproject" "C:\Users\happl\OneDrive\Documents\GitHub\Grow_Wings\GrowWings\Intermediate\Build\Win64\GrowWingsEditor\Development\GrowWingsEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\happl\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
-Reflection code generated for GrowWingsEditor in 7.1658969 seconds
-@progress pop
-Building GrowWingsEditor...
-Using Visual Studio 2019 14.28.29335 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
-Building 8 actions with 4 processes...
-  @progress 'Compiling C++ source code...' 0%
-  @progress 'Compiling C++ source code...' 12%
-  [1/8] SharedPCH.Engine.ShadowErrors.cpp
-  @progress 'Compiling C++ source code...' 25%
-  [2/8] GrowWings.cpp
-  @progress 'Compiling C++ source code...' 38%
-  [3/8] GrowWings.init.gen.cpp
-  @progress 'Compiling C++ source code...' 50%
-  [4/8] GrowWingsGameModeBase.cpp
-  @progress 'Compiling C++ source code...' 62%
-  [5/8] GrowWingsGameModeBase.gen.cpp
-  @progress 'Compiling C++ source code...' 75%
-  [6/8] UE4Editor-GrowWings.lib
-     C:\Users\happl\OneDrive\Documents\GitHub\Grow_Wings\GrowWings\Intermediate\Build\Win64\UE4Editor\Development\GrowWings\UE4Editor-GrowWings.lib ???̺귯?? ?? C:\Users\happl\OneDrive\Documents\GitHub\Grow_Wings\GrowWings\Intermediate\Build\Win64\UE4Editor\Development\GrowWings\UE4Editor-GrowWings.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
-  @progress 'Compiling C++ source code...' 88%
-  [7/8] UE4Editor-GrowWings.dll
-     C:\Users\happl\OneDrive\Documents\GitHub\Grow_Wings\GrowWings\Intermediate\Build\Win64\UE4Editor\Development\GrowWings\UE4Editor-GrowWings.suppressed.lib ???̺귯?? ?? C:\Users\happl\OneDrive\Documents\GitHub\Grow_Wings\GrowWings\Intermediate\Build\Win64\UE4Editor\Development\GrowWings\UE4Editor-GrowWings.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
-  @progress 'Compiling C++ source code...' 100%
-  [8/8] GrowWingsEditor.target
-Total time in Parallel executor: 44.37 seconds
-Total execution time: 54.97 seconds
 LogInit: Using libcurl 7.55.1-DEV
 LogInit:  - built for x86_64-pc-win32
 LogInit:  - supports SSL with OpenSSL/1.1.1
@@ -229,822 +195,666 @@ LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
-[2021.09.15-07.12.43:119][  0]LogConfig: Setting CVar [[r.VSync:0]]
-[2021.09.15-07.12.43:119][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
-[2021.09.15-07.12.43:120][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/Config/Windows/Engine.ini]
-[2021.09.15-07.12.43:120][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
-[2021.09.15-07.12.43:120][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:0]]
-[2021.09.15-07.12.43:120][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
-[2021.09.15-07.12.43:120][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
-[2021.09.15-07.12.43:120][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
-[2021.09.15-07.12.43:120][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
-[2021.09.15-07.12.43:120][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
-[2021.09.15-07.12.43:120][  0]LogConfig: Setting CVar [[r.Mobile.VirtualTextures:0]]
-[2021.09.15-07.12.43:120][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
-[2021.09.15-07.12.43:120][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
-[2021.09.15-07.12.43:120][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
-[2021.09.15-07.12.43:120][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
-[2021.09.15-07.12.43:120][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
-[2021.09.15-07.12.43:120][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
-[2021.09.15-07.12.43:120][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
-[2021.09.15-07.12.43:120][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
-[2021.09.15-07.12.43:120][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
-[2021.09.15-07.12.43:120][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:0]]
-[2021.09.15-07.12.43:120][  0]LogConfig: Setting CVar [[r.VT.TileSize:128]]
-[2021.09.15-07.12.43:120][  0]LogConfig: Setting CVar [[r.VT.TileBorderSize:4]]
-[2021.09.15-07.12.43:120][  0]LogConfig: Setting CVar [[r.vt.FeedbackFactor:16]]
-[2021.09.15-07.12.43:120][  0]LogConfig: Setting CVar [[r.VT.EnableCompressZlib:1]]
-[2021.09.15-07.12.43:120][  0]LogConfig: Setting CVar [[r.VT.EnableCompressCrunch:0]]
-[2021.09.15-07.12.43:120][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
-[2021.09.15-07.12.43:120][  0]LogConfig: Setting CVar [[r.AnisotropicBRDF:0]]
-[2021.09.15-07.12.43:120][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
-[2021.09.15-07.12.43:120][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
-[2021.09.15-07.12.43:120][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
-[2021.09.15-07.12.43:120][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
-[2021.09.15-07.12.43:120][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
-[2021.09.15-07.12.43:120][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
-[2021.09.15-07.12.43:120][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
-[2021.09.15-07.12.43:120][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
-[2021.09.15-07.12.43:120][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
-[2021.09.15-07.12.43:120][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
-[2021.09.15-07.12.43:120][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
-[2021.09.15-07.12.43:120][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
-[2021.09.15-07.12.43:120][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
-[2021.09.15-07.12.43:120][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
-[2021.09.15-07.12.43:120][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
-[2021.09.15-07.12.43:120][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
-[2021.09.15-07.12.43:120][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
-[2021.09.15-07.12.43:120][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
-[2021.09.15-07.12.43:120][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
-[2021.09.15-07.12.43:120][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
-[2021.09.15-07.12.43:120][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
-[2021.09.15-07.12.43:120][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Bias:1.000000]]
-[2021.09.15-07.12.43:120][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
-[2021.09.15-07.12.43:120][  0]LogConfig: Setting CVar [[r.UsePreExposure:1]]
-[2021.09.15-07.12.43:120][  0]LogConfig: Setting CVar [[r.EyeAdaptation.EditorOnly:0]]
-[2021.09.15-07.12.43:120][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
-[2021.09.15-07.12.43:120][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
-[2021.09.15-07.12.43:120][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
-[2021.09.15-07.12.43:120][  0]LogConfig: Setting CVar [[r.SSGI.Enable:0]]
-[2021.09.15-07.12.43:120][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
-[2021.09.15-07.12.43:120][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
-[2021.09.15-07.12.43:120][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
-[2021.09.15-07.12.43:120][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
-[2021.09.15-07.12.43:120][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
-[2021.09.15-07.12.43:120][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
-[2021.09.15-07.12.43:120][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
-[2021.09.15-07.12.43:120][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
-[2021.09.15-07.12.43:120][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
-[2021.09.15-07.12.43:120][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
-[2021.09.15-07.12.43:120][  0]LogConfig: Setting CVar [[r.VertexDeformationOutputsVelocity:0]]
-[2021.09.15-07.12.43:120][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
-[2021.09.15-07.12.43:120][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
-[2021.09.15-07.12.43:120][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
-[2021.09.15-07.12.43:120][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
-[2021.09.15-07.12.43:120][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
-[2021.09.15-07.12.43:121][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
-[2021.09.15-07.12.43:121][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
-[2021.09.15-07.12.43:121][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
-[2021.09.15-07.12.43:121][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
-[2021.09.15-07.12.43:121][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
-[2021.09.15-07.12.43:121][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
-[2021.09.15-07.12.43:121][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
-[2021.09.15-07.12.43:121][  0]LogConfig: Setting CVar [[r.MeshStreaming:0]]
-[2021.09.15-07.12.43:121][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
-[2021.09.15-07.12.43:121][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
-[2021.09.15-07.12.43:121][  0]LogConfig: Setting CVar [[r.RayTracing.UseTextureLod:0]]
-[2021.09.15-07.12.43:121][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
-[2021.09.15-07.12.43:121][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
-[2021.09.15-07.12.43:121][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
-[2021.09.15-07.12.43:121][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
-[2021.09.15-07.12.43:121][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphere:1]]
-[2021.09.15-07.12.43:121][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphereAffectsHeightFog:0]]
-[2021.09.15-07.12.43:121][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
-[2021.09.15-07.12.43:121][  0]LogConfig: Setting CVar [[r.SkinCache.DefaultBehavior:1]]
-[2021.09.15-07.12.43:121][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
-[2021.09.15-07.12.43:121][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
-[2021.09.15-07.12.43:121][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
-[2021.09.15-07.12.43:121][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
-[2021.09.15-07.12.43:121][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
-[2021.09.15-07.12.43:121][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
-[2021.09.15-07.12.43:121][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
-[2021.09.15-07.12.43:121][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
-[2021.09.15-07.12.43:121][  0]LogConfig: Setting CVar [[r.GPUSkin.Support16BitBoneIndex:0]]
-[2021.09.15-07.12.43:121][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
-[2021.09.15-07.12.43:121][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
-[2021.09.15-07.12.43:121][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
-[2021.09.15-07.12.43:121][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
-[2021.09.15-07.12.43:121][  0]LogConfig: Setting CVar [[r.LightPropagationVolume:0]]
-[2021.09.15-07.12.43:121][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/Config/Windows/Engine.ini]
-[2021.09.15-07.12.43:121][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/Config/Windows/Engine.ini]
-[2021.09.15-07.12.43:121][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
-[2021.09.15-07.12.43:121][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
-[2021.09.15-07.12.43:121][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
-[2021.09.15-07.12.43:121][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
-[2021.09.15-07.12.43:121][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
-[2021.09.15-07.12.43:121][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
-[2021.09.15-07.12.43:121][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
-[2021.09.15-07.12.43:121][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
-[2021.09.15-07.12.43:121][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
-[2021.09.15-07.12.43:121][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
-[2021.09.15-07.12.43:121][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
-[2021.09.15-07.12.43:121][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
-[2021.09.15-07.12.43:121][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
-[2021.09.15-07.12.43:121][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
-[2021.09.15-07.12.43:121][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/Config/Windows/Engine.ini]
-[2021.09.15-07.12.43:121][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
-[2021.09.15-07.12.43:121][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
-[2021.09.15-07.12.43:121][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
-[2021.09.15-07.12.43:121][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
-[2021.09.15-07.12.43:121][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
-[2021.09.15-07.12.43:121][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
-[2021.09.15-07.12.43:121][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
-[2021.09.15-07.12.43:121][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
-[2021.09.15-07.12.43:121][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
-[2021.09.15-07.12.43:121][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
-[2021.09.15-07.12.43:121][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
-[2021.09.15-07.12.43:121][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
-[2021.09.15-07.12.43:121][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
-[2021.09.15-07.12.43:121][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/Config/Windows/Engine.ini]
-[2021.09.15-07.12.43:121][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/Config/Windows/Engine.ini]
-[2021.09.15-07.12.43:128][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/Config/Windows/Scalability.ini]
-[2021.09.15-07.12.43:128][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2021.09.15-07.12.43:128][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
-[2021.09.15-07.12.43:128][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/Config/Windows/Scalability.ini]
-[2021.09.15-07.12.43:128][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
-[2021.09.15-07.12.43:128][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/Config/Windows/Scalability.ini]
-[2021.09.15-07.12.43:128][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2021.09.15-07.12.43:128][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2021.09.15-07.12.43:128][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2021.09.15-07.12.43:128][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
-[2021.09.15-07.12.43:128][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
-[2021.09.15-07.12.43:128][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2021.09.15-07.12.43:128][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2021.09.15-07.12.43:128][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2021.09.15-07.12.43:128][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2021.09.15-07.12.43:128][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2021.09.15-07.12.43:128][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2021.09.15-07.12.43:128][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2021.09.15-07.12.43:128][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2021.09.15-07.12.43:128][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
-[2021.09.15-07.12.43:128][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2021.09.15-07.12.43:128][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
-[2021.09.15-07.12.43:128][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2021.09.15-07.12.43:128][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2021.09.15-07.12.43:129][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/Config/Windows/Scalability.ini]
-[2021.09.15-07.12.43:129][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
-[2021.09.15-07.12.43:129][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2021.09.15-07.12.43:129][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2021.09.15-07.12.43:129][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
-[2021.09.15-07.12.43:129][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2021.09.15-07.12.43:129][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
-[2021.09.15-07.12.43:129][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
-[2021.09.15-07.12.43:129][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
-[2021.09.15-07.12.43:129][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
-[2021.09.15-07.12.43:129][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2021.09.15-07.12.43:129][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
-[2021.09.15-07.12.43:129][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
-[2021.09.15-07.12.43:129][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2021.09.15-07.12.43:129][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2021.09.15-07.12.43:129][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2021.09.15-07.12.43:129][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2021.09.15-07.12.43:129][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2021.09.15-07.12.43:129][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2021.09.15-07.12.43:129][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2021.09.15-07.12.43:129][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
-[2021.09.15-07.12.43:129][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
-[2021.09.15-07.12.43:129][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2021.09.15-07.12.43:129][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
-[2021.09.15-07.12.43:129][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
-[2021.09.15-07.12.43:129][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
-[2021.09.15-07.12.43:129][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
-[2021.09.15-07.12.43:129][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
-[2021.09.15-07.12.43:129][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2021.09.15-07.12.43:129][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2021.09.15-07.12.43:129][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2021.09.15-07.12.43:129][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/Config/Windows/Scalability.ini]
-[2021.09.15-07.12.43:129][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2021.09.15-07.12.43:129][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2021.09.15-07.12.43:129][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2021.09.15-07.12.43:129][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2021.09.15-07.12.43:129][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2021.09.15-07.12.43:129][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
-[2021.09.15-07.12.43:129][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2021.09.15-07.12.43:129][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
-[2021.09.15-07.12.43:129][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2021.09.15-07.12.43:129][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/Config/Windows/Scalability.ini]
-[2021.09.15-07.12.43:129][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
-[2021.09.15-07.12.43:129][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2021.09.15-07.12.43:129][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
-[2021.09.15-07.12.43:129][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
-[2021.09.15-07.12.43:129][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
-[2021.09.15-07.12.43:129][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2021.09.15-07.12.43:129][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
-[2021.09.15-07.12.43:129][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2021.09.15-07.12.43:129][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2021.09.15-07.12.43:129][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2021.09.15-07.12.43:129][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2021.09.15-07.12.43:129][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
-[2021.09.15-07.12.43:129][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
-[2021.09.15-07.12.43:129][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2021.09.15-07.12.43:129][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2021.09.15-07.12.43:129][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
-[2021.09.15-07.12.43:129][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
-[2021.09.15-07.12.43:129][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
-[2021.09.15-07.12.43:129][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
-[2021.09.15-07.12.43:129][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
-[2021.09.15-07.12.43:129][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
-[2021.09.15-07.12.43:129][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
-[2021.09.15-07.12.43:129][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
-[2021.09.15-07.12.43:129][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
-[2021.09.15-07.12.43:129][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
-[2021.09.15-07.12.43:129][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
-[2021.09.15-07.12.43:129][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/Config/Windows/Scalability.ini]
-[2021.09.15-07.12.43:129][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2021.09.15-07.12.43:130][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2021.09.15-07.12.43:130][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/Config/Windows/Scalability.ini]
-[2021.09.15-07.12.43:130][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
-[2021.09.15-07.12.43:130][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
-[2021.09.15-07.12.43:130][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
-[2021.09.15-07.12.43:130][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
-[2021.09.15-07.12.43:130][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
-[2021.09.15-07.12.43:130][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
-[2021.09.15-07.12.43:130][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
-[2021.09.15-07.12.43:130][  0]LogInit: Selected Device Profile: [Windows]
-[2021.09.15-07.12.43:130][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2021.09.15-07.12.43:130][  0]LogHAL: Display: Platform has ~ 20 GB [21385142272 / 34359738368 / 20], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
-[2021.09.15-07.12.43:130][  0]LogInit: Going up to parent DeviceProfile []
-[2021.09.15-07.12.43:130][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/Config/Windows/Scalability.ini]
-[2021.09.15-07.12.43:130][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2021.09.15-07.12.43:130][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
-[2021.09.15-07.12.43:130][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/Config/Windows/Scalability.ini]
-[2021.09.15-07.12.43:130][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
-[2021.09.15-07.12.43:130][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/Config/Windows/Scalability.ini]
-[2021.09.15-07.12.43:130][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2021.09.15-07.12.43:130][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2021.09.15-07.12.43:130][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2021.09.15-07.12.43:130][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
-[2021.09.15-07.12.43:130][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
-[2021.09.15-07.12.43:130][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2021.09.15-07.12.43:130][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2021.09.15-07.12.43:130][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2021.09.15-07.12.43:130][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2021.09.15-07.12.43:130][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2021.09.15-07.12.43:130][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2021.09.15-07.12.43:130][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2021.09.15-07.12.43:130][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2021.09.15-07.12.43:130][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
-[2021.09.15-07.12.43:130][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2021.09.15-07.12.43:130][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
-[2021.09.15-07.12.43:130][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2021.09.15-07.12.43:130][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2021.09.15-07.12.43:130][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/Config/Windows/Scalability.ini]
-[2021.09.15-07.12.43:130][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
-[2021.09.15-07.12.43:130][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2021.09.15-07.12.43:130][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2021.09.15-07.12.43:130][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
-[2021.09.15-07.12.43:130][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2021.09.15-07.12.43:130][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
-[2021.09.15-07.12.43:130][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
-[2021.09.15-07.12.43:130][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
-[2021.09.15-07.12.43:130][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
-[2021.09.15-07.12.43:130][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2021.09.15-07.12.43:130][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
-[2021.09.15-07.12.43:130][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
-[2021.09.15-07.12.43:130][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2021.09.15-07.12.43:130][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2021.09.15-07.12.43:130][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2021.09.15-07.12.43:130][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2021.09.15-07.12.43:130][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2021.09.15-07.12.43:130][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2021.09.15-07.12.43:130][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2021.09.15-07.12.43:130][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
-[2021.09.15-07.12.43:130][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
-[2021.09.15-07.12.43:130][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2021.09.15-07.12.43:130][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
-[2021.09.15-07.12.43:130][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
-[2021.09.15-07.12.43:130][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
-[2021.09.15-07.12.43:130][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
-[2021.09.15-07.12.43:130][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
-[2021.09.15-07.12.43:130][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2021.09.15-07.12.43:131][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2021.09.15-07.12.43:131][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2021.09.15-07.12.43:131][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/Config/Windows/Scalability.ini]
-[2021.09.15-07.12.43:131][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2021.09.15-07.12.43:131][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2021.09.15-07.12.43:131][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2021.09.15-07.12.43:131][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2021.09.15-07.12.43:131][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2021.09.15-07.12.43:131][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
-[2021.09.15-07.12.43:131][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2021.09.15-07.12.43:131][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
-[2021.09.15-07.12.43:131][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2021.09.15-07.12.43:131][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/Config/Windows/Scalability.ini]
-[2021.09.15-07.12.43:131][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
-[2021.09.15-07.12.43:131][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2021.09.15-07.12.43:131][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
-[2021.09.15-07.12.43:131][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
-[2021.09.15-07.12.43:131][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
-[2021.09.15-07.12.43:131][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2021.09.15-07.12.43:131][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
-[2021.09.15-07.12.43:131][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2021.09.15-07.12.43:131][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2021.09.15-07.12.43:131][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2021.09.15-07.12.43:131][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2021.09.15-07.12.43:131][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
-[2021.09.15-07.12.43:131][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
-[2021.09.15-07.12.43:131][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2021.09.15-07.12.43:131][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2021.09.15-07.12.43:131][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
-[2021.09.15-07.12.43:131][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
-[2021.09.15-07.12.43:131][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
-[2021.09.15-07.12.43:131][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
-[2021.09.15-07.12.43:131][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
-[2021.09.15-07.12.43:131][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
-[2021.09.15-07.12.43:131][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
-[2021.09.15-07.12.43:131][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
-[2021.09.15-07.12.43:131][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
-[2021.09.15-07.12.43:131][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
-[2021.09.15-07.12.43:131][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
-[2021.09.15-07.12.43:131][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/Config/Windows/Scalability.ini]
-[2021.09.15-07.12.43:131][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2021.09.15-07.12.43:131][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2021.09.15-07.12.43:131][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/Config/Windows/Scalability.ini]
-[2021.09.15-07.12.43:131][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
-[2021.09.15-07.12.43:131][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
-[2021.09.15-07.12.43:131][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
-[2021.09.15-07.12.43:131][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
-[2021.09.15-07.12.43:131][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
-[2021.09.15-07.12.43:131][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
-[2021.09.15-07.12.43:131][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
-[2021.09.15-07.12.43:131][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
-[2021.09.15-07.12.43:132][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
-[2021.09.15-07.12.43:132][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
-[2021.09.15-07.12.43:132][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
-[2021.09.15-07.12.43:132][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/Config/Windows/Engine.ini]
-[2021.09.15-07.12.43:132][  0]LogInit: Computer: 2WINGS
-[2021.09.15-07.12.43:132][  0]LogInit: User: happl
-[2021.09.15-07.12.43:132][  0]LogInit: CPU Page size=4096, Cores=4
-[2021.09.15-07.12.43:132][  0]LogInit: High frequency timer resolution =10.000000 MHz
-[2021.09.15-07.12.43:132][  0]LogMemory: Memory total: Physical=19.9GB (20GB approx)
-[2021.09.15-07.12.43:132][  0]LogMemory: Platform Memory Stats for Windows
-[2021.09.15-07.12.43:132][  0]LogMemory: Process Physical Memory: 121.85 MB used, 121.86 MB peak
-[2021.09.15-07.12.43:132][  0]LogMemory: Process Virtual Memory: 104.16 MB used, 104.16 MB peak
-[2021.09.15-07.12.43:132][  0]LogMemory: Physical Memory: 8184.95 MB used,  12209.52 MB free, 20394.46 MB total
-[2021.09.15-07.12.43:132][  0]LogMemory: Virtual Memory: 5199.23 MB used,  134212528.00 MB free, 134217728.00 MB total
-[2021.09.15-07.12.43:145][  0]LogWindows: WindowsPlatformFeatures enabled
-[2021.09.15-07.12.43:389][  0]LogInit: Physics initialised using underlying interface: PhysX
-[2021.09.15-07.12.43:391][  0]LogInit: Using OS detected language (ko-KR).
-[2021.09.15-07.12.43:391][  0]LogInit: Using OS detected locale (ko-KR).
-[2021.09.15-07.12.43:407][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
-[2021.09.15-07.12.43:564][  0]LogInit: Setting process to per monitor DPI aware
-[2021.09.15-07.12.43:641][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
-[2021.09.15-07.12.43:641][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
-[2021.09.15-07.12.44:169][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2021.09.15-07.12.44:169][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
-[2021.09.15-07.12.44:169][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
-[2021.09.15-07.12.44:169][  0]LogD3D11RHI: D3D11 adapters:
-[2021.09.15-07.12.44:290][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
-[2021.09.15-07.12.44:290][  0]LogD3D11RHI:       4018/0/10197 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
-[2021.09.15-07.12.44:345][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
-[2021.09.15-07.12.44:345][  0]LogD3D11RHI:       128/0/10197 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
-[2021.09.15-07.12.44:349][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2021.09.15-07.12.44:349][  0]LogD3D11RHI:       0/0/10197 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2021.09.15-07.12.44:349][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2021.09.15-07.12.44:367][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2021.09.15-07.12.44:367][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8c (for the marketing name, search the web for "GPU Device Id")
-[2021.09.15-07.12.44:367][  0]LogWindows: EnumDisplayDevices:
-[2021.09.15-07.12.44:368][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
-[2021.09.15-07.12.44:369][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
-[2021.09.15-07.12.44:370][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
-[2021.09.15-07.12.44:371][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:1)
-[2021.09.15-07.12.44:372][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
-[2021.09.15-07.12.44:372][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
-[2021.09.15-07.12.44:372][  0]LogD3D11RHI:   Driver Version: 442.62 (internal:26.21.14.4262, unified:442.62)
-[2021.09.15-07.12.44:372][  0]LogD3D11RHI:      Driver Date: 3-8-2020
-[2021.09.15-07.12.44:372][  0]LogRHI: Texture pool is 2812 MB (70% of 4018 MB)
-[2021.09.15-07.12.44:455][  0]LogD3D11RHI: RHI has support for 64 bit atomics
-[2021.09.15-07.12.44:455][  0]LogD3D11RHI: Async texture creation enabled
-[2021.09.15-07.12.44:455][  0]LogD3D11RHI: Array index from any shader is supported
-[2021.09.15-07.12.44:480][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
-[2021.09.15-07.12.44:991][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
-[2021.09.15-07.12.45:025][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
-[2021.09.15-07.12.45:026][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
-[2021.09.15-07.12.45:026][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
-[2021.09.15-07.12.45:026][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
-[2021.09.15-07.12.45:026][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
-[2021.09.15-07.12.45:026][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
-[2021.09.15-07.12.45:026][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
-[2021.09.15-07.12.45:026][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
-[2021.09.15-07.12.45:026][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
-[2021.09.15-07.12.45:026][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
-[2021.09.15-07.12.45:070][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
-[2021.09.15-07.12.45:070][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
-[2021.09.15-07.12.45:089][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
-[2021.09.15-07.12.45:109][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
-[2021.09.15-07.12.45:125][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
-[2021.09.15-07.12.45:142][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
-[2021.09.15-07.12.45:158][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
-[2021.09.15-07.12.45:175][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
-[2021.09.15-07.12.45:192][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
-[2021.09.15-07.12.45:239][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
-[2021.09.15-07.12.45:239][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
-[2021.09.15-07.12.45:268][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
-[2021.09.15-07.12.45:268][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
-[2021.09.15-07.12.45:284][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
-[2021.09.15-07.12.45:303][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
-[2021.09.15-07.12.45:322][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
-[2021.09.15-07.12.45:338][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
-[2021.09.15-07.12.45:338][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2021.09.15-07.12.45:382][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
-[2021.09.15-07.12.45:670][  0]LogShaderCompilers: Guid format shader working directory is -31 characters bigger than the processId version (../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Intermediate/Shaders/WorkingDirectory/21480/).
-[2021.09.15-07.12.45:670][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/happl/AppData/Local/Temp/UnrealShaderWorkingDir/4D3F0475443E5F4F1B1D2E9FC4C5FEBB/'.
-[2021.09.15-07.12.45:670][  0]LogXGEController: Cleaning working directory: C:/Users/happl/AppData/Local/Temp/UnrealXGEWorkingDir/
-[2021.09.15-07.12.45:671][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
-[2021.09.15-07.12.45:671][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
-[2021.09.15-07.12.45:671][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2021.09.15-07.12.46:926][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2021.09.15-07.12.47:045][  0]LogDerivedDataCache: Loaded boot cache 0.12s 76MB C:/Users/happl/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
-[2021.09.15-07.12.47:045][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/happl/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
-[2021.09.15-07.12.47:045][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2021.09.15-07.12.47:045][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2021.09.15-07.12.47:046][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2021.09.15-07.12.47:046][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2021.09.15-07.12.47:060][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2021.09.15-07.12.47:060][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2021.09.15-07.12.47:060][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
-[2021.09.15-07.12.47:063][  0]LogDerivedDataCache: Using Local data cache path C:/Users/happl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2021.09.15-07.12.47:063][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
-[2021.09.15-07.12.47:063][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
-[2021.09.15-07.12.47:128][  0]LogSlate: Using FreeType 2.10.0
-[2021.09.15-07.12.47:130][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2021.09.15-07.12.47:247][  0]LogAssetRegistry: FAssetRegistry took 0.0040 seconds to start up
-[2021.09.15-07.12.47:550][  0]LogInit: Selected Device Profile: [Windows]
-[2021.09.15-07.12.47:901][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2021.09.15-07.12.47:901][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
-[2021.09.15-07.12.47:901][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
-[2021.09.15-07.12.47:901][  0]LogMeshReduction: No distributed automatic mesh merging module available
-[2021.09.15-07.12.47:901][  0]LogMeshMerging: No distributed automatic mesh merging module available
-[2021.09.15-07.12.47:929][  0]LogNetVersion: GrowWings 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 2304995152)
-[2021.09.15-07.12.48:925][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (000001CC9AC229C0), frame # 0
-[2021.09.15-07.12.48:925][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001CC9AAD1080), frame # 0
-[2021.09.15-07.12.48:928][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001CC9AC0E600), frame # 0
-[2021.09.15-07.12.48:990][  0]LogPackageLocalizationCache: Processed 20 localized package path(s) for 1 prioritized culture(s) in 0.053733 seconds
-[2021.09.15-07.12.48:999][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
-[2021.09.15-07.12.48:999][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
-[2021.09.15-07.12.48:999][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2021.09.15-07.12.49:917][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2021.09.15-07.12.49:932][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2021.09.15-07.12.50:287][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
-[2021.09.15-07.12.50:287][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
-[2021.09.15-07.12.50:332][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
-[2021.09.15-07.12.50:345][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
-[2021.09.15-07.12.50:373][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
-[2021.09.15-07.12.51:312][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2021.09.15-07.12.51:367][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
-[2021.09.15-07.12.51:367][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
-[2021.09.15-07.12.51:458][  0]LogOcInput: OculusInput pre-init called
-[2021.09.15-07.12.51:484][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
-[2021.09.15-07.12.51:484][  0]LogWindows: File 'OVRPlugin.dll' does not exist
-[2021.09.15-07.12.51:586][  0]LogEngine: Initializing Engine...
-[2021.09.15-07.12.51:588][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2021.09.15-07.12.51:588][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
-[2021.09.15-07.12.51:589][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
-[2021.09.15-07.12.51:746][  0]LogInit: Initializing FReadOnlyCVARCache
-[2021.09.15-07.12.51:759][  0]LogAIModule: Creating AISystem for world Untitled
-[2021.09.15-07.12.51:759][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001CCA04FBC00), frame # 0
-[2021.09.15-07.12.51:759][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001CCA05B0900), frame # 0
-[2021.09.15-07.12.51:777][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
-[2021.09.15-07.12.51:777][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
-[2021.09.15-07.12.51:777][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
-[2021.09.15-07.12.51:777][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
-[2021.09.15-07.12.51:777][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
-[2021.09.15-07.12.51:777][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
-[2021.09.15-07.12.51:777][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
-[2021.09.15-07.12.51:777][  0]LogAudio: Display: AudioDevice MaxSources: 32
-[2021.09.15-07.12.51:778][  0]LogAudio: Display: Using built-in audio occlusion.
-[2021.09.15-07.12.51:778][  0]LogAudioMixer: Display: Initializing audio mixer.
-[2021.09.15-07.12.51:819][  0]LogAudioMixer: Display: 0: FrontLeft
-[2021.09.15-07.12.51:819][  0]LogAudioMixer: Display: 1: FrontRight
-[2021.09.15-07.12.51:963][  0]LogAudioMixer: Display: Using Audio Device 스피커(USB Audio Device)
-[2021.09.15-07.12.51:966][  0]LogAudioMixer: Display: Initializing Sound Submixes...
-[2021.09.15-07.12.51:970][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
-[2021.09.15-07.12.51:970][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
-[2021.09.15-07.12.51:971][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
-[2021.09.15-07.12.51:972][  0]LogInit: FAudioDevice initialized.
-[2021.09.15-07.12.51:972][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
-[2021.09.15-07.12.52:025][  0]LogDerivedDataCache: Saved boot cache 0.05s 76MB C:/Users/happl/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
-[2021.09.15-07.12.52:026][  0]LogInit: Texture streaming: Enabled
-[2021.09.15-07.12.52:073][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2021.09.15-07.12.52:073][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
-[2021.09.15-07.12.52:079][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
-[2021.09.15-07.12.52:144][  0]LogInit: Transaction tracking system initialized
-[2021.09.15-07.12.52:201][  0]BlueprintLog: New page: 에디터 로드
-[2021.09.15-07.12.52:438][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
-[2021.09.15-07.12.52:823][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
-[2021.09.15-07.12.52:823][  0]LogCook: Display: Mobile HDR setting 1
-[2021.09.15-07.12.53:496][  0]LogFileCache: Scanning file cache for directory 'C:/Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/' took 0.00s
-[2021.09.15-07.12.53:496][  0]LogImageWrapper: Warning: PNG Warning: iCCP: CRC error
-[2021.09.15-07.12.53:497][  0]LogImageWrapper: Warning: PNG Warning: iCCP: CRC error
-[2021.09.15-07.12.54:087][  0]LogImageWrapper: Warning: PNG Warning: iCCP: CRC error
-[2021.09.15-07.12.54:087][  0]LogImageWrapper: Warning: PNG Warning: iCCP: CRC error
-[2021.09.15-07.12.54:087][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
-[2021.09.15-07.12.54:087][  0]LogUnrealEdMisc: Loading editor; pre map load, took 73.344
-[2021.09.15-07.12.54:087][  0]Cmd: MAP LOAD FILE="../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/Maps/Land.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2021.09.15-07.12.54:088][  0]LightingResults: New page: 라이팅 빌드
-[2021.09.15-07.12.54:088][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
-[2021.09.15-07.12.54:089][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2021.09.15-07.12.54:089][  0]MapCheck: New page: 맵 체크
-[2021.09.15-07.12.54:089][  0]LightingResults: New page: 라이팅 빌드
-[2021.09.15-07.12.54:101][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001CCA04FBC00), frame # 0
-[2021.09.15-07.12.54:101][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001CCA05B0900), frame # 0
-[2021.09.15-07.12.54:103][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
-[2021.09.15-07.12.54:104][  0]LogLinker: Warning: '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/Maps/Land.umap' 로드 도중 '/Game/Maps/Land_BuiltData' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
-[2021.09.15-07.12.54:105][  0]LogLinker: Warning: '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/Maps/Land.umap' 로드 도중 '/Game/Maps/Land_BuiltData' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
-[2021.09.15-07.12.54:107][  0]LogLinker: Warning: '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/Maps/Land.umap' 로드 도중 '/Game/Maps/Land_BuiltData' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
-[2021.09.15-07.12.54:108][  0]LogLinker: Warning: '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/Maps/Land.umap' 로드 도중 '/Game/Maps/Land_BuiltData' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
-[2021.09.15-07.12.54:124][  0]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
-[2021.09.15-07.12.54:126][  0]LogLinker: Warning: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
-[2021.09.15-07.12.54:127][  0]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
-[2021.09.15-07.12.54:128][  0]LogLinker: Warning: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
-[2021.09.15-07.12.54:134][  0]LogLinker: Warning: '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/Maps/Land.umap' 로드 도중 '/Game/Maps/Land_BuiltData' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
-[2021.09.15-07.12.54:134][  0]LoadErrors: 로드에 실패했습니다. /Game/Maps/Land_BuiltData.Land_BuiltData 참조한 것: PersistentLevel
-[2021.09.15-07.12.54:134][  0]LogLinker: Warning: '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/Maps/Land.umap' 로드 도중 '/Game/Maps/Land_BuiltData' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
-[2021.09.15-07.12.54:134][  0]LoadErrors: 로드에 실패했습니다. /Game/Maps/Land_BuiltData.Land_BuiltData 참조한 것: PersistentLevel
-[2021.09.15-07.12.54:142][  0]LogAIModule: Creating AISystem for world Land
-[2021.09.15-07.12.54:143][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001CCA09AAE00), frame # 0
-[2021.09.15-07.12.54:143][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001CC8E242FC0), frame # 0
-[2021.09.15-07.12.54:147][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2021.09.15-07.12.54:162][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
-[2021.09.15-07.12.54:162][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2021.09.15-07.12.54:162][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.24ms.
-[2021.09.15-07.12.54:162][  0]LogFileHelpers: Loading map 'Land' took 0.076
-[2021.09.15-07.12.54:165][  0]LogUnrealEdMisc: Total Editor Startup Time, took 73.422
-[2021.09.15-07.12.54:306][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2021.09.15-07.12.54:315][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2021.09.15-07.12.54:323][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2021.09.15-07.12.54:334][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2021.09.15-07.12.54:346][  0]LogCollectionManager: Loaded 0 collections in 0.002354 seconds
-[2021.09.15-07.12.54:364][  0]LogFileCache: Scanning file cache for directory 'C:/Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/Collections/' took 0.00s
-[2021.09.15-07.12.54:364][  0]LogFileCache: Scanning file cache for directory 'C:/Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/Developers/happl/Collections/' took 0.00s
-[2021.09.15-07.12.54:364][  0]LogFileCache: Scanning file cache for directory 'C:/Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/Collections/' took 0.00s
-[2021.09.15-07.12.54:364][  0]LogContentBrowser: Native class hierarchy populated in 0.0118 seconds. Added 3429 classes and 826 folders.
-[2021.09.15-07.12.54:367][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
-[2021.09.15-07.12.54:617][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
-[2021.09.15-07.12.54:622][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 0 folders.
-[2021.09.15-07.12.54:725][  0]LogSlate: Took 0.000837 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2021.09.15-07.12.54:733][  0]LogSlate: Took 0.007107 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
-[2021.09.15-07.12.54:740][  0]LogSlate: Took 0.005286 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
-[2021.09.15-07.12.54:741][  0]LogSlate: Took 0.000838 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2021.09.15-07.12.54:749][  0]LogSlate: Took 0.000847 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2021.09.15-07.12.54:835][  0]LogRenderer: Reallocating scene render targets to support 1120x632 Format 10 NumSamples 1 (Frame:1).
-[2021.09.15-07.12.54:965][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
-[2021.09.15-07.12.54:965][  0]LogLoad: (Engine Initialization) Total time: 74.22 seconds
-[2021.09.15-07.12.54:965][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2021.09.15-07.12.55:029][  0]LogAssetRegistry: Asset discovery search completed in 7.7825 seconds
-[2021.09.15-07.12.55:034][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
-[2021.09.15-07.12.55:036][  0]LogContentStreaming: Texture pool size now 1000 MB
-[2021.09.15-07.12.55:146][  0]LogSlate: Took 0.000857 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2021.09.15-07.12.55:160][  0]LogSlate: Took 0.001181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
-[2021.09.15-07.12.55:168][  0]LogSlate: Took 0.007815 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicExtraBold.ttf' (4074K)
-[2021.09.15-07.12.56:003][ 46]LogSlate: Took 0.000342 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2021.09.15-07.12.57:484][119]LogSlate: Window '메시지 로그' being destroyed
-[2021.09.15-07.12.57:488][119]LogSlate: Window '메시지 로그' being destroyed
-[2021.09.15-07.12.58:716][187]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/BP_MainUI.BP_MainUI
-[2021.09.15-07.12.58:917][187]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 125 classes and 0 folders.
-[2021.09.15-07.13.00:478][187]LogSlate: Took 0.001264 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
-[2021.09.15-07.13.16:440][129]LogSlate: WidgetSwitcher ('None') active index changed to -1
-[2021.09.15-07.13.16:440][129]LogSlate: WidgetSwitcher ('None') active index changed to 0
-[2021.09.15-07.13.18:103][213]LogSlate: WidgetSwitcher ('None') active index changed to 1
-[2021.09.15-07.13.36:252][289]Running C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/GrowWings.uproject" -game -rocket -progress
-[2021.09.15-07.13.36:861][289]Discovering modules, targets and source code for project...
-[2021.09.15-07.13.38:975][289]Binding IntelliSense data...
-[2021.09.15-07.13.42:113][289]Binding IntelliSense data... 100%
-[2021.09.15-07.13.42:113][289]Writing project files...
-[2021.09.15-07.13.47:350][289]Writing project files... 100%
-[2021.09.15-07.13.47:455][289]LogVSAccessor: Warning: Couldn't access Visual Studio
-[2021.09.15-07.13.47:464][289]Candidate modules for hot reload:
-[2021.09.15-07.13.47:464][289]  GrowWings
-[2021.09.15-07.13.47:464][289]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=GrowWings,799 GrowWingsEditor Win64 Development -Project="C:/Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/GrowWings.uproject" "C:/Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/GrowWings.uproject"  -IgnoreJunk]
-[2021.09.15-07.13.53:803][289]CompilerResultsLog: New page: 컴파일 - 2021. 9. 16. 오전 1:13:53
-[2021.09.15-07.13.53:803][289]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\happl\OneDrive\Documents\GitHub\Grow_Wings).
-[2021.09.15-07.13.53:803][289]CompilerResultsLog: Creating makefile for GrowWingsEditor (no existing makefile)
-[2021.09.15-07.13.53:803][289]CompilerResultsLog: Building GrowWingsEditor...
-[2021.09.15-07.13.53:803][289]CompilerResultsLog: Using Visual Studio 2019 14.28.29335 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
-[2021.09.15-07.13.53:803][289]CompilerResultsLog: Building 8 actions with 4 processes...
-[2021.09.15-07.13.53:803][289]CompilerResultsLog:   [1/8] GrowWings.cpp
-[2021.09.15-07.13.53:803][289]CompilerResultsLog:   [2/8] GrowWingsGameModeBase.cpp
-[2021.09.15-07.13.53:803][289]CompilerResultsLog:   [3/8] GrowWings.init.gen.cpp
-[2021.09.15-07.13.53:803][289]CompilerResultsLog:   [4/8] PlayerData.cpp
-[2021.09.15-07.13.53:803][289]CompilerResultsLog:   [5/8] GrowWingsGameModeBase.gen.cpp
-[2021.09.15-07.13.53:803][289]CompilerResultsLog:   [6/8] UE4Editor-GrowWings-0799.lib
-[2021.09.15-07.13.53:803][289]CompilerResultsLog:      C:\Users\happl\OneDrive\Documents\GitHub\Grow_Wings\GrowWings\Intermediate\Build\Win64\UE4Editor\Development\GrowWings\UE4Editor-GrowWings-0799.lib ???̺귯?? ?? C:\Users\happl\OneDrive\Documents\GitHub\Grow_Wings\GrowWings\Intermediate\Build\Win64\UE4Editor\Development\GrowWings\UE4Editor-GrowWings-0799.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
-[2021.09.15-07.13.53:803][289]CompilerResultsLog:   [7/8] UE4Editor-GrowWings-0799.dll
-[2021.09.15-07.13.53:803][289]CompilerResultsLog:      C:\Users\happl\OneDrive\Documents\GitHub\Grow_Wings\GrowWings\Intermediate\Build\Win64\UE4Editor\Development\GrowWings\UE4Editor-GrowWings-0799.suppressed.lib ???̺귯?? ?? C:\Users\happl\OneDrive\Documents\GitHub\Grow_Wings\GrowWings\Intermediate\Build\Win64\UE4Editor\Development\GrowWings\UE4Editor-GrowWings-0799.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
-[2021.09.15-07.13.53:803][289]CompilerResultsLog:   [8/8] GrowWingsEditor.target
-[2021.09.15-07.13.53:803][289]CompilerResultsLog: Total time in Parallel executor: 3.07 seconds
-[2021.09.15-07.13.53:803][289]CompilerResultsLog: Total execution time: 6.19 seconds
-[2021.09.15-07.13.53:803][289]LogMainFrame: MainFrame: Module compiling took 6.349 seconds
-[2021.09.15-07.13.53:826][289]LogContentBrowser: Native class hierarchy populated in 0.0132 seconds. Added 3429 classes and 826 folders.
-[2021.09.15-07.13.53:826][289]Display: HotReload took  6.4s.
-[2021.09.15-07.13.53:826][289]Warning: HotReload operation took  6.4s.
-[2021.09.15-07.13.54:039][289]LogSlate: Window 'C++ 클래스 추가' being destroyed
-[2021.09.15-07.13.54:623][290]LogHotReload: New module detected: UE4Editor-GrowWings-0799.dll
-[2021.09.15-07.13.54:647][291]LogHotReload: Starting Hot-Reload from IDE
-[2021.09.15-07.13.54:726][291]LogContentBrowser: Native class hierarchy updated for 'GrowWings' in 0.0006 seconds. Added 1 classes and 2 folders.
-[2021.09.15-07.13.54:731][291]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
-[2021.09.15-07.13.54:864][291]LogContentBrowser: Native class hierarchy populated in 0.0099 seconds. Added 3429 classes and 826 folders.
-[2021.09.15-07.13.54:868][291]Display: HotReload took  0.2s.
-[2021.09.15-07.16.50:930][767]LogHotReload: New module detected: UE4Editor-GrowWings-0002.dll
-[2021.09.15-07.16.52:607][771]LogHotReload: Starting Hot-Reload from IDE
-[2021.09.15-07.16.52:689][771]LogContentBrowser: Native class hierarchy updated for 'GrowWings' in 0.0005 seconds. Added 1 classes and 2 folders.
-[2021.09.15-07.16.52:697][771]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
-[2021.09.15-07.16.52:971][771]LogContentBrowser: Native class hierarchy populated in 0.0131 seconds. Added 3429 classes and 826 folders.
-[2021.09.15-07.16.52:976][771]Display: HotReload took  0.4s.
-[2021.09.15-08.43.18:278][147]LogRenderer: Reallocating scene render targets to support 1120x660 Format 10 NumSamples 1 (Frame:2062).
-[2021.09.15-08.44.38:043][384]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{3eb23f38-e2b7-4bba-9287-71667334ac0e}.
-[2021.09.15-08.44.38:043][384]LogTemp: Resetting audio stream to device id 
-[2021.09.15-08.44.38:517][384]LogAudioMixer: Display: 0: FrontLeft
-[2021.09.15-08.44.38:517][384]LogAudioMixer: Display: 1: FrontRight
-[2021.09.15-08.44.38:683][385]LogTemp: Resetting audio stream to device id 
-[2021.09.15-08.44.38:720][385]LogAudioMixer: Display: 0: FrontLeft
-[2021.09.15-08.44.38:720][385]LogAudioMixer: Display: 1: FrontRight
-[2021.09.15-08.44.39:697][388]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{046cc6de-b28f-43e3-9596-e94d1cd16cbe}.
-[2021.09.15-08.44.39:697][388]LogTemp: Resetting audio stream to device id 
-[2021.09.15-08.44.40:196][388]LogAudioMixer: Display: 0: FrontLeft
-[2021.09.15-08.44.40:196][388]LogAudioMixer: Display: 1: FrontRight
-[2021.09.15-08.47.06:042][823]LogHttp: Warning: 000001CD1146B900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B120DF90D-408C-59DD-D191-7C8E1A395BDC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=9de648bc40e94b670662499739886417%7C7fcd3065dbe74d018cef09b9f638d8fb%7Cc26a8d64-550b-49b3-9622-9e456636e0ea&AppEnvironment=datacollector-source&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
-[2021.09.15-08.47.06:042][823]LogHttp: Warning: 000001CD1146B900: request failed, libcurl error: 6 (Couldn't resolve host name)
-[2021.09.15-08.47.06:042][823]LogHttp: Warning: 000001CD1146B900: libcurl info message cache 0 (Connection 37 seems to be dead!)
-[2021.09.15-08.47.06:042][823]LogHttp: Warning: 000001CD1146B900: libcurl info message cache 1 (Closing connection 37)
-[2021.09.15-08.47.06:042][823]LogHttp: Warning: 000001CD1146B900: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
-[2021.09.15-08.47.06:042][823]LogHttp: Warning: 000001CD1146B900: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
-[2021.09.15-08.47.06:042][823]LogHttp: Warning: 000001CD1146B900: libcurl info message cache 4 (Closing connection 38)
-[2021.09.15-08.47.06:376][824]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B120DF90D-408C-59DD-D191-7C8E1A395BDC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=9de648bc40e94b670662499739886417%7C7fcd3065dbe74d018cef09b9f638d8fb%7Cc26a8d64-550b-49b3-9622-9e456636e0ea&AppEnvironment=datacollector-source&UploadType=eteventstream
-[2021.09.15-08.49.04:026][170]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{3eb23f38-e2b7-4bba-9287-71667334ac0e}.
-[2021.09.15-08.49.04:026][170]LogTemp: Resetting audio stream to device id 
-[2021.09.15-08.49.04:372][170]LogAudioMixer: Display: 0: FrontLeft
-[2021.09.15-08.49.04:372][170]LogAudioMixer: Display: 1: FrontRight
-[2021.09.15-08.49.10:897][190]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{046cc6de-b28f-43e3-9596-e94d1cd16cbe}.
-[2021.09.15-08.49.10:898][190]LogTemp: Resetting audio stream to device id 
-[2021.09.15-08.49.11:386][190]LogAudioMixer: Display: 0: FrontLeft
-[2021.09.15-08.49.11:386][190]LogAudioMixer: Display: 1: FrontRight
-[2021.09.15-09.04.48:541][322]MapCheck: New page: 맵 체크
-[2021.09.15-09.04.48:559][322]Cmd: MAP REBUILD ALLVISIBLE
-[2021.09.15-09.04.48:560][322]LogEditorServer: Rebuildmap Clear paths rebuilt
-[2021.09.15-09.04.48:565][322]LogWorld: UWorld::CleanupWorld for Land, bSessionEnded=true, bCleanupResources=false
-[2021.09.15-09.04.48:620][322]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
-[2021.09.15-09.04.48:620][322]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
-[2021.09.15-09.04.48:620][322]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
-[2021.09.15-09.04.48:945][322]LogUObjectHash: Compacting FUObjectHashTables data took  10.25ms
-[2021.09.15-09.04.48:973][322]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
-[2021.09.15-09.04.48:980][322]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
-[2021.09.15-09.04.48:982][322]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
-[2021.09.15-09.04.48:985][322]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
-[2021.09.15-09.04.50:425][322]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
-[2021.09.15-09.04.50:426][322]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
-[2021.09.15-09.04.50:426][322]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
-[2021.09.15-09.04.50:426][322]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
-[2021.09.15-09.04.50:426][322]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 4
-[2021.09.15-09.04.50:426][322]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
-[2021.09.15-09.04.50:426][322]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
-[2021.09.15-09.04.50:426][322]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
-[2021.09.15-09.04.50:426][322]TextureStreamingBuild: Display: Compiling optional shaders took 1.462 seconds.
-[2021.09.15-09.04.50:430][322]LogLevel: Display: Export Material TexCoord Scales took 0.004 seconds.
-[2021.09.15-09.04.50:434][322]TextureStreamingBuild: Display: Build Texture Streaming took 0.004 seconds.
-[2021.09.15-09.04.50:499][322]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
-[2021.09.15-09.04.50:504][322]LightingResults: New page: 라이팅 빌드 - 2021. 9. 16. 오전 3:04:50
-[2021.09.15-09.04.50:834][322]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
-[2021.09.15-09.04.51:012][322]LogSwarmInterface: [OpenConnection] Connecting to agent ...
-[2021.09.15-09.04.51:041][322]LogSwarmInterface: [TryOpenConnection] Testing the Agent
-[2021.09.15-09.04.52:096][322]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
-[2021.09.15-09.04.52:097][322]LogSwarmInterface: [TryOpenConnection] Local Process ID is 21480
-[2021.09.15-09.05.01:236][322]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
-[2021.09.15-09.05.01:236][322]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
-[2021.09.15-09.05.01:236][322]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
-[2021.09.15-09.05.01:236][322]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
-[2021.09.15-09.05.01:237][322]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
-[2021.09.15-09.05.01:237][322]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
-[2021.09.15-09.05.01:585][322]Cmd: MAP CHECK DONTDISPLAYDIALOG
-[2021.09.15-09.05.01:586][322]MapCheck: New page: Land - 2021. 9. 16. 오전 3:05:01
-[2021.09.15-09.05.01:586][322]MapCheck: Error: WorldSettings 맵 라이팅을 리빌드해야 합니다. 
-[2021.09.15-09.05.01:587][322]MapCheck: 맵 체크 완료: 오류 1 회, 경고 0 회, 소요 시간 1.63ms.
-[2021.09.15-09.05.01:589][322]LogEditorBuildUtils: Build time 0:13
-[2021.09.15-09.05.02:258][323]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
-[2021.09.15-09.05.04:614][421]Job is a success!
-[2021.09.15-09.05.04:779][422]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.017s
-[2021.09.15-09.05.04:779][422]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
-[2021.09.15-09.05.04:779][422]LogVolumetricLightmapImport:      BrickData (all levels) 0.1Mb
-[2021.09.15-09.05.04:779][422]LogVolumetricLightmapImport:      Bricks at depth
-[2021.09.15-09.05.04:779][422]LogVolumetricLightmapImport:          0: 8.3% covering 100.0% of volume
-[2021.09.15-09.05.04:779][422]LogVolumetricLightmapImport:          1: 8.3% covering 1.6% of volume
-[2021.09.15-09.05.04:779][422]LogVolumetricLightmapImport:          2: 83.3% covering 0.2% of volume
-[2021.09.15-09.05.04:779][422]LogVolumetricLightmapImport:      Bricks in each level
-[2021.09.15-09.05.04:779][422]LogVolumetricLightmapImport:          Land 			 12 bricks 	 100.0% (Persistent Level)
-[2021.09.15-09.05.04:912][422]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_1 (AutoDXT, 512X256)
-[2021.09.15-09.05.04:912][422]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_1 (AutoDXT, 512X512)
-[2021.09.15-09.05.04:912][422]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_1 (DXT1, 512X512)
-[2021.09.15-09.05.04:912][422]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_0 (G8, 512X256)
-[2021.09.15-09.05.04:912][422]LogStaticLightingSystem: Land_BuiltData storing lightmap data for 2 meshes in 1 LightmapResourceClusters (2.0 Meshes per cluster).
-[2021.09.15-09.05.04:912][422]Lightmass on 2WINGS: 1.84 sec total, 167 ms importing, 4 ms setup, 115 ms photons, 813 ms processing, 0 ms extra exporting [2/2 mappings]. Threads: 3.24 sec total, 436 ms processing.
-[2021.09.15-09.05.04:961][422]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
-[2021.09.15-09.05.05:069][422]LogStaticLightingSystem: Illumination: 14.4 sec (67 ms encoding lightmaps, 34 ms encoding shadowmaps)
-[2021.09.15-09.05.05:069][422]LogStaticLightingSystem: Lightmap texture memory:  0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 2 textures
-[2021.09.15-09.05.05:069][422]LogStaticLightingSystem: Shadowmap texture memory: 0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 1 textures
-[2021.09.15-09.05.10:256][422]DumpUnbuiltLightIteractions
-[2021.09.15-09.05.10:256][422]Lights with unbuilt interactions: 0
-[2021.09.15-09.05.10:256][422]
-[2021.09.15-09.05.10:256][422]Primitives with unbuilt interactions: 0
-[2021.09.15-09.05.10:383][423]Cmd: MAP CHECK NOTIFYRESULTS
-[2021.09.15-09.05.10:383][423]MapCheck: New page: Land - 2021. 9. 16. 오전 3:05:10
-[2021.09.15-09.05.10:383][423]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.426ms.
-[2021.09.15-09.05.10:948][451]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
-[2021.09.15-09.05.10:988][451]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/Land_Auto19D9F09D044C8E0FB209784BD34EBC92A.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/Autosaves/Game/Maps/Land_Auto1.umap'
-[2021.09.15-09.05.10:990][451]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Land' took 0.064
-[2021.09.15-09.05.10:990][451]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.064
-[2021.09.15-09.05.11:866][504]LogSlate: Window '메시지 로그' being destroyed
-[2021.09.15-09.05.11:870][504]LogSlate: Window '메시지 로그' being destroyed
-[2021.09.15-09.15.11:506][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
-[2021.09.15-09.15.11:508][ 11]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Land' took 0.034
-[2021.09.15-09.25.11:985][795]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
-[2021.09.15-09.25.11:986][795]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Land' took 0.034
-[2021.09.15-09.35.12:515][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
-[2021.09.15-09.35.12:516][580]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Land' took 0.032
-[2021.09.15-09.45.13:095][366]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
-[2021.09.15-09.45.13:096][366]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Land' took 0.031
-[2021.09.15-09.55.13:658][157]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
-[2021.09.15-09.55.13:659][157]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Land' took 0.062
-[2021.09.15-10.05.14:268][948]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
-[2021.09.15-10.05.14:270][948]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Land' took 0.039
-[2021.09.15-10.15.14:706][736]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
-[2021.09.15-10.15.14:708][736]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Land' took 0.034
-[2021.09.15-10.25.15:385][525]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
-[2021.09.15-10.25.15:386][525]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Land' took 0.034
-[2021.09.15-10.35.15:837][314]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
-[2021.09.15-10.35.15:839][314]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Land' took 0.036
-[2021.09.15-10.42.39:518][667]LogHotReload: New module detected: UE4Editor-GrowWings-0003.dll
-[2021.09.15-10.42.40:539][671]LogHotReload: Starting Hot-Reload from IDE
-[2021.09.15-10.42.40:601][671]LogContentBrowser: Native class hierarchy updated for 'GrowWings' in 0.0026 seconds. Added 1 classes and 2 folders.
-[2021.09.15-10.42.40:605][671]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
-[2021.09.15-10.42.40:794][671]LogContentBrowser: Native class hierarchy populated in 0.0235 seconds. Added 3429 classes and 826 folders.
-[2021.09.15-10.42.40:802][671]Display: HotReload took  0.3s.
-[2021.09.15-10.45.16:916][134]LogUObjectHash: Compacting FUObjectHashTables data took   5.77ms
-[2021.09.15-10.45.16:917][134]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Land' took 0.147
-[2021.09.15-10.55.17:540][916]LogUObjectHash: Compacting FUObjectHashTables data took   5.31ms
-[2021.09.15-10.55.17:542][916]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Land' took 0.102
-[2021.09.15-11.02.00:512][116]LogHotReload: New module detected: UE4Editor-GrowWings-0004.dll
-[2021.09.15-11.03.07:873][317]LogHotReload: New module detected: UE4Editor-GrowWings-0005.dll
-[2021.09.15-11.03.21:023][355]LogHotReload: New module detected: UE4Editor-GrowWings-0006.dll
-[2021.09.15-11.03.22:399][360]LogHotReload: Starting Hot-Reload from IDE
-[2021.09.15-11.03.22:481][360]LogContentBrowser: Native class hierarchy updated for 'GrowWings' in 0.0006 seconds. Added 1 classes and 2 folders.
-[2021.09.15-11.03.22:487][360]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
-[2021.09.15-11.03.22:595][360]LogContentBrowser: Native class hierarchy populated in 0.0114 seconds. Added 3429 classes and 826 folders.
-[2021.09.15-11.03.22:600][360]Display: HotReload took  0.2s.
-[2021.09.15-11.03.31:291][385]LogHotReload: New module detected: UE4Editor-GrowWings-0007.dll
-[2021.09.15-11.03.48:159][435]LogHotReload: New module detected: UE4Editor-GrowWings-0008.dll
-[2021.09.15-11.05.16:406][738]Candidate modules for hot reload:
-[2021.09.15-11.05.16:407][738]  GrowWings
-[2021.09.15-11.05.16:407][738]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=GrowWings,9015 GrowWingsEditor Win64 Development -Project="C:/Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/GrowWings.uproject" "C:/Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/GrowWings.uproject"  -IgnoreJunk]
-[2021.09.15-11.05.16:413][738]Warning: Starting HotReload took  0.1s.
-[2021.09.15-11.05.18:336][788]LogUObjectHash: Compacting FUObjectHashTables data took   5.27ms
-[2021.09.15-11.05.18:337][788]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Land' took 0.092
-[2021.09.15-11.05.34:188][881]CompilerResultsLog: New page: 컴파일 - 2021. 9. 16. 오전 5:05:34
-[2021.09.15-11.05.34:197][881]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\happl\OneDrive\Documents\GitHub\Grow_Wings).
-[2021.09.15-11.05.34:197][881]CompilerResultsLog: Building GrowWingsEditor...
-[2021.09.15-11.05.34:197][881]CompilerResultsLog: Using Visual Studio 2019 14.28.29335 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
-[2021.09.15-11.05.34:197][881]CompilerResultsLog: Building 4 actions with 4 processes...
-[2021.09.15-11.05.34:197][881]CompilerResultsLog:   [1/4] PlayerData.cpp
-[2021.09.15-11.05.34:197][881]CompilerResultsLog:   [2/4] UE4Editor-GrowWings-9015.lib
-[2021.09.15-11.05.34:197][881]CompilerResultsLog:      C:\Users\happl\OneDrive\Documents\GitHub\Grow_Wings\GrowWings\Intermediate\Build\Win64\UE4Editor\Development\GrowWings\UE4Editor-GrowWings-9015.lib ???̺귯?? ?? C:\Users\happl\OneDrive\Documents\GitHub\Grow_Wings\GrowWings\Intermediate\Build\Win64\UE4Editor\Development\GrowWings\UE4Editor-GrowWings-9015.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
-[2021.09.15-11.05.34:197][881]CompilerResultsLog:   [3/4] UE4Editor-GrowWings-9015.dll
-[2021.09.15-11.05.34:197][881]CompilerResultsLog:      C:\Users\happl\OneDrive\Documents\GitHub\Grow_Wings\GrowWings\Intermediate\Build\Win64\UE4Editor\Development\GrowWings\UE4Editor-GrowWings-9015.suppressed.lib ???̺귯?? ?? C:\Users\happl\OneDrive\Documents\GitHub\Grow_Wings\GrowWings\Intermediate\Build\Win64\UE4Editor\Development\GrowWings\UE4Editor-GrowWings-9015.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
-[2021.09.15-11.05.34:197][881]CompilerResultsLog: Error:   PlayerData.cpp.obj : error LNK2001: Ȯ???? ?? ???? ?ܺ? ??ȣ "private: static class PlayerData * PlayerData::playerData_Inst" (?playerData_Inst@PlayerData@@0PEAV1@EA)
-[2021.09.15-11.05.34:197][881]CompilerResultsLog: Error:   C:\Users\happl\OneDrive\Documents\GitHub\Grow_Wings\GrowWings\Binaries\Win64\UE4Editor-GrowWings-9015.dll : fatal error LNK1120: 1???? Ȯ???? ?? ???? ?ܺ? ?????Դϴ?.
-[2021.09.15-11.05.34:201][881]LogMainFrame: MainFrame: Module compiling took 17.794 seconds
-[2021.09.15-11.05.34:201][881]Warning: HotReload failed, recompile failed
-[2021.09.15-11.05.37:878][890]LogSlate: Took 0.006387 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
-[2021.09.15-11.05.37:879][890]LogSlate: Last resort fallback font was requested. Font: '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf', Character: 'ϰ (U+03f0)'
-[2021.09.15-11.05.37:887][890]LogSlate: Took 0.006115 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
-[2021.09.15-11.15.29:782][772]LogUObjectHash: Compacting FUObjectHashTables data took  80.98ms
-[2021.09.15-11.15.29:800][772]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Land' took 0.468
-[2021.09.15-11.25.33:897][375]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
-[2021.09.15-11.25.33:905][375]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Land' took 0.208
-[2021.09.15-11.35.34:995][963]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
-[2021.09.15-11.35.35:008][963]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Land' took 0.382
-[2021.09.15-11.45.36:024][462]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
-[2021.09.15-11.45.36:035][462]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Land' took 0.175
-[2021.09.15-11.55.36:503][156]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
-[2021.09.15-11.55.36:505][156]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Land' took 0.058
-[2021.09.15-11.58.51:541][859]LogSlate: Window '메시지 로그' being destroyed
-[2021.09.15-11.58.51:547][859]LogSlate: Window '메시지 로그' being destroyed
-[2021.09.15-11.59.15:775][196]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
-[2021.09.15-12.05.19:241][841]LogSlate: Window '프로젝트 세팅' being destroyed
-[2021.09.15-12.05.19:245][841]LogSlate: Window '프로젝트 세팅' being destroyed
-[2021.09.15-12.05.37:195][893]LogUObjectHash: Compacting FUObjectHashTables data took  11.48ms
-[2021.09.15-12.05.37:198][893]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Land' took 0.147
-[2021.09.15-12.15.37:595][700]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
-[2021.09.15-12.15.37:596][700]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Land' took 0.074
-[2021.09.15-12.25.38:264][483]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
-[2021.09.15-12.25.38:266][483]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Land' took 0.040
-[2021.09.15-12.35.38:693][332]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
-[2021.09.15-12.35.38:694][332]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Land' took 0.029
+[2021.09.27-10.26.54:283][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.09.27-10.26.54:283][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.09.27-10.26.54:283][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/Config/Windows/Engine.ini]
+[2021.09.27-10.26.54:283][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.09.27-10.26.54:283][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:0]]
+[2021.09.27-10.26.54:283][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2021.09.27-10.26.54:283][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2021.09.27-10.26.54:283][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2021.09.27-10.26.54:283][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2021.09.27-10.26.54:283][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2021.09.27-10.26.54:283][  0]LogConfig: Setting CVar [[r.Mobile.VirtualTextures:0]]
+[2021.09.27-10.26.54:283][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2021.09.27-10.26.54:283][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2021.09.27-10.26.54:283][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2021.09.27-10.26.54:283][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2021.09.27-10.26.54:283][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2021.09.27-10.26.54:283][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2021.09.27-10.26.54:283][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2021.09.27-10.26.54:283][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2021.09.27-10.26.54:283][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
+[2021.09.27-10.26.54:283][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:0]]
+[2021.09.27-10.26.54:283][  0]LogConfig: Setting CVar [[r.VT.TileSize:128]]
+[2021.09.27-10.26.54:283][  0]LogConfig: Setting CVar [[r.VT.TileBorderSize:4]]
+[2021.09.27-10.26.54:283][  0]LogConfig: Setting CVar [[r.vt.FeedbackFactor:16]]
+[2021.09.27-10.26.54:283][  0]LogConfig: Setting CVar [[r.VT.EnableCompressZlib:1]]
+[2021.09.27-10.26.54:283][  0]LogConfig: Setting CVar [[r.VT.EnableCompressCrunch:0]]
+[2021.09.27-10.26.54:283][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2021.09.27-10.26.54:283][  0]LogConfig: Setting CVar [[r.AnisotropicBRDF:0]]
+[2021.09.27-10.26.54:283][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2021.09.27-10.26.54:283][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2021.09.27-10.26.54:283][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2021.09.27-10.26.54:283][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2021.09.27-10.26.54:283][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2021.09.27-10.26.54:283][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2021.09.27-10.26.54:283][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2021.09.27-10.26.54:283][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2021.09.27-10.26.54:283][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2021.09.27-10.26.54:283][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2021.09.27-10.26.54:283][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2021.09.27-10.26.54:283][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2021.09.27-10.26.54:283][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2021.09.27-10.26.54:283][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2021.09.27-10.26.54:283][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2021.09.27-10.26.54:284][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2021.09.27-10.26.54:284][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2021.09.27-10.26.54:284][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2021.09.27-10.26.54:284][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2021.09.27-10.26.54:284][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2021.09.27-10.26.54:284][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2021.09.27-10.26.54:284][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Bias:1.000000]]
+[2021.09.27-10.26.54:284][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2021.09.27-10.26.54:284][  0]LogConfig: Setting CVar [[r.UsePreExposure:1]]
+[2021.09.27-10.26.54:284][  0]LogConfig: Setting CVar [[r.EyeAdaptation.EditorOnly:0]]
+[2021.09.27-10.26.54:284][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2021.09.27-10.26.54:284][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2021.09.27-10.26.54:284][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2021.09.27-10.26.54:284][  0]LogConfig: Setting CVar [[r.SSGI.Enable:0]]
+[2021.09.27-10.26.54:284][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2021.09.27-10.26.54:284][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2021.09.27-10.26.54:284][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2021.09.27-10.26.54:284][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2021.09.27-10.26.54:284][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2021.09.27-10.26.54:284][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2021.09.27-10.26.54:284][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2021.09.27-10.26.54:284][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2021.09.27-10.26.54:284][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2021.09.27-10.26.54:284][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2021.09.27-10.26.54:284][  0]LogConfig: Setting CVar [[r.VertexDeformationOutputsVelocity:0]]
+[2021.09.27-10.26.54:284][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2021.09.27-10.26.54:284][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2021.09.27-10.26.54:284][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2021.09.27-10.26.54:284][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2021.09.27-10.26.54:284][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2021.09.27-10.26.54:284][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2021.09.27-10.26.54:284][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2021.09.27-10.26.54:284][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2021.09.27-10.26.54:284][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2021.09.27-10.26.54:284][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2021.09.27-10.26.54:284][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2021.09.27-10.26.54:284][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2021.09.27-10.26.54:284][  0]LogConfig: Setting CVar [[r.MeshStreaming:0]]
+[2021.09.27-10.26.54:284][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2021.09.27-10.26.54:284][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2021.09.27-10.26.54:284][  0]LogConfig: Setting CVar [[r.RayTracing.UseTextureLod:0]]
+[2021.09.27-10.26.54:284][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2021.09.27-10.26.54:284][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2021.09.27-10.26.54:284][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2021.09.27-10.26.54:284][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2021.09.27-10.26.54:284][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphere:1]]
+[2021.09.27-10.26.54:284][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphereAffectsHeightFog:0]]
+[2021.09.27-10.26.54:284][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2021.09.27-10.26.54:284][  0]LogConfig: Setting CVar [[r.SkinCache.DefaultBehavior:1]]
+[2021.09.27-10.26.54:284][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2021.09.27-10.26.54:284][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2021.09.27-10.26.54:284][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2021.09.27-10.26.54:284][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2021.09.27-10.26.54:284][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2021.09.27-10.26.54:284][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2021.09.27-10.26.54:284][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2021.09.27-10.26.54:284][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2021.09.27-10.26.54:284][  0]LogConfig: Setting CVar [[r.GPUSkin.Support16BitBoneIndex:0]]
+[2021.09.27-10.26.54:284][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2021.09.27-10.26.54:284][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2021.09.27-10.26.54:284][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2021.09.27-10.26.54:284][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2021.09.27-10.26.54:284][  0]LogConfig: Setting CVar [[r.LightPropagationVolume:0]]
+[2021.09.27-10.26.54:284][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/Config/Windows/Engine.ini]
+[2021.09.27-10.26.54:284][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/Config/Windows/Engine.ini]
+[2021.09.27-10.26.54:285][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.09.27-10.26.54:285][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.09.27-10.26.54:285][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.09.27-10.26.54:285][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.09.27-10.26.54:285][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.09.27-10.26.54:285][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.09.27-10.26.54:285][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.09.27-10.26.54:285][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.09.27-10.26.54:285][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.09.27-10.26.54:285][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.09.27-10.26.54:285][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.09.27-10.26.54:285][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.09.27-10.26.54:285][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.09.27-10.26.54:285][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.09.27-10.26.54:285][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/Config/Windows/Engine.ini]
+[2021.09.27-10.26.54:285][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.09.27-10.26.54:285][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.09.27-10.26.54:285][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.09.27-10.26.54:285][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.09.27-10.26.54:285][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.09.27-10.26.54:285][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.09.27-10.26.54:285][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.09.27-10.26.54:285][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.09.27-10.26.54:285][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.09.27-10.26.54:285][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.09.27-10.26.54:285][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.09.27-10.26.54:285][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.09.27-10.26.54:285][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.09.27-10.26.54:285][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/Config/Windows/Engine.ini]
+[2021.09.27-10.26.54:285][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/Config/Windows/Engine.ini]
+[2021.09.27-10.26.54:291][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/Config/Windows/Scalability.ini]
+[2021.09.27-10.26.54:291][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.09.27-10.26.54:291][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.09.27-10.26.54:291][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/Config/Windows/Scalability.ini]
+[2021.09.27-10.26.54:291][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.09.27-10.26.54:291][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/Config/Windows/Scalability.ini]
+[2021.09.27-10.26.54:291][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.09.27-10.26.54:291][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.09.27-10.26.54:291][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.09.27-10.26.54:291][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.09.27-10.26.54:291][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.09.27-10.26.54:291][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.09.27-10.26.54:292][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.09.27-10.26.54:292][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.09.27-10.26.54:292][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.09.27-10.26.54:292][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.09.27-10.26.54:292][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.09.27-10.26.54:292][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.09.27-10.26.54:292][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.09.27-10.26.54:292][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.09.27-10.26.54:292][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.09.27-10.26.54:292][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.09.27-10.26.54:292][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.09.27-10.26.54:292][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.09.27-10.26.54:292][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/Config/Windows/Scalability.ini]
+[2021.09.27-10.26.54:292][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.09.27-10.26.54:292][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.09.27-10.26.54:292][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.09.27-10.26.54:292][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.09.27-10.26.54:292][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.09.27-10.26.54:292][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.09.27-10.26.54:292][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.09.27-10.26.54:292][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.09.27-10.26.54:292][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.09.27-10.26.54:292][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.09.27-10.26.54:292][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.09.27-10.26.54:292][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.09.27-10.26.54:292][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.09.27-10.26.54:292][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.09.27-10.26.54:292][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.09.27-10.26.54:292][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.09.27-10.26.54:292][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.09.27-10.26.54:292][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.09.27-10.26.54:292][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.09.27-10.26.54:292][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.09.27-10.26.54:292][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.09.27-10.26.54:292][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.09.27-10.26.54:292][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.09.27-10.26.54:292][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.09.27-10.26.54:292][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.09.27-10.26.54:292][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.09.27-10.26.54:292][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.09.27-10.26.54:292][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.09.27-10.26.54:292][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.09.27-10.26.54:292][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.09.27-10.26.54:292][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/Config/Windows/Scalability.ini]
+[2021.09.27-10.26.54:292][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.09.27-10.26.54:292][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.09.27-10.26.54:292][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.09.27-10.26.54:292][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.09.27-10.26.54:292][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.09.27-10.26.54:292][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.09.27-10.26.54:292][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.09.27-10.26.54:292][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.09.27-10.26.54:292][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.09.27-10.26.54:292][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/Config/Windows/Scalability.ini]
+[2021.09.27-10.26.54:292][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.09.27-10.26.54:292][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.09.27-10.26.54:292][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.09.27-10.26.54:292][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.09.27-10.26.54:292][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.09.27-10.26.54:292][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.09.27-10.26.54:292][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.09.27-10.26.54:292][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.09.27-10.26.54:292][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.09.27-10.26.54:292][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.09.27-10.26.54:292][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.09.27-10.26.54:292][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.09.27-10.26.54:292][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.09.27-10.26.54:293][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.09.27-10.26.54:293][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.09.27-10.26.54:293][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.09.27-10.26.54:293][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.09.27-10.26.54:293][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.09.27-10.26.54:293][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.09.27-10.26.54:293][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.09.27-10.26.54:293][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.09.27-10.26.54:293][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.09.27-10.26.54:293][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.09.27-10.26.54:293][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.09.27-10.26.54:293][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.09.27-10.26.54:293][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.09.27-10.26.54:293][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/Config/Windows/Scalability.ini]
+[2021.09.27-10.26.54:293][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.09.27-10.26.54:293][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.09.27-10.26.54:293][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/Config/Windows/Scalability.ini]
+[2021.09.27-10.26.54:293][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.09.27-10.26.54:293][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.09.27-10.26.54:293][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.09.27-10.26.54:293][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.09.27-10.26.54:293][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.09.27-10.26.54:293][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.09.27-10.26.54:293][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.09.27-10.26.54:293][  0]LogInit: Selected Device Profile: [Windows]
+[2021.09.27-10.26.54:293][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.09.27-10.26.54:293][  0]LogHAL: Display: Platform has ~ 20 GB [21385142272 / 34359738368 / 20], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.09.27-10.26.54:293][  0]LogInit: Going up to parent DeviceProfile []
+[2021.09.27-10.26.54:293][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/Config/Windows/Scalability.ini]
+[2021.09.27-10.26.54:293][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.09.27-10.26.54:293][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.09.27-10.26.54:293][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/Config/Windows/Scalability.ini]
+[2021.09.27-10.26.54:293][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.09.27-10.26.54:293][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/Config/Windows/Scalability.ini]
+[2021.09.27-10.26.54:293][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.09.27-10.26.54:293][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.09.27-10.26.54:293][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.09.27-10.26.54:293][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.09.27-10.26.54:293][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.09.27-10.26.54:293][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.09.27-10.26.54:293][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.09.27-10.26.54:293][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.09.27-10.26.54:293][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.09.27-10.26.54:293][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.09.27-10.26.54:293][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.09.27-10.26.54:293][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.09.27-10.26.54:293][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.09.27-10.26.54:293][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.09.27-10.26.54:293][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.09.27-10.26.54:293][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.09.27-10.26.54:293][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.09.27-10.26.54:293][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.09.27-10.26.54:293][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/Config/Windows/Scalability.ini]
+[2021.09.27-10.26.54:293][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.09.27-10.26.54:293][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.09.27-10.26.54:293][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.09.27-10.26.54:293][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.09.27-10.26.54:294][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.09.27-10.26.54:294][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.09.27-10.26.54:294][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.09.27-10.26.54:294][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.09.27-10.26.54:294][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.09.27-10.26.54:294][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.09.27-10.26.54:294][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.09.27-10.26.54:294][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.09.27-10.26.54:294][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.09.27-10.26.54:294][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.09.27-10.26.54:294][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.09.27-10.26.54:294][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.09.27-10.26.54:294][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.09.27-10.26.54:294][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.09.27-10.26.54:294][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.09.27-10.26.54:294][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.09.27-10.26.54:294][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.09.27-10.26.54:294][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.09.27-10.26.54:294][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.09.27-10.26.54:294][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.09.27-10.26.54:294][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.09.27-10.26.54:294][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.09.27-10.26.54:294][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.09.27-10.26.54:294][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.09.27-10.26.54:294][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.09.27-10.26.54:294][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.09.27-10.26.54:294][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/Config/Windows/Scalability.ini]
+[2021.09.27-10.26.54:294][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.09.27-10.26.54:294][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.09.27-10.26.54:294][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.09.27-10.26.54:294][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.09.27-10.26.54:294][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.09.27-10.26.54:294][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.09.27-10.26.54:294][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.09.27-10.26.54:294][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.09.27-10.26.54:294][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.09.27-10.26.54:294][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/Config/Windows/Scalability.ini]
+[2021.09.27-10.26.54:294][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.09.27-10.26.54:294][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.09.27-10.26.54:294][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.09.27-10.26.54:294][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.09.27-10.26.54:294][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.09.27-10.26.54:294][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.09.27-10.26.54:294][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.09.27-10.26.54:294][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.09.27-10.26.54:294][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.09.27-10.26.54:294][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.09.27-10.26.54:294][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.09.27-10.26.54:294][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.09.27-10.26.54:294][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.09.27-10.26.54:294][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.09.27-10.26.54:294][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.09.27-10.26.54:294][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.09.27-10.26.54:294][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.09.27-10.26.54:294][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.09.27-10.26.54:294][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.09.27-10.26.54:294][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.09.27-10.26.54:294][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.09.27-10.26.54:294][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.09.27-10.26.54:294][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.09.27-10.26.54:294][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.09.27-10.26.54:294][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.09.27-10.26.54:294][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.09.27-10.26.54:294][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/Config/Windows/Scalability.ini]
+[2021.09.27-10.26.54:294][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.09.27-10.26.54:294][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.09.27-10.26.54:294][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/Config/Windows/Scalability.ini]
+[2021.09.27-10.26.54:295][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.09.27-10.26.54:295][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.09.27-10.26.54:295][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.09.27-10.26.54:295][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.09.27-10.26.54:295][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.09.27-10.26.54:295][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.09.27-10.26.54:295][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.09.27-10.26.54:295][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.09.27-10.26.54:296][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.09.27-10.26.54:296][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.09.27-10.26.54:296][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.09.27-10.26.54:296][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/Config/Windows/Engine.ini]
+[2021.09.27-10.26.54:296][  0]LogInit: Computer: 2WINGS
+[2021.09.27-10.26.54:296][  0]LogInit: User: happl
+[2021.09.27-10.26.54:296][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.09.27-10.26.54:296][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.09.27-10.26.54:296][  0]LogMemory: Memory total: Physical=19.9GB (20GB approx)
+[2021.09.27-10.26.54:296][  0]LogMemory: Platform Memory Stats for Windows
+[2021.09.27-10.26.54:296][  0]LogMemory: Process Physical Memory: 119.72 MB used, 119.73 MB peak
+[2021.09.27-10.26.54:296][  0]LogMemory: Process Virtual Memory: 97.44 MB used, 97.44 MB peak
+[2021.09.27-10.26.54:296][  0]LogMemory: Physical Memory: 8070.92 MB used,  12323.54 MB free, 20394.46 MB total
+[2021.09.27-10.26.54:296][  0]LogMemory: Virtual Memory: 5131.26 MB used,  134212600.00 MB free, 134217728.00 MB total
+[2021.09.27-10.26.54:308][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.09.27-10.26.54:394][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.09.27-10.26.54:396][  0]LogInit: Using OS detected language (ko-KR).
+[2021.09.27-10.26.54:396][  0]LogInit: Using OS detected locale (ko-KR).
+[2021.09.27-10.26.54:408][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2021.09.27-10.26.54:547][  0]LogInit: Setting process to per monitor DPI aware
+[2021.09.27-10.26.54:672][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.09.27-10.26.54:672][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.09.27-10.26.55:030][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.09.27-10.26.55:030][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.09.27-10.26.55:030][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.09.27-10.26.55:030][  0]LogD3D11RHI: D3D11 adapters:
+[2021.09.27-10.26.55:467][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2021.09.27-10.26.55:467][  0]LogD3D11RHI:       4018/0/10197 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.09.27-10.26.55:522][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2021.09.27-10.26.55:522][  0]LogD3D11RHI:       128/0/10197 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.09.27-10.26.55:526][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.09.27-10.26.55:526][  0]LogD3D11RHI:       0/0/10197 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.09.27-10.26.55:526][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.09.27-10.26.55:543][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.09.27-10.26.55:544][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8c (for the marketing name, search the web for "GPU Device Id")
+[2021.09.27-10.26.55:544][  0]LogWindows: EnumDisplayDevices:
+[2021.09.27-10.26.55:544][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2021.09.27-10.26.55:545][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2021.09.27-10.26.55:546][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2021.09.27-10.26.55:547][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:1)
+[2021.09.27-10.26.55:548][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2021.09.27-10.26.55:548][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2021.09.27-10.26.55:548][  0]LogD3D11RHI:   Driver Version: 442.62 (internal:26.21.14.4262, unified:442.62)
+[2021.09.27-10.26.55:548][  0]LogD3D11RHI:      Driver Date: 3-8-2020
+[2021.09.27-10.26.55:548][  0]LogRHI: Texture pool is 2812 MB (70% of 4018 MB)
+[2021.09.27-10.26.55:625][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.09.27-10.26.55:625][  0]LogD3D11RHI: Async texture creation enabled
+[2021.09.27-10.26.55:625][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.09.27-10.26.55:633][  0]LogD3D11RHI: HDR output is supported on display 1 (NvId: 0x80061083).
+[2021.09.27-10.26.55:650][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.09.27-10.26.56:305][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.09.27-10.26.56:338][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.09.27-10.26.56:338][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.09.27-10.26.56:338][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.09.27-10.26.56:338][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.09.27-10.26.56:338][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.09.27-10.26.56:338][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.09.27-10.26.56:338][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.09.27-10.26.56:338][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.09.27-10.26.56:338][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.09.27-10.26.56:338][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.09.27-10.26.56:391][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.09.27-10.26.56:391][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.09.27-10.26.56:421][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.09.27-10.26.56:438][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.09.27-10.26.56:453][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.09.27-10.26.56:472][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.09.27-10.26.56:496][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.09.27-10.26.56:512][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.09.27-10.26.56:533][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.09.27-10.26.56:580][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.09.27-10.26.56:580][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.09.27-10.26.56:605][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.09.27-10.26.56:605][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.09.27-10.26.56:620][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.09.27-10.26.56:635][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.09.27-10.26.56:653][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.09.27-10.26.56:669][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.09.27-10.26.56:669][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.09.27-10.26.56:688][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.09.27-10.26.56:846][  0]LogShaderCompilers: Guid format shader working directory is -31 characters bigger than the processId version (../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Intermediate/Shaders/WorkingDirectory/10952/).
+[2021.09.27-10.26.56:846][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/happl/AppData/Local/Temp/UnrealShaderWorkingDir/F72B50AA48A2DECDE5A81B9263FBD32D/'.
+[2021.09.27-10.26.56:847][  0]LogXGEController: Cleaning working directory: C:/Users/happl/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2021.09.27-10.26.56:847][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.09.27-10.26.56:847][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.09.27-10.26.56:847][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.09.27-10.26.57:992][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.09.27-10.26.58:059][  0]LogDerivedDataCache: Loaded boot cache 0.07s 76MB C:/Users/happl/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.09.27-10.26.58:059][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/happl/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2021.09.27-10.26.58:059][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.09.27-10.26.58:059][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.09.27-10.26.58:060][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.09.27-10.26.58:060][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.09.27-10.26.58:073][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.09.27-10.26.58:073][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.09.27-10.26.58:073][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.09.27-10.26.58:074][  0]LogDerivedDataCache: Using Local data cache path C:/Users/happl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.09.27-10.26.58:074][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.09.27-10.26.58:074][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.09.27-10.26.58:137][  0]LogSlate: Using FreeType 2.10.0
+[2021.09.27-10.26.58:138][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.09.27-10.26.58:219][  0]LogAssetRegistry: FAssetRegistry took 0.0031 seconds to start up
+[2021.09.27-10.26.58:520][  0]LogInit: Selected Device Profile: [Windows]
+[2021.09.27-10.26.58:848][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.09.27-10.26.58:848][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.09.27-10.26.58:848][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.09.27-10.26.58:848][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.09.27-10.26.58:848][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.09.27-10.26.58:878][  0]LogNetVersion: GrowWings 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 2304995152)
+[2021.09.27-10.27.01:351][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (00000231767E69C0), frame # 0
+[2021.09.27-10.27.01:351][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000231766B1080), frame # 0
+[2021.09.27-10.27.01:352][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000231767F6600), frame # 0
+[2021.09.27-10.27.01:418][  0]LogPackageLocalizationCache: Processed 20 localized package path(s) for 1 prioritized culture(s) in 0.057807 seconds
+[2021.09.27-10.27.01:425][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2021.09.27-10.27.01:425][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2021.09.27-10.27.01:425][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.09.27-10.27.02:613][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.09.27-10.27.02:646][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.09.27-10.27.02:894][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2021.09.27-10.27.02:894][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2021.09.27-10.27.02:903][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2021.09.27-10.27.02:911][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2021.09.27-10.27.02:936][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2021.09.27-10.27.03:801][  0]LogTexture: Display: 텍스처 빌드: T_Blockout_Grid (AutoDXT, 2048X2048)
+[2021.09.27-10.27.03:801][  0]LogMaterial: Display: Missing cached shader map for material M_BlockoutTools_Grid, compiling. 
+[2021.09.27-10.27.04:156][  0]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 68
+[2021.09.27-10.27.04:156][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 58
+[2021.09.27-10.27.04:156][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 48
+[2021.09.27-10.27.04:156][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.09.27-10.27.04:211][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.09.27-10.27.04:211][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.09.27-10.27.04:313][  0]LogOcInput: OculusInput pre-init called
+[2021.09.27-10.27.04:342][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.09.27-10.27.04:342][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.09.27-10.27.04:480][  0]LogEngine: Initializing Engine...
+[2021.09.27-10.27.04:482][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.09.27-10.27.04:482][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.09.27-10.27.04:483][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.09.27-10.27.04:661][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.09.27-10.27.04:677][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.09.27-10.27.04:678][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002317E2BBC00), frame # 0
+[2021.09.27-10.27.04:678][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002317E2CF240), frame # 0
+[2021.09.27-10.27.04:691][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.27-10.27.04:691][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.27-10.27.04:691][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.27-10.27.04:691][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.27-10.27.04:691][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.27-10.27.04:691][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.27-10.27.04:691][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.27-10.27.04:691][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.27-10.27.04:691][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.27-10.27.04:691][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.27-10.27.04:737][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.27-10.27.04:737][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.09.27-10.27.04:879][  0]LogAudioMixer: Display: Using Audio Device 스피커(USB Audio Device)
+[2021.09.27-10.27.04:882][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.27-10.27.04:886][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.27-10.27.04:886][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.27-10.27.04:886][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.27-10.27.04:887][  0]LogInit: FAudioDevice initialized.
+[2021.09.27-10.27.04:888][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.09.27-10.27.04:940][  0]LogDerivedDataCache: Saved boot cache 0.05s 79MB C:/Users/happl/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.09.27-10.27.04:940][  0]LogInit: Texture streaming: Enabled
+[2021.09.27-10.27.04:973][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.09.27-10.27.04:973][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.09.27-10.27.04:977][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.09.27-10.27.05:045][  0]LogInit: Transaction tracking system initialized
+[2021.09.27-10.27.05:089][  0]BlueprintLog: New page: 에디터 로드
+[2021.09.27-10.27.05:304][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2021.09.27-10.27.05:614][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.09.27-10.27.05:615][  0]LogCook: Display: Mobile HDR setting 1
+[2021.09.27-10.27.05:845][  0]LogFileCache: Scanning file cache for directory 'C:/Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/' took 0.00s
+[2021.09.27-10.27.05:845][  0]LogStaticMesh: SM_Blockout_Box 스태틱 메시 빌드중...
+[2021.09.27-10.27.05:848][  0]LogStaticMesh: Built static mesh [0.00s] /BlockoutToolsPlugin/Meshes/SM_Blockout_Box.SM_Blockout_Box
+[2021.09.27-10.27.05:870][  0]LogStaticMesh: SM_Blockout_Cone_Q4 스태틱 메시 빌드중...
+[2021.09.27-10.27.05:878][  0]LogStaticMesh: Built static mesh [0.01s] /BlockoutToolsPlugin/Meshes/SM_Blockout_Cone_Q4.SM_Blockout_Cone_Q4
+[2021.09.27-10.27.05:880][  0]LogStaticMesh: SM_Blockout_Cone_Q3 스태틱 메시 빌드중...
+[2021.09.27-10.27.05:887][  0]LogStaticMesh: Built static mesh [0.01s] /BlockoutToolsPlugin/Meshes/SM_Blockout_Cone_Q3.SM_Blockout_Cone_Q3
+[2021.09.27-10.27.05:888][  0]LogStaticMesh: SM_Blockout_Cone_Q2 스태틱 메시 빌드중...
+[2021.09.27-10.27.05:892][  0]LogStaticMesh: Built static mesh [0.00s] /BlockoutToolsPlugin/Meshes/SM_Blockout_Cone_Q2.SM_Blockout_Cone_Q2
+[2021.09.27-10.27.05:893][  0]LogStaticMesh: SM_Blockout_Cone_Q1 스태틱 메시 빌드중...
+[2021.09.27-10.27.05:897][  0]LogStaticMesh: Built static mesh [0.00s] /BlockoutToolsPlugin/Meshes/SM_Blockout_Cone_Q1.SM_Blockout_Cone_Q1
+[2021.09.27-10.27.05:925][  0]LogStaticMesh: SM_Blockout_Curved_Corner_Outer_Q1 스태틱 메시 빌드중...
+[2021.09.27-10.27.05:928][  0]LogStaticMesh: Built static mesh [0.00s] /BlockoutToolsPlugin/Meshes/SM_Blockout_Curved_Corner_Outer_Q1.SM_Blockout_Curved_Corner_Outer_Q1
+[2021.09.27-10.27.05:929][  0]LogStaticMesh: SM_Blockout_Curved_Corner_Inner_Q4 스태틱 메시 빌드중...
+[2021.09.27-10.27.05:933][  0]LogStaticMesh: Built static mesh [0.00s] /BlockoutToolsPlugin/Meshes/SM_Blockout_Curved_Corner_Inner_Q4.SM_Blockout_Curved_Corner_Inner_Q4
+[2021.09.27-10.27.05:934][  0]LogStaticMesh: SM_Blockout_Curved_Corner_Inner_Q3 스태틱 메시 빌드중...
+[2021.09.27-10.27.05:938][  0]LogStaticMesh: Built static mesh [0.00s] /BlockoutToolsPlugin/Meshes/SM_Blockout_Curved_Corner_Inner_Q3.SM_Blockout_Curved_Corner_Inner_Q3
+[2021.09.27-10.27.05:939][  0]LogStaticMesh: SM_Blockout_Curved_Corner_Outer_Q4 스태틱 메시 빌드중...
+[2021.09.27-10.27.05:948][  0]LogStaticMesh: Built static mesh [0.01s] /BlockoutToolsPlugin/Meshes/SM_Blockout_Curved_Corner_Outer_Q4.SM_Blockout_Curved_Corner_Outer_Q4
+[2021.09.27-10.27.05:949][  0]LogStaticMesh: SM_Blockout_Curved_Corner_Outer_Q3 스태틱 메시 빌드중...
+[2021.09.27-10.27.05:952][  0]LogStaticMesh: Built static mesh [0.00s] /BlockoutToolsPlugin/Meshes/SM_Blockout_Curved_Corner_Outer_Q3.SM_Blockout_Curved_Corner_Outer_Q3
+[2021.09.27-10.27.05:953][  0]LogStaticMesh: SM_Blockout_Curved_Corner_Outer_Q2 스태틱 메시 빌드중...
+[2021.09.27-10.27.05:957][  0]LogStaticMesh: Built static mesh [0.00s] /BlockoutToolsPlugin/Meshes/SM_Blockout_Curved_Corner_Outer_Q2.SM_Blockout_Curved_Corner_Outer_Q2
+[2021.09.27-10.27.05:958][  0]LogStaticMesh: SM_Blockout_Curved_Corner_Inner_Q2 스태틱 메시 빌드중...
+[2021.09.27-10.27.05:962][  0]LogStaticMesh: Built static mesh [0.00s] /BlockoutToolsPlugin/Meshes/SM_Blockout_Curved_Corner_Inner_Q2.SM_Blockout_Curved_Corner_Inner_Q2
+[2021.09.27-10.27.05:963][  0]LogStaticMesh: SM_Blockout_Curved_Corner_Inner_Q1 스태틱 메시 빌드중...
+[2021.09.27-10.27.05:967][  0]LogStaticMesh: Built static mesh [0.00s] /BlockoutToolsPlugin/Meshes/SM_Blockout_Curved_Corner_Inner_Q1.SM_Blockout_Curved_Corner_Inner_Q1
+[2021.09.27-10.27.06:001][  0]LogStaticMesh: SM_Blockout_Cylinder_Q4 스태틱 메시 빌드중...
+[2021.09.27-10.27.06:008][  0]LogStaticMesh: Built static mesh [0.01s] /BlockoutToolsPlugin/Meshes/SM_Blockout_Cylinder_Q4.SM_Blockout_Cylinder_Q4
+[2021.09.27-10.27.06:010][  0]LogStaticMesh: SM_Blockout_Cylinder_Q3 스태틱 메시 빌드중...
+[2021.09.27-10.27.06:014][  0]LogStaticMesh: Built static mesh [0.00s] /BlockoutToolsPlugin/Meshes/SM_Blockout_Cylinder_Q3.SM_Blockout_Cylinder_Q3
+[2021.09.27-10.27.06:015][  0]LogStaticMesh: SM_Blockout_Cylinder_Q2 스태틱 메시 빌드중...
+[2021.09.27-10.27.06:019][  0]LogStaticMesh: Built static mesh [0.00s] /BlockoutToolsPlugin/Meshes/SM_Blockout_Cylinder_Q2.SM_Blockout_Cylinder_Q2
+[2021.09.27-10.27.06:020][  0]LogStaticMesh: SM_Blockout_Cylinder_Q1 스태틱 메시 빌드중...
+[2021.09.27-10.27.06:022][  0]LogStaticMesh: Built static mesh [0.00s] /BlockoutToolsPlugin/Meshes/SM_Blockout_Cylinder_Q1.SM_Blockout_Cylinder_Q1
+[2021.09.27-10.27.06:143][  0]LogStaticMesh: SM_Blockout_Ramp 스태틱 메시 빌드중...
+[2021.09.27-10.27.06:146][  0]LogStaticMesh: Built static mesh [0.00s] /BlockoutToolsPlugin/Meshes/SM_Blockout_Ramp.SM_Blockout_Ramp
+[2021.09.27-10.27.06:167][  0]LogStaticMesh: SM_Blockout_Box_Right 스태틱 메시 빌드중...
+[2021.09.27-10.27.06:169][  0]LogStaticMesh: Built static mesh [0.00s] /BlockoutToolsPlugin/Meshes/SM_Blockout_Box_Right.SM_Blockout_Box_Right
+[2021.09.27-10.27.06:170][  0]LogStaticMesh: SM_Blockout_Box_Centered 스태틱 메시 빌드중...
+[2021.09.27-10.27.06:172][  0]LogStaticMesh: Built static mesh [0.00s] /BlockoutToolsPlugin/Meshes/SM_Blockout_Box_Centered.SM_Blockout_Box_Centered
+[2021.09.27-10.27.06:200][  0]LogStaticMesh: SM_Blockout_Sphere_Q4 스태틱 메시 빌드중...
+[2021.09.27-10.27.06:231][  0]LogStaticMesh: Built static mesh [0.03s] /BlockoutToolsPlugin/Meshes/SM_Blockout_Sphere_Q4.SM_Blockout_Sphere_Q4
+[2021.09.27-10.27.06:241][  0]LogStaticMesh: SM_Blockout_Sphere_Q3 스태틱 메시 빌드중...
+[2021.09.27-10.27.06:253][  0]LogStaticMesh: Built static mesh [0.01s] /BlockoutToolsPlugin/Meshes/SM_Blockout_Sphere_Q3.SM_Blockout_Sphere_Q3
+[2021.09.27-10.27.06:258][  0]LogStaticMesh: SM_Blockout_Sphere_Q2 스태틱 메시 빌드중...
+[2021.09.27-10.27.06:267][  0]LogStaticMesh: Built static mesh [0.01s] /BlockoutToolsPlugin/Meshes/SM_Blockout_Sphere_Q2.SM_Blockout_Sphere_Q2
+[2021.09.27-10.27.06:271][  0]LogStaticMesh: SM_Blockout_Sphere_Q1 스태틱 메시 빌드중...
+[2021.09.27-10.27.06:275][  0]LogStaticMesh: Built static mesh [0.00s] /BlockoutToolsPlugin/Meshes/SM_Blockout_Sphere_Q1.SM_Blockout_Sphere_Q1
+[2021.09.27-10.27.06:337][  0]LogStaticMesh: SM_Blockout_Step_Sloped_Centered 스태틱 메시 빌드중...
+[2021.09.27-10.27.06:340][  0]LogStaticMesh: Built static mesh [0.00s] /BlockoutToolsPlugin/Meshes/SM_Blockout_Step_Sloped_Centered.SM_Blockout_Step_Sloped_Centered
+[2021.09.27-10.27.06:341][  0]LogStaticMesh: SM_Blockout_Step_Box_Centered 스태틱 메시 빌드중...
+[2021.09.27-10.27.06:343][  0]LogStaticMesh: Built static mesh [0.00s] /BlockoutToolsPlugin/Meshes/SM_Blockout_Step_Box_Centered.SM_Blockout_Step_Box_Centered
+[2021.09.27-10.27.06:377][  0]LogStaticMesh: SM_Blockout_Step_Sloped_Linear 스태틱 메시 빌드중...
+[2021.09.27-10.27.06:380][  0]LogStaticMesh: Built static mesh [0.00s] /BlockoutToolsPlugin/Meshes/SM_Blockout_Step_Sloped_Linear.SM_Blockout_Step_Sloped_Linear
+[2021.09.27-10.27.06:381][  0]LogStaticMesh: SM_Blockout_Step_Box 스태틱 메시 빌드중...
+[2021.09.27-10.27.06:383][  0]LogStaticMesh: Built static mesh [0.00s] /BlockoutToolsPlugin/Meshes/SM_Blockout_Step_Box.SM_Blockout_Step_Box
+[2021.09.27-10.27.07:231][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2021.09.27-10.27.07:231][  0]LogUnrealEdMisc: Loading editor; pre map load, took 16.237
+[2021.09.27-10.27.07:231][  0]Cmd: MAP LOAD FILE="../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/Maps/Land.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.09.27-10.27.07:232][  0]LightingResults: New page: 라이팅 빌드
+[2021.09.27-10.27.07:233][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.09.27-10.27.07:234][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.27-10.27.07:234][  0]MapCheck: New page: 맵 체크
+[2021.09.27-10.27.07:234][  0]LightingResults: New page: 라이팅 빌드
+[2021.09.27-10.27.07:274][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002317E2BBC00), frame # 0
+[2021.09.27-10.27.07:274][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002317E2CF240), frame # 0
+[2021.09.27-10.27.07:277][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2021.09.27-10.27.07:329][  0]LogAIModule: Creating AISystem for world Land
+[2021.09.27-10.27.07:330][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000231085D5400), frame # 0
+[2021.09.27-10.27.07:330][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002317DC21300), frame # 0
+[2021.09.27-10.27.07:334][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.09.27-10.27.10:094][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2021.09.27-10.27.10:094][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.09.27-10.27.10:095][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.281ms.
+[2021.09.27-10.27.10:095][  0]LogFileHelpers: Loading map 'Land' took 2.864
+[2021.09.27-10.27.10:098][  0]LogUnrealEdMisc: Total Editor Startup Time, took 19.104
+[2021.09.27-10.27.10:247][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.27-10.27.10:258][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.27-10.27.10:268][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.27-10.27.10:278][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.27-10.27.10:292][  0]LogCollectionManager: Loaded 0 collections in 0.002053 seconds
+[2021.09.27-10.27.10:313][  0]LogFileCache: Scanning file cache for directory 'C:/Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/Collections/' took 0.00s
+[2021.09.27-10.27.10:313][  0]LogFileCache: Scanning file cache for directory 'C:/Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/Developers/happl/Collections/' took 0.00s
+[2021.09.27-10.27.10:313][  0]LogFileCache: Scanning file cache for directory 'C:/Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/Collections/' took 0.00s
+[2021.09.27-10.27.10:313][  0]LogContentBrowser: Native class hierarchy populated in 0.0130 seconds. Added 3430 classes and 827 folders.
+[2021.09.27-10.27.10:317][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2021.09.27-10.27.10:501][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2021.09.27-10.27.10:509][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 2 classes and 0 folders.
+[2021.09.27-10.27.10:563][  0]LogSlate: Took 0.000273 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.09.27-10.27.10:568][  0]LogSlate: Took 0.003784 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2021.09.27-10.27.10:572][  0]LogSlate: Took 0.002547 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2021.09.27-10.27.10:572][  0]LogSlate: Took 0.000253 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.09.27-10.27.10:578][  0]LogSlate: Took 0.000286 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.09.27-10.27.10:675][  0]LogRenderer: Reallocating scene render targets to support 1496x888 Format 10 NumSamples 1 (Frame:1).
+[2021.09.27-10.27.10:967][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.09.27-10.27.10:967][  0]LogLoad: (Engine Initialization) Total time: 19.97 seconds
+[2021.09.27-10.27.10:967][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.09.27-10.27.11:025][  0]LogAssetRegistry: Asset discovery search completed in 12.8075 seconds
+[2021.09.27-10.27.11:031][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2021.09.27-10.27.11:033][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.09.27-10.27.11:065][  0]LogSlate: Took 0.000298 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.09.27-10.27.12:021][ 55]LogSlate: Took 0.000231 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.09.27-10.27.13:609][128]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 38
+[2021.09.27-10.27.14:374][169]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/BP_UpgradeUI.BP_UpgradeUI
+[2021.09.27-10.27.14:760][169]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 125 classes and 0 folders.
+[2021.09.27-10.27.16:032][169]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 28
+[2021.09.27-10.27.16:032][169]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 18
+[2021.09.27-10.27.16:724][169]LogSlate: Took 0.000305 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.09.27-10.27.21:666][398]LogSlate: Window 'BP_UpgradeUI' being destroyed
+[2021.09.27-10.27.29:273][798]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/BP_MainUI.BP_MainUI
+[2021.09.27-10.27.31:596][891]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2021.09.27-10.27.33:072][977]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2021.09.27-10.27.35:193][ 96]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 4
+[2021.09.27-10.27.37:206][214]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.09.27-10.27.38:415][285]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.27-10.28.22:649][881]LogEditorTransaction: Undo Justification 편집
+[2021.09.27-10.28.26:500][ 94]BlueprintLog: New page: BP_UpgradeUI 컴파일
+[2021.09.27-10.28.26:569][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2021.09.27-10.28.26:621][ 94]LogSlate: Took 0.000266 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.09.27-10.28.26:623][ 94]LogSlate: Took 0.001972 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicExtraBold.ttf' (4074K)
+[2021.09.27-10.28.27:836][166]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/BP_UpgradeUI" FILE="../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_UpgradeUI.uasset" SILENT=true
+[2021.09.27-10.28.27:875][166]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/BP_UpgradeUI56E7AA224AF90F00F7FB72BDB88B2C4E.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_UpgradeUI.uasset'
+[2021.09.27-10.28.27:893][166]AssetCheck: New page: 애셋 저장: BP_UpgradeUI
+[2021.09.27-10.28.27:893][166]LogContentValidation: Display: WidgetBlueprint /Game/UI/BP_UpgradeUI.BP_UpgradeUI 유효성 검사
+[2021.09.27-10.28.34:566][554]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 2/1 Pages; frames since last flush: 4554
+[2021.09.27-10.28.34:567][554]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.27-10.28.34:578][555]LogSlate: Took 0.000366 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.09.27-10.28.34:580][555]LogSlate: Took 0.000295 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.09.27-10.28.34:583][555]LogSlate: Took 0.002436 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2021.09.27-10.28.34:587][555]LogSlate: Took 0.002154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2021.09.27-10.28.34:589][555]LogSlate: Took 0.000274 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.09.27-10.28.34:591][555]LogSlate: Took 0.000974 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.09.27-10.28.34:594][555]LogSlate: Took 0.000272 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.09.27-10.28.34:598][555]LogSlate: Took 0.000232 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.09.27-10.28.34:600][555]LogSlate: Took 0.001719 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicExtraBold.ttf' (4074K)
+[2021.09.27-10.29.52:907][213]BlueprintLog: New page: BP_MainUI 컴파일
+[2021.09.27-10.29.52:955][213]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2021.09.27-10.29.53:526][240]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/BP_MainUI" FILE="../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_MainUI.uasset" SILENT=true
+[2021.09.27-10.29.53:563][240]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/BP_MainUIF6A31AEE493AB3E5343683B244139783.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_MainUI.uasset'
+[2021.09.27-10.29.53:580][240]AssetCheck: New page: 애셋 저장: BP_MainUI
+[2021.09.27-10.29.53:580][240]LogContentValidation: Display: WidgetBlueprint /Game/UI/BP_MainUI.BP_MainUI 유효성 검사
+[2021.09.27-10.29.54:053][268]LogSlate: Took 0.000220 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
