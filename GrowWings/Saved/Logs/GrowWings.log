@@ -2485,3 +2485,484 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.28-03.00.51:218][ 17]LogContentValidation: Display: WidgetBlueprint /Game/UI/BP_MainUI.BP_MainUI 유효성 검사
 [2021.09.28-03.00.51:573][ 32]LogSlate: Took 0.000212 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2021.09.28-03.04.36:417][758]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (MainCamera)
+[2021.09.28-03.17.51:349][155]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.09.28-03.17.55:547][164]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.09.28-04.35.58:024][350]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{3eb23f38-e2b7-4bba-9287-71667334ac0e}.
+[2021.09.28-04.35.58:024][350]LogTemp: Resetting audio stream to device id 
+[2021.09.28-04.35.58:564][350]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.28-04.35.58:564][350]LogAudioMixer: Display: 1: FrontRight
+[2021.09.28-04.35.58:691][351]LogTemp: Resetting audio stream to device id 
+[2021.09.28-04.35.58:757][351]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.28-04.35.58:757][351]LogAudioMixer: Display: 1: FrontRight
+[2021.09.28-04.36.11:513][389]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{046cc6de-b28f-43e3-9596-e94d1cd16cbe}.
+[2021.09.28-04.36.11:513][389]LogTemp: Resetting audio stream to device id 
+[2021.09.28-04.36.12:157][389]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.28-04.36.12:157][389]LogAudioMixer: Display: 1: FrontRight
+[2021.09.28-04.41.48:757][390]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{3eb23f38-e2b7-4bba-9287-71667334ac0e}.
+[2021.09.28-04.41.48:757][390]LogTemp: Resetting audio stream to device id 
+[2021.09.28-04.41.49:208][390]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.28-04.41.49:208][390]LogAudioMixer: Display: 1: FrontRight
+[2021.09.28-04.41.49:367][391]LogTemp: Resetting audio stream to device id 
+[2021.09.28-04.41.49:419][391]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.28-04.41.49:419][391]LogAudioMixer: Display: 1: FrontRight
+[2021.09.28-04.41.57:789][416]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{046cc6de-b28f-43e3-9596-e94d1cd16cbe}.
+[2021.09.28-04.41.57:789][416]LogTemp: Resetting audio stream to device id 
+[2021.09.28-04.41.58:632][416]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.28-04.41.58:632][416]LogAudioMixer: Display: 1: FrontRight
+[2021.09.28-04.41.58:748][417]LogTemp: Resetting audio stream to device id 
+[2021.09.28-04.41.58:785][417]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.28-04.41.58:785][417]LogAudioMixer: Display: 1: FrontRight
+[2021.09.28-04.58.21:493][337]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{3eb23f38-e2b7-4bba-9287-71667334ac0e}.
+[2021.09.28-04.58.21:493][337]LogTemp: Resetting audio stream to device id 
+[2021.09.28-04.58.22:128][337]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.28-04.58.22:128][337]LogAudioMixer: Display: 1: FrontRight
+[2021.09.28-04.58.22:224][338]LogTemp: Resetting audio stream to device id 
+[2021.09.28-04.58.22:263][338]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.28-04.58.22:263][338]LogAudioMixer: Display: 1: FrontRight
+[2021.09.28-04.58.29:601][360]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{046cc6de-b28f-43e3-9596-e94d1cd16cbe}.
+[2021.09.28-04.58.29:601][360]LogTemp: Resetting audio stream to device id 
+[2021.09.28-04.58.30:216][360]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.28-04.58.30:216][360]LogAudioMixer: Display: 1: FrontRight
+[2021.09.28-05.16.13:871][888]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\happl\OneDrive\Documents\GitHub\Grow_Wings\UI icons\AutoUpgrade_Off.png)
+[2021.09.28-05.16.13:893][888]LogTexture: Display: 텍스처 빌드: AutoUpgrade_Off (AutoDXT, 600X600)
+[2021.09.28-05.16.17:913][939]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\happl\OneDrive\Documents\GitHub\Grow_Wings\UI icons\AutoUpgrade_On.png)
+[2021.09.28-05.16.17:927][939]LogTexture: Display: 텍스처 빌드: AutoUpgrade_On (AutoDXT, 600X600)
+[2021.09.28-05.16.20:100][946]LogUObjectHash: Compacting FUObjectHashTables data took  16.27ms
+[2021.09.28-05.16.21:506][946]LogSlate: Window '콘텐츠 저장' being destroyed
+[2021.09.28-05.16.21:553][946]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Icons/AutoUpgrade_Off" FILE="../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/Icons/AutoUpgrade_Off.uasset" SILENT=true
+[2021.09.28-05.16.21:577][946]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/AutoUpgrade_Off91F787B64395848E4D68D3BF54F55429.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/Icons/AutoUpgrade_Off.uasset'
+[2021.09.28-05.16.21:584][946]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Icons/AutoUpgrade_On" FILE="../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/Icons/AutoUpgrade_On.uasset" SILENT=true
+[2021.09.28-05.16.21:605][946]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/AutoUpgrade_On6D4095C644FCE1B822635AA37133EF05.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/Icons/AutoUpgrade_On.uasset'
+[2021.09.28-05.16.21:637][946]AssetCheck: New page: 애셋 저장: 애셋이 다수입니다.
+[2021.09.28-05.16.21:638][946]LogContentValidation: Display: Texture2D /Game/Icons/AutoUpgrade_Off.AutoUpgrade_Off 유효성 검사
+[2021.09.28-05.16.21:638][946]LogContentValidation: Display: Texture2D /Game/Icons/AutoUpgrade_On.AutoUpgrade_On 유효성 검사
+[2021.09.28-05.17.26:150][676]LogEditorTransaction: Undo 위젯 크기조정
+[2021.09.28-05.22.47:003][ 56]BlueprintLog: New page: BP_UpgradeUI 컴파일
+[2021.09.28-05.22.47:076][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   7.69ms
+[2021.09.28-05.22.47:766][ 85]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/BP_UpgradeUI" FILE="../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_UpgradeUI.uasset" SILENT=true
+[2021.09.28-05.22.47:816][ 85]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/BP_UpgradeUI4EC4E3324A3344E81BF182AA3497CD8C.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_UpgradeUI.uasset'
+[2021.09.28-05.22.47:835][ 85]AssetCheck: New page: 애셋 저장: BP_UpgradeUI
+[2021.09.28-05.22.47:835][ 85]LogContentValidation: Display: WidgetBlueprint /Game/UI/BP_UpgradeUI.BP_UpgradeUI 유효성 검사
+[2021.09.28-05.23.06:979][203]BlueprintLog: New page: BP_UpgradeUI 컴파일
+[2021.09.28-05.23.07:033][203]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2021.09.28-05.23.07:531][221]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/BP_UpgradeUI" FILE="../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_UpgradeUI.uasset" SILENT=true
+[2021.09.28-05.23.07:576][221]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/BP_UpgradeUI4B9420BB433DC9F32109BEA4FA313794.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_UpgradeUI.uasset'
+[2021.09.28-05.23.07:593][221]AssetCheck: New page: 애셋 저장: BP_UpgradeUI
+[2021.09.28-05.23.07:593][221]LogContentValidation: Display: WidgetBlueprint /Game/UI/BP_UpgradeUI.BP_UpgradeUI 유효성 검사
+[2021.09.28-05.23.08:433][268]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2021.09.28-05.23.08:455][268]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.28-05.23.08:455][268]PIE: New page: PIE 세션: Land (2021. 9. 28. 오후 11:23:08)
+[2021.09.28-05.23.08:456][268]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Land
+[2021.09.28-05.23.08:462][268]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005713s)
+[2021.09.28-05.23.08:463][268]LogAIModule: Creating AISystem for world Land
+[2021.09.28-05.23.08:464][268]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002317FCC2200), frame # 509268
+[2021.09.28-05.23.08:464][268]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000231BC959300), frame # 509268
+[2021.09.28-05.23.08:464][268]LogPlayLevel: PIE: World Init took: (0.002044s)
+[2021.09.28-05.23.08:464][268]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Land.Land to /Game/Maps/UEDPIE_0_Land.Land (0.007970s)
+[2021.09.28-05.23.08:504][268]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2021.09.28-05.23.08:507][268]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.28-05.23.08:507][268]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.28-05.23.08:507][268]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.28-05.23.08:507][268]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.28-05.23.08:507][268]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.28-05.23.08:507][268]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.28-05.23.08:507][268]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.28-05.23.08:507][268]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.28-05.23.08:508][268]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.28-05.23.08:508][268]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.28-05.23.08:529][268]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.28-05.23.08:529][268]LogAudioMixer: Display: 1: FrontRight
+[2021.09.28-05.23.08:644][268]LogAudioMixer: Display: Using Audio Device 스피커(USB Audio Device)
+[2021.09.28-05.23.08:649][268]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.28-05.23.08:649][268]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.28-05.23.08:649][268]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.28-05.23.08:653][268]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.28-05.23.08:666][268]LogInit: FAudioDevice initialized.
+[2021.09.28-05.23.08:712][268]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.28-05.23.08:713][268]LogLoad: Game class is 'GameModeBase'
+[2021.09.28-05.23.08:714][268]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Land.Land up for play (max tick rate 60) at 2021.09.28-14.23.08
+[2021.09.28-05.23.08:715][268]LogWorld: Bringing up level for play took: 0.001335
+[2021.09.28-05.23.08:715][268]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2021.09.28-05.23.08:718][268]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.09.28-05.23.08:728][268]PIE: 서버가 로그인했습니다.
+[2021.09.28-05.23.08:729][268]PIE: 에디터에서 플레이 총 시작 시간 0.276초입니다.
+[2021.09.28-05.23.10:693][371]LogBlueprintUserMessages: [BP_MainUI_C_0] cilked Upgrade
+[2021.09.28-05.23.18:625][530]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 2/1 Pages; frames since last flush: 72986
+[2021.09.28-05.23.18:641][530]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.28-05.23.18:675][530]LogSlate: Took 0.000544 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.09.28-05.23.18:685][530]LogSlate: Took 0.009303 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2021.09.28-05.23.44:205][530]LogSlate: Took 0.000685 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.09.28-05.23.44:214][530]LogSlate: Took 0.009322 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2021.09.28-05.23.44:215][530]LogSlate: Took 0.000663 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.09.28-05.23.44:217][530]LogSlate: Took 0.000257 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.09.28-05.23.44:222][530]LogSlate: Took 0.000536 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.09.28-05.23.44:227][530]LogSlate: Took 0.000307 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.09.28-05.23.44:237][530]LogSlate: Took 0.009389 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicExtraBold.ttf' (4074K)
+[2021.09.28-05.23.45:745][608]LogSlate: Window 'GrowWings 프리뷰 [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.09.28-05.23.45:759][608]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Land
+[2021.09.28-05.23.45:759][608]LogWorld: UWorld::CleanupWorld for Land, bSessionEnded=true, bCleanupResources=true
+[2021.09.28-05.23.45:759][608]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.28-05.23.45:775][608]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.28-05.23.45:780][608]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.28-05.23.45:856][608]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000231BC959300), frame # 509608
+[2021.09.28-05.23.45:856][608]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002317FCC2200), frame # 509608
+[2021.09.28-05.23.45:860][608]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2021.09.28-05.23.45:897][609]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2021.09.28-05.25.05:588][183]BlueprintLog: New page: BP_UpgradeUI 컴파일
+[2021.09.28-05.25.05:648][183]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2021.09.28-05.25.06:318][209]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/BP_UpgradeUI" FILE="../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_UpgradeUI.uasset" SILENT=true
+[2021.09.28-05.25.06:364][209]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/BP_UpgradeUI288BD68E4763517792D094ABF1E42BE6.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_UpgradeUI.uasset'
+[2021.09.28-05.25.06:384][209]AssetCheck: New page: 애셋 저장: BP_UpgradeUI
+[2021.09.28-05.25.06:384][209]LogContentValidation: Display: WidgetBlueprint /Game/UI/BP_UpgradeUI.BP_UpgradeUI 유효성 검사
+[2021.09.28-05.26.04:523][542]LogEditorTransaction: Undo Draw As 편집
+[2021.09.28-05.26.05:043][554]Cmd: TRANSACTION UNDO
+[2021.09.28-05.26.05:043][554]LogEditorTransaction: Undo Image 편집
+[2021.09.28-05.26.05:848][597]Cmd: TRANSACTION UNDO
+[2021.09.28-05.26.05:848][597]LogEditorTransaction: Undo Draw As 편집
+[2021.09.28-05.26.13:273][ 33]BlueprintLog: New page: BP_MainUI 컴파일
+[2021.09.28-05.26.13:325][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2021.09.28-05.26.14:126][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/BP_MainUI" FILE="../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_MainUI.uasset" SILENT=true
+[2021.09.28-05.26.14:172][ 69]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/BP_MainUICDD4B282444D6F6DDF56319111C0E65B.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_MainUI.uasset'
+[2021.09.28-05.26.14:193][ 69]AssetCheck: New page: 애셋 저장: BP_MainUI
+[2021.09.28-05.26.14:193][ 69]LogContentValidation: Display: WidgetBlueprint /Game/UI/BP_MainUI.BP_MainUI 유효성 검사
+[2021.09.28-05.26.30:422][941]BlueprintLog: New page: BP_UpgradeUI 컴파일
+[2021.09.28-05.26.30:473][941]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2021.09.28-05.26.31:242][965]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/BP_UpgradeUI" FILE="../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_UpgradeUI.uasset" SILENT=true
+[2021.09.28-05.26.31:287][965]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/BP_UpgradeUIF40A38BB4AADDC3C4CA624B3C1FCC380.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_UpgradeUI.uasset'
+[2021.09.28-05.26.31:303][965]AssetCheck: New page: 애셋 저장: BP_UpgradeUI
+[2021.09.28-05.26.31:303][965]LogContentValidation: Display: WidgetBlueprint /Game/UI/BP_UpgradeUI.BP_UpgradeUI 유효성 검사
+[2021.09.28-05.26.34:040][123]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/BP_MainUI" FILE="../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_MainUI.uasset" SILENT=true
+[2021.09.28-05.26.34:081][123]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/BP_MainUI7CC93A1E454B5B54D82642B957A325CC.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_MainUI.uasset'
+[2021.09.28-05.26.34:094][123]AssetCheck: New page: 애셋 저장: BP_MainUI
+[2021.09.28-05.26.34:094][123]LogContentValidation: Display: WidgetBlueprint /Game/UI/BP_MainUI.BP_MainUI 유효성 검사
+[2021.09.28-05.26.34:465][143]LogSlate: Took 0.000242 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.09.28-05.26.55:835][389]BlueprintLog: New page: BP_UpgradeUI 컴파일
+[2021.09.28-05.26.55:885][389]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2021.09.28-05.26.56:420][411]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/BP_UpgradeUI" FILE="../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_UpgradeUI.uasset" SILENT=true
+[2021.09.28-05.26.56:471][411]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/BP_UpgradeUI854121984E61D08CCADA609FFEAC98C6.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_UpgradeUI.uasset'
+[2021.09.28-05.26.56:486][411]AssetCheck: New page: 애셋 저장: BP_UpgradeUI
+[2021.09.28-05.26.56:486][411]LogContentValidation: Display: WidgetBlueprint /Game/UI/BP_UpgradeUI.BP_UpgradeUI 유효성 검사
+[2021.09.28-05.27.48:862][521]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2021.09.28-05.27.48:884][521]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.28-05.27.48:884][521]PIE: New page: PIE 세션: Land (2021. 9. 28. 오후 11:27:48)
+[2021.09.28-05.27.48:885][521]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Land
+[2021.09.28-05.27.48:890][521]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004951s)
+[2021.09.28-05.27.48:891][521]LogAIModule: Creating AISystem for world Land
+[2021.09.28-05.27.48:891][521]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000232388A7E00), frame # 523521
+[2021.09.28-05.27.48:891][521]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000231075AD800), frame # 523521
+[2021.09.28-05.27.48:891][521]LogPlayLevel: PIE: World Init took: (0.001752s)
+[2021.09.28-05.27.48:891][521]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Land.Land to /Game/Maps/UEDPIE_0_Land.Land (0.006866s)
+[2021.09.28-05.27.48:930][521]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2021.09.28-05.27.48:932][521]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.28-05.27.48:932][521]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.28-05.27.48:932][521]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.28-05.27.48:932][521]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.28-05.27.48:932][521]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.28-05.27.48:932][521]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.28-05.27.48:932][521]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.28-05.27.48:932][521]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.28-05.27.48:933][521]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.28-05.27.48:933][521]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.28-05.27.48:950][521]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.28-05.27.48:950][521]LogAudioMixer: Display: 1: FrontRight
+[2021.09.28-05.27.49:059][521]LogAudioMixer: Display: Using Audio Device 스피커(USB Audio Device)
+[2021.09.28-05.27.49:060][521]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.28-05.27.49:060][521]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.28-05.27.49:060][521]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.28-05.27.49:062][521]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.28-05.27.49:083][521]LogInit: FAudioDevice initialized.
+[2021.09.28-05.27.49:115][521]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.28-05.27.49:115][521]LogLoad: Game class is 'GameModeBase'
+[2021.09.28-05.27.49:117][521]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Land.Land up for play (max tick rate 60) at 2021.09.28-14.27.49
+[2021.09.28-05.27.49:117][521]LogWorld: Bringing up level for play took: 0.001091
+[2021.09.28-05.27.49:117][521]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2021.09.28-05.27.49:119][521]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.09.28-05.27.49:128][521]PIE: 서버가 로그인했습니다.
+[2021.09.28-05.27.49:129][521]PIE: 에디터에서 플레이 총 시작 시간 0.25초입니다.
+[2021.09.28-05.27.50:711][600]LogBlueprintUserMessages: [BP_MainUI_C_0] cilked Upgrade
+[2021.09.28-05.28.30:018][858]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.28-05.28.30:018][858]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Land
+[2021.09.28-05.28.30:018][858]LogSlate: Window 'GrowWings 프리뷰 [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.09.28-05.28.30:022][858]LogWorld: UWorld::CleanupWorld for Land, bSessionEnded=true, bCleanupResources=true
+[2021.09.28-05.28.30:022][858]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.28-05.28.30:034][858]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.28-05.28.30:043][858]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.28-05.28.30:113][858]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000231075AD800), frame # 525858
+[2021.09.28-05.28.30:113][858]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000232388A7E00), frame # 525858
+[2021.09.28-05.28.30:118][858]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2021.09.28-05.28.30:155][859]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2021.09.28-06.10.46:228][703]LogSlate: Window '색 선택 툴' being destroyed
+[2021.09.28-07.18.52:741][ 30]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{3eb23f38-e2b7-4bba-9287-71667334ac0e}.
+[2021.09.28-07.18.52:741][ 30]LogTemp: Resetting audio stream to device id 
+[2021.09.28-07.18.53:148][ 30]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.28-07.18.53:148][ 30]LogAudioMixer: Display: 1: FrontRight
+[2021.09.28-07.24.00:811][948]LogHttp: Warning: 00000231F45D6B00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB3848318-4313-DB4D-0F46-FAA775355068%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=9de648bc40e94b670662499739886417%7C7fcd3065dbe74d018cef09b9f638d8fb%7Cc26a8d64-550b-49b3-9622-9e456636e0ea&AppEnvironment=datacollector-source&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.09.28-07.24.00:811][948]LogHttp: Warning: 00000231F45D6B00: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2021.09.28-07.24.00:812][948]LogHttp: Warning: 00000231F45D6B00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x23155517f70 [can pipeline])
+[2021.09.28-07.24.00:812][948]LogHttp: Warning: 00000231F45D6B00: libcurl info message cache 1 (Re-using existing connection! (#354) with host datarouter.ol.epicgames.com)
+[2021.09.28-07.24.00:812][948]LogHttp: Warning: 00000231F45D6B00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.88.196.119) port 443 (#354))
+[2021.09.28-07.24.00:812][948]LogHttp: Warning: 00000231F45D6B00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2021.09.28-07.24.00:812][948]LogHttp: Warning: 00000231F45D6B00: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2021.09.28-07.24.00:812][948]LogHttp: Warning: 00000231F45D6B00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2021.09.28-07.24.00:812][948]LogHttp: Warning: 00000231F45D6B00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2021.09.28-07.24.00:812][948]LogHttp: Warning: 00000231F45D6B00: libcurl info message cache 7 (Closing connection 354)
+[2021.09.28-07.24.00:812][948]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB3848318-4313-DB4D-0F46-FAA775355068%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=9de648bc40e94b670662499739886417%7C7fcd3065dbe74d018cef09b9f638d8fb%7Cc26a8d64-550b-49b3-9622-9e456636e0ea&AppEnvironment=datacollector-source&UploadType=eteventstream
+[2021.09.28-07.41.13:433][850]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{046cc6de-b28f-43e3-9596-e94d1cd16cbe}.
+[2021.09.28-07.41.13:434][850]LogTemp: Resetting audio stream to device id 
+[2021.09.28-07.41.14:128][850]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.28-07.41.14:128][850]LogAudioMixer: Display: 1: FrontRight
+[2021.09.28-07.42.30:825][ 79]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{3eb23f38-e2b7-4bba-9287-71667334ac0e}.
+[2021.09.28-07.42.30:825][ 79]LogTemp: Resetting audio stream to device id 
+[2021.09.28-07.42.31:417][ 79]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.28-07.42.31:418][ 79]LogAudioMixer: Display: 1: FrontRight
+[2021.09.28-07.42.38:260][100]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{046cc6de-b28f-43e3-9596-e94d1cd16cbe}.
+[2021.09.28-07.42.38:261][100]LogTemp: Resetting audio stream to device id 
+[2021.09.28-07.42.39:121][100]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.28-07.42.39:121][100]LogAudioMixer: Display: 1: FrontRight
+[2021.09.28-07.42.39:263][101]LogTemp: Resetting audio stream to device id 
+[2021.09.28-07.42.39:296][101]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.28-07.42.39:296][101]LogAudioMixer: Display: 1: FrontRight
+[2021.09.28-08.14.34:608][965]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{3eb23f38-e2b7-4bba-9287-71667334ac0e}.
+[2021.09.28-08.14.34:608][965]LogTemp: Resetting audio stream to device id 
+[2021.09.28-08.14.34:924][965]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.28-08.14.34:924][965]LogAudioMixer: Display: 1: FrontRight
+[2021.09.28-08.14.37:381][973]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{046cc6de-b28f-43e3-9596-e94d1cd16cbe}.
+[2021.09.28-08.14.37:381][973]LogTemp: Resetting audio stream to device id 
+[2021.09.28-08.14.37:414][973]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.28-08.14.37:414][973]LogAudioMixer: Display: 1: FrontRight
+[2021.09.28-08.59.21:121][327]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/AutoUpgrade_Off767E7C2B44EA426F50E3ECBE814C3A61.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/Icons/Upgrade/AutoUpgrade_Off.uasset'
+[2021.09.28-08.59.21:504][327]LogUObjectHash: Compacting FUObjectHashTables data took  11.56ms
+[2021.09.28-08.59.21:591][327]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2021.09.28-08.59.21:622][327]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.09.28-08.59.21:661][327]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/BP_UpgradeUI" FILE="../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_UpgradeUI.uasset" SILENT=true
+[2021.09.28-08.59.21:708][327]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/BP_UpgradeUID86D8A69419D73907FB6189609AEECEF.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_UpgradeUI.uasset'
+[2021.09.28-08.59.21:771][327]AssetCheck: New page: 애셋 저장: 애셋이 다수입니다.
+[2021.09.28-08.59.21:771][327]LogContentValidation: Display: Texture2D /Game/Icons/Upgrade/AutoUpgrade_Off.AutoUpgrade_Off 유효성 검사
+[2021.09.28-08.59.21:771][327]LogContentValidation: Display: WidgetBlueprint /Game/UI/BP_UpgradeUI.BP_UpgradeUI 유효성 검사
+[2021.09.28-08.59.23:834][434]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/AutoUpgrade_OnA231784048A4DC290F04288543A15085.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/Icons/Upgrade/AutoUpgrade_On.uasset'
+[2021.09.28-08.59.24:074][434]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2021.09.28-08.59.24:119][434]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2021.09.28-08.59.24:151][434]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.09.28-08.59.24:175][434]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/BP_UpgradeUI" FILE="../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_UpgradeUI.uasset" SILENT=true
+[2021.09.28-08.59.24:214][434]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/BP_UpgradeUI2D95A76A42D86808DE4C968956FB4DAD.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_UpgradeUI.uasset'
+[2021.09.28-08.59.24:268][434]AssetCheck: New page: 애셋 저장: 애셋이 다수입니다.
+[2021.09.28-08.59.24:268][434]LogContentValidation: Display: Texture2D /Game/Icons/Upgrade/AutoUpgrade_On.AutoUpgrade_On 유효성 검사
+[2021.09.28-08.59.24:268][434]LogContentValidation: Display: WidgetBlueprint /Game/UI/BP_UpgradeUI.BP_UpgradeUI 유효성 검사
+[2021.09.28-08.59.35:979][ 73]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Icons/Upgrade/Upgrade_NN" FILE="../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/Icons/Upgrade/Upgrade_NN.uasset" SILENT=true
+[2021.09.28-08.59.35:983][ 73]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/Upgrade_NN8BA2EE8D467A28B5E960BEAFB14145F6.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/Icons/Upgrade/Upgrade_NN.uasset'
+[2021.09.28-08.59.35:986][ 73]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Icons/Upgrade/Upgrade_NP" FILE="../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/Icons/Upgrade/Upgrade_NP.uasset" SILENT=true
+[2021.09.28-08.59.35:990][ 73]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/Upgrade_NP9CA6D08B425E0090B2207D8A48E32E03.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/Icons/Upgrade/Upgrade_NP.uasset'
+[2021.09.28-08.59.35:994][ 73]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Icons/Upgrade/Upgrade_PL" FILE="../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/Icons/Upgrade/Upgrade_PL.uasset" SILENT=true
+[2021.09.28-08.59.35:997][ 73]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/Upgrade_PLFFB077FC466277E8D6335AAF5EF2FC2B.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/Icons/Upgrade/Upgrade_PL.uasset'
+[2021.09.28-08.59.36:001][ 73]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Icons/Upgrade/Upgrade_PN" FILE="../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/Icons/Upgrade/Upgrade_PN.uasset" SILENT=true
+[2021.09.28-08.59.36:006][ 73]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/Upgrade_PN83D7028F4A6262A96EC74F831B0EEF71.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/Icons/Upgrade/Upgrade_PN.uasset'
+[2021.09.28-08.59.36:010][ 73]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Icons/Upgrade/Upgrade_PP" FILE="../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/Icons/Upgrade/Upgrade_PP.uasset" SILENT=true
+[2021.09.28-08.59.36:013][ 73]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/Upgrade_PPBD78ED354EEE03ABACD1FAB5E51C7BB7.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/Icons/Upgrade/Upgrade_PP.uasset'
+[2021.09.28-08.59.36:869][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2021.09.28-08.59.36:901][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.09.28-08.59.36:932][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.09.28-08.59.36:963][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.09.28-08.59.36:994][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.09.28-08.59.37:038][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2021.09.28-08.59.37:073][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.09.28-08.59.37:104][ 73]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/BP_UpgradeUI" FILE="../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_UpgradeUI.uasset" SILENT=true
+[2021.09.28-08.59.37:142][ 73]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/BP_UpgradeUIDB2441EB46FF6D44FF8DF1AB5751CA3A.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_UpgradeUI.uasset'
+[2021.09.28-08.59.37:216][ 73]AssetCheck: New page: 애셋 저장: 애셋이 다수입니다.
+[2021.09.28-08.59.37:216][ 73]LogContentValidation: Display: Texture2D /Game/Icons/Upgrade/Upgrade_NN.Upgrade_NN 유효성 검사
+[2021.09.28-08.59.37:216][ 73]LogContentValidation: Display: Texture2D /Game/Icons/Upgrade/Upgrade_NP.Upgrade_NP 유효성 검사
+[2021.09.28-08.59.37:216][ 73]LogContentValidation: Display: Texture2D /Game/Icons/Upgrade/Upgrade_PL.Upgrade_PL 유효성 검사
+[2021.09.28-08.59.37:216][ 73]LogContentValidation: Display: Texture2D /Game/Icons/Upgrade/Upgrade_PN.Upgrade_PN 유효성 검사
+[2021.09.28-08.59.37:216][ 73]LogContentValidation: Display: Texture2D /Game/Icons/Upgrade/Upgrade_PP.Upgrade_PP 유효성 검사
+[2021.09.28-08.59.37:216][ 73]LogContentValidation: Display: WidgetBlueprint /Game/UI/BP_UpgradeUI.BP_UpgradeUI 유효성 검사
+[2021.09.28-08.59.57:605][171]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Icons/Coins/BalloonCoin" FILE="../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/Icons/Coins/BalloonCoin.uasset" SILENT=true
+[2021.09.28-08.59.57:611][171]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/BalloonCoin3CDEB36E4051FF95955377B30ECE067C.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/Icons/Coins/BalloonCoin.uasset'
+[2021.09.28-08.59.57:618][171]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Icons/Coins/WingsCoin" FILE="../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/Icons/Coins/WingsCoin.uasset" SILENT=true
+[2021.09.28-08.59.57:623][171]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/WingsCoin24E72698480947563E7D1AA1AE428317.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/Icons/Coins/WingsCoin.uasset'
+[2021.09.28-08.59.58:017][171]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2021.09.28-08.59.58:049][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.09.28-08.59.58:092][171]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2021.09.28-08.59.58:123][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2021.09.28-08.59.58:153][171]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/BP_MainUI" FILE="../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_MainUI.uasset" SILENT=true
+[2021.09.28-08.59.58:192][171]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/BP_MainUIDEF1269242B6C24D97A173955CAE2F3F.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_MainUI.uasset'
+[2021.09.28-08.59.58:247][171]AssetCheck: New page: 애셋 저장: 애셋이 다수입니다.
+[2021.09.28-08.59.58:248][171]LogContentValidation: Display: Texture2D /Game/Icons/Coins/BalloonCoin.BalloonCoin 유효성 검사
+[2021.09.28-08.59.58:248][171]LogContentValidation: Display: Texture2D /Game/Icons/Coins/WingsCoin.WingsCoin 유효성 검사
+[2021.09.28-08.59.58:248][171]LogContentValidation: Display: WidgetBlueprint /Game/UI/BP_MainUI.BP_MainUI 유효성 검사
+[2021.09.28-09.00.01:619][339]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Icons/Upgrade/Upgrade_NL" FILE="../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/Icons/Upgrade/Upgrade_NL.uasset" SILENT=true
+[2021.09.28-09.00.01:623][339]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/Upgrade_NL1B389F4D480C2D0995D860AA6CA2EF5D.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/Icons/Upgrade/Upgrade_NL.uasset'
+[2021.09.28-09.00.01:880][339]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2021.09.28-09.00.01:924][339]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2021.09.28-09.00.01:957][339]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.09.28-09.00.01:987][339]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/BP_UpgradeUI" FILE="../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_UpgradeUI.uasset" SILENT=true
+[2021.09.28-09.00.02:031][339]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/BP_UpgradeUI9602D6A04D9931BFCFBF19A79B6B2B67.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_UpgradeUI.uasset'
+[2021.09.28-09.00.02:080][339]AssetCheck: New page: 애셋 저장: 애셋이 다수입니다.
+[2021.09.28-09.00.02:080][339]LogContentValidation: Display: Texture2D /Game/Icons/Upgrade/Upgrade_NL.Upgrade_NL 유효성 검사
+[2021.09.28-09.00.02:080][339]LogContentValidation: Display: WidgetBlueprint /Game/UI/BP_UpgradeUI.BP_UpgradeUI 유효성 검사
+[2021.09.28-09.00.30:518][960]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/BarBackground7DDF061948C5FCA32020B2BBE9E95987.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/Icons/Backgournd/BarBackground.uasset'
+[2021.09.28-09.00.30:523][960]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/MoneyBackground414A408C438EF4A76BB9E8B0CD55BE05.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/Icons/Backgournd/MoneyBackground.uasset'
+[2021.09.28-09.00.30:530][960]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/PBAR_Background5F7688394987CFAD999C238369529E2A.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/Icons/Backgournd/PBAR_Background.uasset'
+[2021.09.28-09.00.30:532][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Icons/Backgournd/UI_BlackBG" FILE="../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/Icons/Backgournd/UI_BlackBG.uasset" SILENT=true
+[2021.09.28-09.00.30:535][960]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/UI_BlackBGDE77F9374B6C20F45DC7609E39D653B3.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/Icons/Backgournd/UI_BlackBG.uasset'
+[2021.09.28-09.00.31:196][960]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2021.09.28-09.00.31:228][960]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.09.28-09.00.31:258][960]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.09.28-09.00.31:288][960]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.09.28-09.00.31:329][960]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2021.09.28-09.00.31:360][960]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2021.09.28-09.00.31:381][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/BP_MainUI" FILE="../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_MainUI.uasset" SILENT=true
+[2021.09.28-09.00.31:418][960]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/BP_MainUIDE3672DC46AD768E553C37B81864BF1C.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_MainUI.uasset'
+[2021.09.28-09.00.31:420][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/BP_UpgradeUI" FILE="../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_UpgradeUI.uasset" SILENT=true
+[2021.09.28-09.00.31:460][960]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/BP_UpgradeUI7A344E8E4473127F441519AB59D1710B.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_UpgradeUI.uasset'
+[2021.09.28-09.00.31:533][960]AssetCheck: New page: 애셋 저장: 애셋이 다수입니다.
+[2021.09.28-09.00.31:533][960]LogContentValidation: Display: Texture2D /Game/Icons/Backgournd/BarBackground.BarBackground 유효성 검사
+[2021.09.28-09.00.31:533][960]LogContentValidation: Display: Texture2D /Game/Icons/Backgournd/MoneyBackground.MoneyBackground 유효성 검사
+[2021.09.28-09.00.31:533][960]LogContentValidation: Display: Texture2D /Game/Icons/Backgournd/PBAR_Background.PBAR_Background 유효성 검사
+[2021.09.28-09.00.31:533][960]LogContentValidation: Display: Texture2D /Game/Icons/Backgournd/UI_BlackBG.UI_BlackBG 유효성 검사
+[2021.09.28-09.00.31:533][960]LogContentValidation: Display: WidgetBlueprint /Game/UI/BP_MainUI.BP_MainUI 유효성 검사
+[2021.09.28-09.00.31:533][960]LogContentValidation: Display: WidgetBlueprint /Game/UI/BP_UpgradeUI.BP_UpgradeUI 유효성 검사
+[2021.09.28-09.00.41:701][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Icons/Menu/Setting" FILE="../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/Icons/Menu/Setting.uasset" SILENT=true
+[2021.09.28-09.00.41:706][522]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/Setting6C24654E4B7A141ADCFAF7BA687A6092.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/Icons/Menu/Setting.uasset'
+[2021.09.28-09.00.41:712][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Icons/Menu/Upgrade" FILE="../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/Icons/Menu/Upgrade.uasset" SILENT=true
+[2021.09.28-09.00.41:718][522]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/Upgrade068ADE7946E58167F6309894437A2FB6.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/Icons/Menu/Upgrade.uasset'
+[2021.09.28-09.00.42:113][522]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2021.09.28-09.00.42:147][522]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.09.28-09.00.42:189][522]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2021.09.28-09.00.42:223][522]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.09.28-09.00.42:246][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/BP_MainUI" FILE="../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_MainUI.uasset" SILENT=true
+[2021.09.28-09.00.42:284][522]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/BP_MainUI7E19DA444D0D665F0AC4068786BD1C9D.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_MainUI.uasset'
+[2021.09.28-09.00.42:336][522]AssetCheck: New page: 애셋 저장: 애셋이 다수입니다.
+[2021.09.28-09.00.42:336][522]LogContentValidation: Display: Texture2D /Game/Icons/Menu/Setting.Setting 유효성 검사
+[2021.09.28-09.00.42:337][522]LogContentValidation: Display: Texture2D /Game/Icons/Menu/Upgrade.Upgrade 유효성 검사
+[2021.09.28-09.00.42:337][522]LogContentValidation: Display: WidgetBlueprint /Game/UI/BP_MainUI.BP_MainUI 유효성 검사
+[2021.09.28-09.01.31:812][780]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\happl\OneDrive\Documents\GitHub\Grow_Wings\UI icons\Upgrade_Them_CO.png)
+[2021.09.28-09.01.31:819][780]LogTexture: Display: 텍스처 빌드: Upgrade_Them_CO (AutoDXT, 700X220)
+[2021.09.28-09.01.31:834][780]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\happl\OneDrive\Documents\GitHub\Grow_Wings\UI icons\Upgrade_Them_SF.png)
+[2021.09.28-09.01.31:840][780]LogTexture: Display: 텍스처 빌드: Upgrade_Them_SF (AutoDXT, 700X220)
+[2021.09.28-09.01.31:854][780]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\happl\OneDrive\Documents\GitHub\Grow_Wings\UI icons\Upgrade_Them_SO.png)
+[2021.09.28-09.01.31:860][780]LogTexture: Display: 텍스처 빌드: Upgrade_Them_SO (AutoDXT, 700X220)
+[2021.09.28-09.01.31:874][780]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\happl\OneDrive\Documents\GitHub\Grow_Wings\UI icons\Upgrade_Them_CF.png)
+[2021.09.28-09.01.31:881][780]LogTexture: Display: 텍스처 빌드: Upgrade_Them_CF (AutoDXT, 700X220)
+[2021.09.28-09.01.40:221][908]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2021.09.28-09.01.41:689][908]LogSlate: Window '콘텐츠 저장' being destroyed
+[2021.09.28-09.01.41:735][908]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/Upgrade_Them_CF6C5C5A244680056F1BCA42A8B1317A2C.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/Icons/Upgrade/Upgrade_Them_CF.uasset'
+[2021.09.28-09.01.41:745][908]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/Upgrade_Them_COBA810698413AC4ECD8FCBD9FB6786A43.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/Icons/Upgrade/Upgrade_Them_CO.uasset'
+[2021.09.28-09.01.41:755][908]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/Upgrade_Them_SF882765A94A1A7717C14EBBAA78E08709.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/Icons/Upgrade/Upgrade_Them_SF.uasset'
+[2021.09.28-09.01.41:766][908]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/Upgrade_Them_SO26A513F443ADD343F4E300BEAC8A71BE.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/Icons/Upgrade/Upgrade_Them_SO.uasset'
+[2021.09.28-09.01.41:810][908]AssetCheck: New page: 애셋 저장: 애셋이 다수입니다.
+[2021.09.28-09.01.41:810][908]LogContentValidation: Display: Texture2D /Game/Icons/Upgrade/Upgrade_Them_CF.Upgrade_Them_CF 유효성 검사
+[2021.09.28-09.01.41:810][908]LogContentValidation: Display: Texture2D /Game/Icons/Upgrade/Upgrade_Them_CO.Upgrade_Them_CO 유효성 검사
+[2021.09.28-09.01.41:810][908]LogContentValidation: Display: Texture2D /Game/Icons/Upgrade/Upgrade_Them_SF.Upgrade_Them_SF 유효성 검사
+[2021.09.28-09.01.41:810][908]LogContentValidation: Display: Texture2D /Game/Icons/Upgrade/Upgrade_Them_SO.Upgrade_Them_SO 유효성 검사
+[2021.09.28-09.02.18:737][ 61]BlueprintLog: New page: BP_MainUI 컴파일
+[2021.09.28-09.02.18:784][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2021.09.28-09.02.19:569][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/BP_MainUI" FILE="../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_MainUI.uasset" SILENT=true
+[2021.09.28-09.02.19:610][ 98]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/BP_MainUI4BD218504B64E401DB9648A58E6467CD.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_MainUI.uasset'
+[2021.09.28-09.02.19:626][ 98]AssetCheck: New page: 애셋 저장: BP_MainUI
+[2021.09.28-09.02.19:626][ 98]LogContentValidation: Display: WidgetBlueprint /Game/UI/BP_MainUI.BP_MainUI 유효성 검사
+[2021.09.28-09.02.30:594][733]BlueprintLog: New page: BP_UpgradeUI 컴파일
+[2021.09.28-09.02.30:647][733]LogUObjectHash: Compacting FUObjectHashTables data took   5.09ms
+[2021.09.28-09.02.31:253][763]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/BP_UpgradeUI" FILE="../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_UpgradeUI.uasset" SILENT=true
+[2021.09.28-09.02.31:298][763]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/BP_UpgradeUI363EBADA4D17C488B90A0D8C75BBA21C.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_UpgradeUI.uasset'
+[2021.09.28-09.02.31:315][763]AssetCheck: New page: 애셋 저장: BP_UpgradeUI
+[2021.09.28-09.02.31:315][763]LogContentValidation: Display: WidgetBlueprint /Game/UI/BP_UpgradeUI.BP_UpgradeUI 유효성 검사
+[2021.09.28-09.05.14:712][278]BlueprintLog: New page: BP_UpgradeUI 컴파일
+[2021.09.28-09.05.14:762][278]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2021.09.28-09.05.15:407][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/BP_UpgradeUI" FILE="../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_UpgradeUI.uasset" SILENT=true
+[2021.09.28-09.05.15:448][306]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/BP_UpgradeUI5DAA2DD944CDFFEACA6A10822A46390B.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_UpgradeUI.uasset'
+[2021.09.28-09.05.15:467][306]AssetCheck: New page: 애셋 저장: BP_UpgradeUI
+[2021.09.28-09.05.15:467][306]LogContentValidation: Display: WidgetBlueprint /Game/UI/BP_UpgradeUI.BP_UpgradeUI 유효성 검사
+[2021.09.28-09.05.17:998][458]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2021.09.28-09.05.18:019][458]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.28-09.05.18:019][458]PIE: New page: PIE 세션: Land (2021. 9. 29. 오전 3:05:18)
+[2021.09.28-09.05.18:019][458]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Land
+[2021.09.28-09.05.18:024][458]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004356s)
+[2021.09.28-09.05.18:026][458]LogAIModule: Creating AISystem for world Land
+[2021.09.28-09.05.18:026][458]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002325FC62000), frame # 599458
+[2021.09.28-09.05.18:026][458]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000023250D065C0), frame # 599458
+[2021.09.28-09.05.18:027][458]LogPlayLevel: PIE: World Init took: (0.002875s)
+[2021.09.28-09.05.18:027][458]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Land.Land to /Game/Maps/UEDPIE_0_Land.Land (0.007582s)
+[2021.09.28-09.05.18:064][458]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2021.09.28-09.05.18:065][458]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.28-09.05.18:065][458]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.28-09.05.18:065][458]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.28-09.05.18:065][458]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.28-09.05.18:065][458]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.28-09.05.18:065][458]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.28-09.05.18:065][458]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.28-09.05.18:065][458]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.28-09.05.18:066][458]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.28-09.05.18:066][458]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.28-09.05.18:084][458]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.28-09.05.18:084][458]LogAudioMixer: Display: 1: FrontRight
+[2021.09.28-09.05.18:174][458]LogAudioMixer: Display: Using Audio Device 스피커(USB Audio Device)
+[2021.09.28-09.05.18:179][458]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.28-09.05.18:179][458]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.28-09.05.18:179][458]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.28-09.05.18:183][458]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.28-09.05.18:194][458]LogInit: FAudioDevice initialized.
+[2021.09.28-09.05.18:249][458]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.28-09.05.18:250][458]LogLoad: Game class is 'GameModeBase'
+[2021.09.28-09.05.18:251][458]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Land.Land up for play (max tick rate 60) at 2021.09.28-18.05.18
+[2021.09.28-09.05.18:251][458]LogWorld: Bringing up level for play took: 0.001092
+[2021.09.28-09.05.18:252][458]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2021.09.28-09.05.18:254][458]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.09.28-09.05.18:261][458]PIE: 서버가 로그인했습니다.
+[2021.09.28-09.05.18:263][458]PIE: 에디터에서 플레이 총 시작 시간 0.249초입니다.
+[2021.09.28-09.05.19:864][544]LogBlueprintUserMessages: [BP_MainUI_C_0] cilked Upgrade
+[2021.09.28-09.05.40:329][694]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 2/1 Pages; frames since last flush: 91164
+[2021.09.28-09.05.40:341][694]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.28-09.05.40:391][694]LogSlate: Took 0.000779 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.09.28-09.05.40:399][694]LogSlate: Took 0.007378 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2021.09.28-09.05.43:315][694]LogSlate: Took 0.000554 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.09.28-09.05.43:325][694]LogSlate: Took 0.009237 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2021.09.28-09.05.43:325][694]LogSlate: Took 0.000287 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.09.28-09.05.43:327][694]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.09.28-09.05.43:330][694]LogSlate: Took 0.000304 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.09.28-09.05.43:335][694]LogSlate: Took 0.000234 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.09.28-09.05.43:345][694]LogSlate: Took 0.009360 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicExtraBold.ttf' (4074K)
+[2021.09.28-09.06.00:565][719]LogSlate: Window 'GrowWings 프리뷰 [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.09.28-09.06.00:577][719]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Land
+[2021.09.28-09.06.00:577][719]LogWorld: UWorld::CleanupWorld for Land, bSessionEnded=true, bCleanupResources=true
+[2021.09.28-09.06.00:578][719]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.28-09.06.00:585][719]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.28-09.06.00:593][719]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.28-09.06.00:682][719]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000023250D065C0), frame # 601719
+[2021.09.28-09.06.00:683][719]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002325FC62000), frame # 601719
+[2021.09.28-09.06.00:688][719]LogUObjectHash: Compacting FUObjectHashTables data took   4.84ms
+[2021.09.28-09.06.00:744][720]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2021.09.28-09.06.26:576][253]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/BP_UpgradeUI" FILE="../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_UpgradeUI.uasset" SILENT=true
+[2021.09.28-09.06.26:616][253]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/BP_UpgradeUI3868615C451A85677E18DD83A94D3E2C.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_UpgradeUI.uasset'
+[2021.09.28-09.06.26:639][253]AssetCheck: New page: 애셋 저장: BP_UpgradeUI
+[2021.09.28-09.06.26:639][253]LogContentValidation: Display: WidgetBlueprint /Game/UI/BP_UpgradeUI.BP_UpgradeUI 유효성 검사
+[2021.09.28-10.32.18:776][670]LogSlate: Took 0.001253 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.09.28-10.32.29:639][112]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\happl\OneDrive\Documents\GitHub\Grow_Wings\UI icons\Menu\Close.png)
+[2021.09.28-10.32.29:645][112]LogTexture: Display: 텍스처 빌드: Close (AutoDXT, 200X200)
+[2021.09.28-10.32.32:639][186]LogUObjectHash: Compacting FUObjectHashTables data took  12.08ms
+[2021.09.28-10.32.33:648][186]LogSlate: Window '콘텐츠 저장' being destroyed
+[2021.09.28-10.32.33:693][186]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Icons/Menu/Close" FILE="../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/Icons/Menu/Close.uasset" SILENT=true
+[2021.09.28-10.32.33:699][186]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/CloseA0555AB4448E553ABD6C778CCDFE8E5F.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/Icons/Menu/Close.uasset'
+[2021.09.28-10.32.33:720][186]AssetCheck: New page: 애셋 저장: Close
+[2021.09.28-10.32.33:720][186]LogContentValidation: Display: Texture2D /Game/Icons/Menu/Close.Close 유효성 검사
+[2021.09.28-10.33.09:076][199]BlueprintLog: New page: BP_UpgradeUI 컴파일
+[2021.09.28-10.33.09:127][199]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2021.09.28-10.33.09:664][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/BP_UpgradeUI" FILE="../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_UpgradeUI.uasset" SILENT=true
+[2021.09.28-10.33.09:706][213]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/BP_UpgradeUI9460DA624C15156A9F09CBB45F67135E.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_UpgradeUI.uasset'
+[2021.09.28-10.33.09:722][213]AssetCheck: New page: 애셋 저장: BP_UpgradeUI
+[2021.09.28-10.33.09:722][213]LogContentValidation: Display: WidgetBlueprint /Game/UI/BP_UpgradeUI.BP_UpgradeUI 유효성 검사
+[2021.09.28-10.48.40:190][585]LogEditorFactories: Performing atomic reimport of [C:/Users/happl/OneDrive/Documents/GitHub/Grow_Wings/UI icons/Menu/Close.png]
+[2021.09.28-10.48.40:193][585]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/happl/OneDrive/Documents/GitHub/Grow_Wings/UI icons/Menu/Close.png)
+[2021.09.28-10.48.40:197][585]LogTexture: Display: 텍스처 빌드: Close (AutoDXT, 200X200)
+[2021.09.28-10.48.40:205][585]LogEditorFactories: -- imported successfully
+[2021.09.28-10.48.43:156][731]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
+[2021.09.28-10.48.44:247][731]LogSlate: Window '콘텐츠 저장' being destroyed
+[2021.09.28-10.48.44:293][731]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Icons/Menu/Close" FILE="../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/Icons/Menu/Close.uasset" SILENT=true
+[2021.09.28-10.48.44:321][731]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/CloseA21044ED439D10B6DAEC059BFA76DE6C.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/Icons/Menu/Close.uasset'
+[2021.09.28-10.48.44:341][731]AssetCheck: New page: 애셋 저장: Close
+[2021.09.28-10.48.44:341][731]LogContentValidation: Display: Texture2D /Game/Icons/Menu/Close.Close 유효성 검사
+[2021.09.28-10.51.25:017][211]LogSlate: Window '색 선택 툴' being destroyed
+[2021.09.28-10.52.02:944][352]BlueprintLog: New page: BP_UpgradeUI 컴파일
+[2021.09.28-10.52.02:997][352]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2021.09.28-10.52.03:414][371]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/BP_UpgradeUI" FILE="../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_UpgradeUI.uasset" SILENT=true
+[2021.09.28-10.52.03:456][371]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/BP_UpgradeUID912683446E5F3D16D13E9A9544478FB.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_UpgradeUI.uasset'
+[2021.09.28-10.52.03:469][371]AssetCheck: New page: 애셋 저장: BP_UpgradeUI
+[2021.09.28-10.52.03:469][371]LogContentValidation: Display: WidgetBlueprint /Game/UI/BP_UpgradeUI.BP_UpgradeUI 유효성 검사
