@@ -858,3 +858,1630 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.27-10.29.53:580][240]AssetCheck: New page: 애셋 저장: BP_MainUI
 [2021.09.27-10.29.53:580][240]LogContentValidation: Display: WidgetBlueprint /Game/UI/BP_MainUI.BP_MainUI 유효성 검사
 [2021.09.27-10.29.54:053][268]LogSlate: Took 0.000220 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.09.27-12.02.56:472][ 29]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.09.27-12.02.56:483][ 29]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (한컴 입력기).
+[2021.09.27-13.18.58:019][911]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.09.27-13.18.58:026][911]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2021.09.27-14.41.33:155][847]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{3eb23f38-e2b7-4bba-9287-71667334ac0e}.
+[2021.09.27-14.41.33:156][847]LogTemp: Resetting audio stream to device id 
+[2021.09.27-14.41.33:769][847]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.27-14.41.33:769][847]LogAudioMixer: Display: 1: FrontRight
+[2021.09.27-14.41.33:947][848]LogTemp: Resetting audio stream to device id 
+[2021.09.27-14.41.33:981][848]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.27-14.41.33:981][848]LogAudioMixer: Display: 1: FrontRight
+[2021.09.27-22.41.21:103][657]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\happl\OneDrive\Documents\GitHub\Grow_Wings\UI icons\PerUpgrade.png)
+[2021.09.27-22.41.21:116][657]LogTexture: Display: 텍스처 빌드: PerUpgrade (BGRA8, 250X80)
+[2021.09.27-22.41.24:623][846]LogUObjectHash: Compacting FUObjectHashTables data took  21.63ms
+[2021.09.27-22.41.26:186][846]LogSlate: Window '콘텐츠 저장' being destroyed
+[2021.09.27-22.41.26:247][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Icons/PerUpgrade" FILE="../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/Icons/PerUpgrade.uasset" SILENT=true
+[2021.09.27-22.41.26:256][846]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/PerUpgrade4B076DD4456BBB8DF2C590B781D15CBD.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/Icons/PerUpgrade.uasset'
+[2021.09.27-22.41.26:286][846]AssetCheck: New page: 애셋 저장: PerUpgrade
+[2021.09.27-22.41.26:287][846]LogContentValidation: Display: Texture2D /Game/Icons/PerUpgrade.PerUpgrade 유효성 검사
+[2021.09.27-22.41.27:753][924]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Icons/PerUpgrade.PerUpgrade
+[2021.09.27-22.41.27:774][924]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0017 seconds. Added 1 classes and 2 folders.
+[2021.09.27-22.42.44:540][972]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2021.09.27-22.42.44:543][972]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Land' took 0.113
+[2021.09.27-22.42.44:544][972]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/BP_UpgradeUI] ([1] browsable assets)...
+[2021.09.27-22.42.44:544][972]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/BP_UpgradeUI]
+[2021.09.27-22.42.44:584][972]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/BP_UpgradeUI_Auto15D6284454217A4C777C24A9DB1C1421E.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/Autosaves/Game/UI/BP_UpgradeUI_Auto1.uasset'
+[2021.09.27-22.42.44:585][972]LogFileHelpers: Auto-saving content packages took 0.042
+[2021.09.27-22.56.28:945][481]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\happl\OneDrive\Documents\GitHub\Grow_Wings\UI icons\PerUpgradeLock.png)
+[2021.09.27-22.56.28:949][481]LogTexture: Display: 텍스처 빌드: PerUpgradeLock (BGRA8, 250X80)
+[2021.09.27-22.56.46:909][427]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Icons/PerUpgradeUnLock" FILE="../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/Icons/PerUpgradeUnLock.uasset" SILENT=true
+[2021.09.27-22.56.46:914][427]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/PerUpgradeUnLock087C708D4F4378972272CAAE70F034EF.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/Icons/PerUpgradeUnLock.uasset'
+[2021.09.27-22.56.47:238][427]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2021.09.27-22.56.47:287][427]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2021.09.27-22.56.47:318][427]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.09.27-22.56.47:374][427]AssetCheck: New page: 애셋 저장: PerUpgradeUnLock
+[2021.09.27-22.56.47:374][427]LogContentValidation: Display: Texture2D /Game/Icons/PerUpgradeUnLock.PerUpgradeUnLock 유효성 검사
+[2021.09.27-22.56.49:836][555]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.09.27-22.56.51:870][555]LogSlate: Window '콘텐츠 저장' being destroyed
+[2021.09.27-22.56.51:923][555]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Icons/PerUpgradeLock" FILE="../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/Icons/PerUpgradeLock.uasset" SILENT=true
+[2021.09.27-22.56.51:927][555]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/PerUpgradeLockB5796234492CFCCA8705529D76ED1EAF.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/Icons/PerUpgradeLock.uasset'
+[2021.09.27-22.56.51:929][555]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/BP_UpgradeUI" FILE="../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_UpgradeUI.uasset" SILENT=true
+[2021.09.27-22.56.51:967][555]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/BP_UpgradeUIB0F3A2D34A29E302A5AA38A3AF674459.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_UpgradeUI.uasset'
+[2021.09.27-22.56.52:004][555]AssetCheck: New page: 애셋 저장: 애셋이 다수입니다.
+[2021.09.27-22.56.52:004][555]LogContentValidation: Display: Texture2D /Game/Icons/PerUpgradeLock.PerUpgradeLock 유효성 검사
+[2021.09.27-22.56.52:004][555]LogContentValidation: Display: WidgetBlueprint /Game/UI/BP_UpgradeUI.BP_UpgradeUI 유효성 검사
+[2021.09.27-22.57.52:614][ 38]BlueprintLog: New page: BP_UpgradeUI 컴파일
+[2021.09.27-22.57.52:665][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2021.09.27-22.57.53:683][ 89]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/BP_UpgradeUI" FILE="../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_UpgradeUI.uasset" SILENT=true
+[2021.09.27-22.57.53:719][ 89]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/BP_UpgradeUIED2112664237FA0D7EF5B88AE9106FD0.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_UpgradeUI.uasset'
+[2021.09.27-22.57.53:739][ 89]AssetCheck: New page: 애셋 저장: BP_UpgradeUI
+[2021.09.27-22.57.53:739][ 89]LogContentValidation: Display: WidgetBlueprint /Game/UI/BP_UpgradeUI.BP_UpgradeUI 유효성 검사
+[2021.09.27-23.00.23:235][799]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/BP_UpgradeUI" FILE="../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_UpgradeUI.uasset" SILENT=true
+[2021.09.27-23.00.23:273][799]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/BP_UpgradeUI0D72EBA84BBE9E30600CD58D335FFA54.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_UpgradeUI.uasset'
+[2021.09.27-23.00.23:290][799]AssetCheck: New page: 애셋 저장: BP_UpgradeUI
+[2021.09.27-23.00.23:290][799]LogContentValidation: Display: WidgetBlueprint /Game/UI/BP_UpgradeUI.BP_UpgradeUI 유효성 검사
+[2021.09.27-23.00.25:314][917]BlueprintLog: New page: BP_UpgradeUI 컴파일
+[2021.09.27-23.00.25:367][917]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2021.09.27-23.00.26:335][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/BP_UpgradeUI" FILE="../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_UpgradeUI.uasset" SILENT=true
+[2021.09.27-23.00.26:373][960]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/BP_UpgradeUIF1F3C1A24E97D2EB62E3FFBC78AC0261.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_UpgradeUI.uasset'
+[2021.09.27-23.00.26:389][960]AssetCheck: New page: 애셋 저장: BP_UpgradeUI
+[2021.09.27-23.00.26:389][960]LogContentValidation: Display: WidgetBlueprint /Game/UI/BP_UpgradeUI.BP_UpgradeUI 유효성 검사
+[2021.09.27-23.17.04:420][807]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{3eb23f38-e2b7-4bba-9287-71667334ac0e}.
+[2021.09.27-23.17.04:420][807]LogTemp: Resetting audio stream to device id 
+[2021.09.27-23.17.04:462][807]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.27-23.17.04:462][807]LogAudioMixer: Display: 1: FrontRight
+[2021.09.27-23.24.23:312][114]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 2/1 Pages; frames since last flush: 187560
+[2021.09.27-23.24.23:325][114]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.27-23.24.23:354][115]LogSlate: Took 0.000948 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.09.27-23.24.23:369][115]LogSlate: Took 0.012964 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2021.09.27-23.24.23:373][115]LogSlate: Took 0.001221 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.09.27-23.24.23:386][115]LogSlate: Took 0.012875 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2021.09.27-23.24.23:388][115]LogSlate: Took 0.001814 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.09.27-23.24.23:395][115]LogSlate: Took 0.001727 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.09.27-23.24.23:404][115]LogSlate: Took 0.001405 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.09.27-23.24.23:408][115]LogSlate: Took 0.000828 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.09.27-23.24.23:424][115]LogSlate: Took 0.015668 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicExtraBold.ttf' (4074K)
+[2021.09.27-23.24.25:383][121]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{7855aa4f-c22d-48a2-9d14-afd53c80fe68}.
+[2021.09.27-23.24.25:383][121]LogTemp: Resetting audio stream to device id 
+[2021.09.27-23.24.25:748][121]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.27-23.24.25:748][121]LogAudioMixer: Display: 1: FrontRight
+[2021.09.27-23.24.26:300][123]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{3eb23f38-e2b7-4bba-9287-71667334ac0e}.
+[2021.09.27-23.24.26:300][123]LogTemp: Resetting audio stream to device id 
+[2021.09.27-23.24.26:340][123]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.27-23.24.26:340][123]LogAudioMixer: Display: 1: FrontRight
+[2021.09.27-23.28.44:709][748]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{046cc6de-b28f-43e3-9596-e94d1cd16cbe}.
+[2021.09.27-23.28.44:710][748]LogTemp: Resetting audio stream to device id 
+[2021.09.27-23.28.45:793][748]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.27-23.28.45:793][748]LogAudioMixer: Display: 1: FrontRight
+[2021.09.27-23.28.45:951][749]LogTemp: Resetting audio stream to device id 
+[2021.09.27-23.28.46:000][749]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.27-23.28.46:000][749]LogAudioMixer: Display: 1: FrontRight
+[2021.09.28-00.42.21:038][776]BlueprintLog: New page: BP_UpgradeUI 컴파일
+[2021.09.28-00.42.21:097][776]LogUObjectHash: Compacting FUObjectHashTables data took   5.39ms
+[2021.09.28-00.42.22:343][840]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/BP_UpgradeUI" FILE="../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_UpgradeUI.uasset" SILENT=true
+[2021.09.28-00.42.22:385][840]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/BP_UpgradeUI6A602F4C4AC09BBB53395CA9DE934D28.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_UpgradeUI.uasset'
+[2021.09.28-00.42.22:407][840]AssetCheck: New page: 애셋 저장: BP_UpgradeUI
+[2021.09.28-00.42.22:407][840]LogContentValidation: Display: WidgetBlueprint /Game/UI/BP_UpgradeUI.BP_UpgradeUI 유효성 검사
+[2021.09.28-01.49.07:512][545]LogSlate: Took 0.000872 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.09.28-01.49.24:022][ 20]LogEditorFactories: Performing atomic reimport of [C:/Users/happl/OneDrive/Documents/GitHub/Grow_Wings/UI icons/PerUpgrade_L.png]
+[2021.09.28-01.49.24:023][ 20]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/happl/OneDrive/Documents/GitHub/Grow_Wings/UI icons/PerUpgrade_L.png)
+[2021.09.28-01.49.24:036][ 20]LogTexture: Display: 텍스처 빌드: PerUpgradeLock (BGRA8, 250X80)
+[2021.09.28-01.49.24:039][ 20]LogEditorFactories: -- imported successfully
+[2021.09.28-01.49.45:363][249]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Icons/Upgrade_PL" FILE="../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/Icons/Upgrade_PL.uasset" SILENT=true
+[2021.09.28-01.49.45:368][249]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/Upgrade_PL54D3CFF64CC8E9A184B42FA101C66CA2.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/Icons/Upgrade_PL.uasset'
+[2021.09.28-01.49.45:749][249]LogUObjectHash: Compacting FUObjectHashTables data took  13.19ms
+[2021.09.28-01.49.45:812][249]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2021.09.28-01.49.45:847][249]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.09.28-01.49.45:878][249]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/BP_UpgradeUI" FILE="../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_UpgradeUI.uasset" SILENT=true
+[2021.09.28-01.49.45:923][249]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/BP_UpgradeUI1D6DDEE54EC8D1D741678B891EE45F7B.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_UpgradeUI.uasset'
+[2021.09.28-01.49.45:985][249]AssetCheck: New page: 애셋 저장: 애셋이 다수입니다.
+[2021.09.28-01.49.45:985][249]LogContentValidation: Display: Texture2D /Game/Icons/Upgrade_PL.Upgrade_PL 유효성 검사
+[2021.09.28-01.49.45:985][249]LogContentValidation: Display: WidgetBlueprint /Game/UI/BP_UpgradeUI.BP_UpgradeUI 유효성 검사
+[2021.09.28-01.50.01:994][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Icons/Upgrade_PN" FILE="../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/Icons/Upgrade_PN.uasset" SILENT=true
+[2021.09.28-01.50.01:998][183]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/Upgrade_PN6E67A322473BE07CFCB924A17F944E31.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/Icons/Upgrade_PN.uasset'
+[2021.09.28-01.50.02:243][183]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2021.09.28-01.50.02:287][183]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2021.09.28-01.50.02:320][183]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.09.28-01.50.02:344][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/BP_UpgradeUI" FILE="../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_UpgradeUI.uasset" SILENT=true
+[2021.09.28-01.50.02:380][183]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/BP_UpgradeUI1FB0D6CB4535A91DDF00C7BD80B1B08B.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_UpgradeUI.uasset'
+[2021.09.28-01.50.02:430][183]AssetCheck: New page: 애셋 저장: 애셋이 다수입니다.
+[2021.09.28-01.50.02:430][183]LogContentValidation: Display: Texture2D /Game/Icons/Upgrade_PN.Upgrade_PN 유효성 검사
+[2021.09.28-01.50.02:430][183]LogContentValidation: Display: WidgetBlueprint /Game/UI/BP_UpgradeUI.BP_UpgradeUI 유효성 검사
+[2021.09.28-01.50.14:919][656]LogEditorFactories: Performing atomic reimport of [C:/Users/happl/OneDrive/Documents/GitHub/Grow_Wings/UI icons/PerUpgrade_N.png]
+[2021.09.28-01.50.14:921][656]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/happl/OneDrive/Documents/GitHub/Grow_Wings/UI icons/PerUpgrade_N.png)
+[2021.09.28-01.50.14:925][656]LogTexture: Display: 텍스처 빌드: Upgrade_PN (BGRA8, 250X80)
+[2021.09.28-01.50.14:926][656]LogEditorFactories: -- imported successfully
+[2021.09.28-01.50.23:026][873]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\happl\OneDrive\Documents\GitHub\Grow_Wings\UI icons\PerUpgrade_P.png)
+[2021.09.28-01.50.23:029][873]LogTexture: Display: 텍스처 빌드: PerUpgrade_P (BGRA8, 250X80)
+[2021.09.28-01.50.47:106][209]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Icons/Upgrade_PP" FILE="../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/Icons/Upgrade_PP.uasset" SILENT=true
+[2021.09.28-01.50.47:111][209]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/Upgrade_PP70787E85428AA9E6645C259FB4134AEB.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/Icons/Upgrade_PP.uasset'
+[2021.09.28-01.50.47:373][209]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2021.09.28-01.50.47:418][209]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2021.09.28-01.50.47:450][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2021.09.28-01.50.47:487][209]AssetCheck: New page: 애셋 저장: Upgrade_PP
+[2021.09.28-01.50.47:487][209]LogContentValidation: Display: Texture2D /Game/Icons/Upgrade_PP.Upgrade_PP 유효성 검사
+[2021.09.28-01.50.58:871][787]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\happl\OneDrive\Documents\GitHub\Grow_Wings\UI icons\NormalUpgrade_L.png)
+[2021.09.28-01.50.58:873][787]LogTexture: Display: 텍스처 빌드: NormalUpgrade_L (BGRA8, 250X80)
+[2021.09.28-01.51.14:240][574]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Icons/Upgrade_NL" FILE="../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/Icons/Upgrade_NL.uasset" SILENT=true
+[2021.09.28-01.51.14:245][574]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/Upgrade_NLD8AC1AA9401CF074FC7C04A66679C0FE.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/Icons/Upgrade_NL.uasset'
+[2021.09.28-01.51.14:502][574]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2021.09.28-01.51.14:548][574]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2021.09.28-01.51.14:582][574]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.09.28-01.51.14:618][574]AssetCheck: New page: 애셋 저장: Upgrade_NL
+[2021.09.28-01.51.14:618][574]LogContentValidation: Display: Texture2D /Game/Icons/Upgrade_NL.Upgrade_NL 유효성 검사
+[2021.09.28-01.51.19:885][835]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\happl\OneDrive\Documents\GitHub\Grow_Wings\UI icons\NormalUpgrade_N.png)
+[2021.09.28-01.51.19:888][835]LogTexture: Display: 텍스처 빌드: NormalUpgrade_N (BGRA8, 250X80)
+[2021.09.28-01.51.37:185][741]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Icons/Upgrade_NN" FILE="../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/Icons/Upgrade_NN.uasset" SILENT=true
+[2021.09.28-01.51.37:189][741]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/Upgrade_NN680ACF7D41DAE7E0281A5E80449C9D9F.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/Icons/Upgrade_NN.uasset'
+[2021.09.28-01.51.37:450][741]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2021.09.28-01.51.37:497][741]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2021.09.28-01.51.37:529][741]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.09.28-01.51.37:565][741]AssetCheck: New page: 애셋 저장: Upgrade_NN
+[2021.09.28-01.51.37:565][741]LogContentValidation: Display: Texture2D /Game/Icons/Upgrade_NN.Upgrade_NN 유효성 검사
+[2021.09.28-01.51.43:964][ 50]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\happl\OneDrive\Documents\GitHub\Grow_Wings\UI icons\NormalUpgrade_P.png)
+[2021.09.28-01.51.43:966][ 50]LogTexture: Display: 텍스처 빌드: NormalUpgrade_P (BGRA8, 250X80)
+[2021.09.28-01.51.58:248][819]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Icons/Upgrade_NP" FILE="../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/Icons/Upgrade_NP.uasset" SILENT=true
+[2021.09.28-01.51.58:253][819]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/Upgrade_NP7DE4C03D42653AD18860A5992B5C5877.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/Icons/Upgrade_NP.uasset'
+[2021.09.28-01.51.58:529][819]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2021.09.28-01.51.58:574][819]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2021.09.28-01.51.58:607][819]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.09.28-01.51.58:643][819]AssetCheck: New page: 애셋 저장: Upgrade_NP
+[2021.09.28-01.51.58:643][819]LogContentValidation: Display: Texture2D /Game/Icons/Upgrade_NP.Upgrade_NP 유효성 검사
+[2021.09.28-01.52.01:461][976]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.09.28-01.52.02:439][976]LogSlate: Window '콘텐츠 저장' being destroyed
+[2021.09.28-01.52.02:470][976]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Icons/Upgrade_PN" FILE="../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/Icons/Upgrade_PN.uasset" SILENT=true
+[2021.09.28-01.52.02:498][976]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/Upgrade_PNABF6D2AC4699F7B665148F93B73997DA.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/Icons/Upgrade_PN.uasset'
+[2021.09.28-01.52.02:517][976]AssetCheck: New page: 애셋 저장: Upgrade_PN
+[2021.09.28-01.52.02:517][976]LogContentValidation: Display: Texture2D /Game/Icons/Upgrade_PN.Upgrade_PN 유효성 검사
+[2021.09.28-01.56.29:428][512]BlueprintLog: New page: BP_UpgradeUI 컴파일
+[2021.09.28-01.56.29:481][512]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2021.09.28-01.56.30:018][538]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/BP_UpgradeUI" FILE="../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_UpgradeUI.uasset" SILENT=true
+[2021.09.28-01.56.30:057][538]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/BP_UpgradeUI0C6BF68B4A2416B209678BB3CAE0D427.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_UpgradeUI.uasset'
+[2021.09.28-01.56.30:078][538]AssetCheck: New page: 애셋 저장: BP_UpgradeUI
+[2021.09.28-01.56.30:078][538]LogContentValidation: Display: WidgetBlueprint /Game/UI/BP_UpgradeUI.BP_UpgradeUI 유효성 검사
+[2021.09.28-01.57.10:691][965]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2021.09.28-01.57.10:717][965]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.28-01.57.10:723][965]PIE: New page: PIE 세션: Land (2021. 9. 28. 오후 7:57:10)
+[2021.09.28-01.57.10:730][965]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.09.28-01.57.10:732][965]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.09.28-01.57.10:733][965]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Land
+[2021.09.28-01.57.10:741][965]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007548s)
+[2021.09.28-01.57.10:744][965]LogAIModule: Creating AISystem for world Land
+[2021.09.28-01.57.10:744][965]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000231A4F77E00), frame # 256965
+[2021.09.28-01.57.10:744][965]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002317FC00F40), frame # 256965
+[2021.09.28-01.57.10:745][965]LogPlayLevel: PIE: World Init took: (0.003385s)
+[2021.09.28-01.57.10:745][965]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Land.Land to /Game/Maps/UEDPIE_0_Land.Land (0.011648s)
+[2021.09.28-01.57.10:784][965]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2021.09.28-01.57.10:789][965]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.28-01.57.10:789][965]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.28-01.57.10:789][965]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.28-01.57.10:789][965]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.28-01.57.10:789][965]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.28-01.57.10:789][965]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.28-01.57.10:789][965]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.28-01.57.10:789][965]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.28-01.57.10:790][965]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.28-01.57.10:790][965]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.28-01.57.10:814][965]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.28-01.57.10:814][965]LogAudioMixer: Display: 1: FrontRight
+[2021.09.28-01.57.10:909][965]LogAudioMixer: Display: Using Audio Device 스피커(USB Audio Device)
+[2021.09.28-01.57.10:909][965]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.28-01.57.10:909][965]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.28-01.57.10:909][965]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.28-01.57.10:910][965]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.28-01.57.10:928][965]LogInit: FAudioDevice initialized.
+[2021.09.28-01.57.10:980][965]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.28-01.57.10:982][965]LogLoad: Game class is 'GameModeBase'
+[2021.09.28-01.57.10:987][965]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Land.Land up for play (max tick rate 60) at 2021.09.28-10.57.10
+[2021.09.28-01.57.10:989][965]LogWorld: Bringing up level for play took: 0.005460
+[2021.09.28-01.57.10:990][965]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2021.09.28-01.57.10:995][965]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.09.28-01.57.11:029][965]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0016 seconds. Added 20 classes and 0 folders.
+[2021.09.28-01.57.11:052][965]PIE: 서버가 로그인했습니다.
+[2021.09.28-01.57.11:056][965]PIE: 에디터에서 플레이 총 시작 시간 0.349초입니다.
+[2021.09.28-01.57.11:180][966]LogRenderer: Reallocating scene render targets to support 1520x888 Format 10 NumSamples 1 (Frame:1).
+[2021.09.28-01.57.23:727][223]LogBlueprintUserMessages: [BP_MainUI_C_0] cilked Upgrade
+[2021.09.28-01.57.43:762][398]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.28-01.57.43:762][398]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Land
+[2021.09.28-01.57.43:762][398]LogSlate: Window 'GrowWings 프리뷰 [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.09.28-01.57.43:768][398]LogWorld: UWorld::CleanupWorld for Land, bSessionEnded=true, bCleanupResources=true
+[2021.09.28-01.57.43:769][398]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.28-01.57.43:780][398]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.28-01.57.43:791][398]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.28-01.57.43:914][398]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002317FC00F40), frame # 258398
+[2021.09.28-01.57.43:914][398]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000231A4F77E00), frame # 258398
+[2021.09.28-01.57.43:969][398]LogUObjectHash: Compacting FUObjectHashTables data took   8.53ms
+[2021.09.28-01.57.43:998][399]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2021.09.28-01.59.27:028][386]BlueprintLog: New page: BP_UpgradeUI 컴파일
+[2021.09.28-01.59.27:116][386]LogUObjectHash: Compacting FUObjectHashTables data took   4.98ms
+[2021.09.28-01.59.27:443][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/BP_UpgradeUI" FILE="../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_UpgradeUI.uasset" SILENT=true
+[2021.09.28-01.59.27:483][400]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/BP_UpgradeUI6A47603C4F66BE7C75C04392A47EB688.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_UpgradeUI.uasset'
+[2021.09.28-01.59.27:500][400]AssetCheck: New page: 애셋 저장: BP_UpgradeUI
+[2021.09.28-01.59.27:500][400]LogContentValidation: Display: WidgetBlueprint /Game/UI/BP_UpgradeUI.BP_UpgradeUI 유효성 검사
+[2021.09.28-01.59.30:292][566]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2021.09.28-01.59.30:308][566]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.28-01.59.30:308][566]PIE: New page: PIE 세션: Land (2021. 9. 28. 오후 7:59:30)
+[2021.09.28-01.59.30:308][566]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Land
+[2021.09.28-01.59.30:311][566]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003048s)
+[2021.09.28-01.59.30:312][566]LogAIModule: Creating AISystem for world Land
+[2021.09.28-01.59.30:312][566]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000231968E3E00), frame # 264566
+[2021.09.28-01.59.30:312][566]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002319BC38B80), frame # 264566
+[2021.09.28-01.59.30:312][566]LogPlayLevel: PIE: World Init took: (0.001418s)
+[2021.09.28-01.59.30:312][566]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Land.Land to /Game/Maps/UEDPIE_0_Land.Land (0.004594s)
+[2021.09.28-01.59.30:349][566]LogUObjectHash: Compacting FUObjectHashTables data took   5.22ms
+[2021.09.28-01.59.30:350][566]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.28-01.59.30:350][566]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.28-01.59.30:350][566]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.28-01.59.30:350][566]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.28-01.59.30:350][566]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.28-01.59.30:350][566]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.28-01.59.30:350][566]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.28-01.59.30:350][566]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.28-01.59.30:351][566]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.28-01.59.30:351][566]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.28-01.59.30:368][566]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.28-01.59.30:368][566]LogAudioMixer: Display: 1: FrontRight
+[2021.09.28-01.59.30:459][566]LogAudioMixer: Display: Using Audio Device 스피커(USB Audio Device)
+[2021.09.28-01.59.30:460][566]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.28-01.59.30:460][566]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.28-01.59.30:460][566]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.28-01.59.30:460][566]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.28-01.59.30:474][566]LogInit: FAudioDevice initialized.
+[2021.09.28-01.59.30:524][566]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.28-01.59.30:525][566]LogLoad: Game class is 'GameModeBase'
+[2021.09.28-01.59.30:526][566]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Land.Land up for play (max tick rate 60) at 2021.09.28-10.59.30
+[2021.09.28-01.59.30:526][566]LogWorld: Bringing up level for play took: 0.000773
+[2021.09.28-01.59.30:526][566]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2021.09.28-01.59.30:528][566]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.09.28-01.59.30:534][566]PIE: 서버가 로그인했습니다.
+[2021.09.28-01.59.30:535][566]PIE: 에디터에서 플레이 총 시작 시간 0.23초입니다.
+[2021.09.28-01.59.43:143][739]LogBlueprintUserMessages: [BP_MainUI_C_0] cilked Upgrade
+[2021.09.28-02.00.11:461][394]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.28-02.00.11:461][394]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Land
+[2021.09.28-02.00.11:461][394]LogSlate: Window 'GrowWings 프리뷰 [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.09.28-02.00.11:465][394]LogWorld: UWorld::CleanupWorld for Land, bSessionEnded=true, bCleanupResources=true
+[2021.09.28-02.00.11:466][394]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.28-02.00.11:475][394]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.28-02.00.11:480][394]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.28-02.00.11:550][394]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002319BC38B80), frame # 266394
+[2021.09.28-02.00.11:550][394]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000231968E3E00), frame # 266394
+[2021.09.28-02.00.11:556][394]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2021.09.28-02.00.11:588][395]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2021.09.28-02.01.02:349][353]BlueprintLog: New page: BP_UpgradeUI 컴파일
+[2021.09.28-02.01.02:399][353]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2021.09.28-02.01.03:117][385]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/BP_UpgradeUI" FILE="../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_UpgradeUI.uasset" SILENT=true
+[2021.09.28-02.01.03:156][385]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/BP_UpgradeUI94EE95114FB51E617838629BC130C425.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_UpgradeUI.uasset'
+[2021.09.28-02.01.03:172][385]AssetCheck: New page: 애셋 저장: BP_UpgradeUI
+[2021.09.28-02.01.03:172][385]LogContentValidation: Display: WidgetBlueprint /Game/UI/BP_UpgradeUI.BP_UpgradeUI 유효성 검사
+[2021.09.28-02.01.06:464][582]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2021.09.28-02.01.06:480][582]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.28-02.01.06:480][582]PIE: New page: PIE 세션: Land (2021. 9. 28. 오후 8:01:06)
+[2021.09.28-02.01.06:480][582]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Land
+[2021.09.28-02.01.06:485][582]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004859s)
+[2021.09.28-02.01.06:486][582]LogAIModule: Creating AISystem for world Land
+[2021.09.28-02.01.06:486][582]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002319F548C00), frame # 269582
+[2021.09.28-02.01.06:486][582]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002317A8CA480), frame # 269582
+[2021.09.28-02.01.06:487][582]LogPlayLevel: PIE: World Init took: (0.001378s)
+[2021.09.28-02.01.06:487][582]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Land.Land to /Game/Maps/UEDPIE_0_Land.Land (0.006359s)
+[2021.09.28-02.01.06:523][582]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2021.09.28-02.01.06:524][582]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.28-02.01.06:524][582]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.28-02.01.06:524][582]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.28-02.01.06:524][582]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.28-02.01.06:524][582]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.28-02.01.06:524][582]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.28-02.01.06:524][582]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.28-02.01.06:524][582]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.28-02.01.06:525][582]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.28-02.01.06:525][582]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.28-02.01.06:542][582]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.28-02.01.06:542][582]LogAudioMixer: Display: 1: FrontRight
+[2021.09.28-02.01.06:641][582]LogAudioMixer: Display: Using Audio Device 스피커(USB Audio Device)
+[2021.09.28-02.01.06:641][582]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.28-02.01.06:641][582]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.28-02.01.06:641][582]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.28-02.01.06:642][582]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.28-02.01.06:662][582]LogInit: FAudioDevice initialized.
+[2021.09.28-02.01.06:716][582]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.28-02.01.06:716][582]LogLoad: Game class is 'GameModeBase'
+[2021.09.28-02.01.06:717][582]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Land.Land up for play (max tick rate 60) at 2021.09.28-11.01.06
+[2021.09.28-02.01.06:718][582]LogWorld: Bringing up level for play took: 0.000755
+[2021.09.28-02.01.06:718][582]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2021.09.28-02.01.06:720][582]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.09.28-02.01.06:726][582]PIE: 서버가 로그인했습니다.
+[2021.09.28-02.01.06:728][582]PIE: 에디터에서 플레이 총 시작 시간 0.249초입니다.
+[2021.09.28-02.01.08:882][702]LogBlueprintUserMessages: [BP_MainUI_C_0] cilked Upgrade
+[2021.09.28-02.01.14:020][  6]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.28-02.01.14:020][  6]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Land
+[2021.09.28-02.01.14:021][  6]LogSlate: Window 'GrowWings 프리뷰 [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.09.28-02.01.14:029][  6]LogWorld: UWorld::CleanupWorld for Land, bSessionEnded=true, bCleanupResources=true
+[2021.09.28-02.01.14:029][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.28-02.01.14:037][  6]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.28-02.01.14:043][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.28-02.01.14:117][  6]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002317A8CA480), frame # 270006
+[2021.09.28-02.01.14:117][  6]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002319F548C00), frame # 270006
+[2021.09.28-02.01.14:122][  6]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2021.09.28-02.01.14:150][  7]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2021.09.28-02.01.16:212][130]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2021.09.28-02.01.16:228][130]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.28-02.01.16:228][130]PIE: New page: PIE 세션: Land (2021. 9. 28. 오후 8:01:16)
+[2021.09.28-02.01.16:228][130]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Land
+[2021.09.28-02.01.16:231][130]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002587s)
+[2021.09.28-02.01.16:232][130]LogAIModule: Creating AISystem for world Land
+[2021.09.28-02.01.16:232][130]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000023128C6FE00), frame # 270130
+[2021.09.28-02.01.16:232][130]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002319459AE80), frame # 270130
+[2021.09.28-02.01.16:233][130]LogPlayLevel: PIE: World Init took: (0.001885s)
+[2021.09.28-02.01.16:233][130]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Land.Land to /Game/Maps/UEDPIE_0_Land.Land (0.004612s)
+[2021.09.28-02.01.16:271][130]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2021.09.28-02.01.16:272][130]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.28-02.01.16:272][130]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.28-02.01.16:272][130]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.28-02.01.16:272][130]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.28-02.01.16:272][130]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.28-02.01.16:272][130]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.28-02.01.16:272][130]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.28-02.01.16:272][130]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.28-02.01.16:273][130]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.28-02.01.16:273][130]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.28-02.01.16:291][130]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.28-02.01.16:291][130]LogAudioMixer: Display: 1: FrontRight
+[2021.09.28-02.01.16:385][130]LogAudioMixer: Display: Using Audio Device 스피커(USB Audio Device)
+[2021.09.28-02.01.16:385][130]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.28-02.01.16:386][130]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.28-02.01.16:386][130]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.28-02.01.16:386][130]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.28-02.01.16:409][130]LogInit: FAudioDevice initialized.
+[2021.09.28-02.01.16:465][130]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.28-02.01.16:465][130]LogLoad: Game class is 'GameModeBase'
+[2021.09.28-02.01.16:466][130]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Land.Land up for play (max tick rate 60) at 2021.09.28-11.01.16
+[2021.09.28-02.01.16:466][130]LogWorld: Bringing up level for play took: 0.000770
+[2021.09.28-02.01.16:466][130]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2021.09.28-02.01.16:468][130]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.09.28-02.01.16:476][130]PIE: 서버가 로그인했습니다.
+[2021.09.28-02.01.16:477][130]PIE: 에디터에서 플레이 총 시작 시간 0.25초입니다.
+[2021.09.28-02.01.18:015][215]LogBlueprintUserMessages: [BP_MainUI_C_0] cilked Upgrade
+[2021.09.28-02.02.25:450][394]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.28-02.02.25:450][394]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Land
+[2021.09.28-02.02.25:450][394]LogSlate: Window 'GrowWings 프리뷰 [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.09.28-02.02.25:453][394]LogWorld: UWorld::CleanupWorld for Land, bSessionEnded=true, bCleanupResources=true
+[2021.09.28-02.02.25:453][394]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.28-02.02.25:460][394]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.28-02.02.25:466][394]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.28-02.02.25:529][394]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002319459AE80), frame # 273394
+[2021.09.28-02.02.25:529][394]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000023128C6FE00), frame # 273394
+[2021.09.28-02.02.25:534][394]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2021.09.28-02.02.25:560][395]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2021.09.28-02.03.36:879][606]BlueprintLog: New page: BP_UpgradeUI 컴파일
+[2021.09.28-02.03.36:924][606]LogUObjectHash: Compacting FUObjectHashTables data took   4.87ms
+[2021.09.28-02.03.37:500][635]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/BP_UpgradeUI" FILE="../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_UpgradeUI.uasset" SILENT=true
+[2021.09.28-02.03.37:541][635]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/BP_UpgradeUIC15876C44E01A1BAF7C12AA2880F88F7.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_UpgradeUI.uasset'
+[2021.09.28-02.03.37:558][635]AssetCheck: New page: 애셋 저장: BP_UpgradeUI
+[2021.09.28-02.03.37:558][635]LogContentValidation: Display: WidgetBlueprint /Game/UI/BP_UpgradeUI.BP_UpgradeUI 유효성 검사
+[2021.09.28-02.03.41:733][885]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2021.09.28-02.03.41:750][885]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.28-02.03.41:750][885]PIE: New page: PIE 세션: Land (2021. 9. 28. 오후 8:03:41)
+[2021.09.28-02.03.41:750][885]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Land
+[2021.09.28-02.03.41:752][885]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002414s)
+[2021.09.28-02.03.41:754][885]LogAIModule: Creating AISystem for world Land
+[2021.09.28-02.03.41:754][885]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000023192F5BE00), frame # 277885
+[2021.09.28-02.03.41:754][885]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000231CB961800), frame # 277885
+[2021.09.28-02.03.41:754][885]LogPlayLevel: PIE: World Init took: (0.002004s)
+[2021.09.28-02.03.41:754][885]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Land.Land to /Game/Maps/UEDPIE_0_Land.Land (0.004588s)
+[2021.09.28-02.03.41:793][885]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2021.09.28-02.03.41:793][885]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.28-02.03.41:793][885]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.28-02.03.41:793][885]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.28-02.03.41:793][885]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.28-02.03.41:793][885]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.28-02.03.41:794][885]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.28-02.03.41:794][885]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.28-02.03.41:794][885]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.28-02.03.41:794][885]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.28-02.03.41:794][885]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.28-02.03.41:810][885]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.28-02.03.41:810][885]LogAudioMixer: Display: 1: FrontRight
+[2021.09.28-02.03.41:902][885]LogAudioMixer: Display: Using Audio Device 스피커(USB Audio Device)
+[2021.09.28-02.03.41:902][885]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.28-02.03.41:902][885]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.28-02.03.41:902][885]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.28-02.03.41:903][885]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.28-02.03.41:920][885]LogInit: FAudioDevice initialized.
+[2021.09.28-02.03.41:984][885]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.28-02.03.41:984][885]LogLoad: Game class is 'GameModeBase'
+[2021.09.28-02.03.41:985][885]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Land.Land up for play (max tick rate 60) at 2021.09.28-11.03.41
+[2021.09.28-02.03.41:985][885]LogWorld: Bringing up level for play took: 0.000708
+[2021.09.28-02.03.41:985][885]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2021.09.28-02.03.41:987][885]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.09.28-02.03.41:995][885]PIE: 서버가 로그인했습니다.
+[2021.09.28-02.03.41:996][885]PIE: 에디터에서 플레이 총 시작 시간 0.247초입니다.
+[2021.09.28-02.03.44:197][  5]LogBlueprintUserMessages: [BP_MainUI_C_0] cilked Upgrade
+[2021.09.28-02.03.56:521][739]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.28-02.03.56:521][739]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Land
+[2021.09.28-02.03.56:521][739]LogSlate: Window 'GrowWings 프리뷰 [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.09.28-02.03.56:527][739]LogWorld: UWorld::CleanupWorld for Land, bSessionEnded=true, bCleanupResources=true
+[2021.09.28-02.03.56:527][739]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.28-02.03.56:537][739]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.28-02.03.56:547][739]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.28-02.03.56:621][739]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000231CB961800), frame # 278739
+[2021.09.28-02.03.56:621][739]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000023192F5BE00), frame # 278739
+[2021.09.28-02.03.56:628][739]LogUObjectHash: Compacting FUObjectHashTables data took   5.72ms
+[2021.09.28-02.03.56:652][740]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2021.09.28-02.04.09:546][473]BlueprintLog: New page: BP_UpgradeUI 컴파일
+[2021.09.28-02.04.09:594][473]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2021.09.28-02.04.10:311][511]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/BP_UpgradeUI" FILE="../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_UpgradeUI.uasset" SILENT=true
+[2021.09.28-02.04.10:353][511]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/BP_UpgradeUIE528B388429B47A07CD378A3A45C3B6E.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_UpgradeUI.uasset'
+[2021.09.28-02.04.10:371][511]AssetCheck: New page: 애셋 저장: BP_UpgradeUI
+[2021.09.28-02.04.10:371][511]LogContentValidation: Display: WidgetBlueprint /Game/UI/BP_UpgradeUI.BP_UpgradeUI 유효성 검사
+[2021.09.28-02.07.27:558][964]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.09.28-02.07.27:558][964]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.28-02.07.27:592][964]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.09.28-02.07.27:592][964]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.28-02.07.32:442][214]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/BP_UpgradeUI.BP_UpgradeUI
+[2021.09.28-02.08.10:917][389]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 2/1 Pages; frames since last flush: 100275
+[2021.09.28-02.08.10:924][389]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.28-02.08.10:937][390]LogSlate: Took 0.000919 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.09.28-02.08.10:938][390]LogSlate: Took 0.000511 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.09.28-02.08.10:949][390]LogSlate: Took 0.010229 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2021.09.28-02.08.10:961][390]LogSlate: Took 0.009519 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2021.09.28-02.08.10:963][390]LogSlate: Took 0.000284 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.09.28-02.08.10:964][390]LogSlate: Took 0.000410 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.09.28-02.08.10:966][390]LogSlate: Took 0.000330 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.09.28-02.08.10:973][390]LogSlate: Took 0.000750 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.09.28-02.08.10:985][390]LogSlate: Took 0.011552 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicExtraBold.ttf' (4074K)
+[2021.09.28-02.09.34:854][217]LogEditorTransaction: Undo Left 편집
+[2021.09.28-02.09.35:325][230]LogEditorTransaction: Undo Left 편집
+[2021.09.28-02.09.35:723][251]LogEditorTransaction: Undo 위젯 크기조정
+[2021.09.28-02.09.36:172][275]LogEditorTransaction: Undo Left 편집
+[2021.09.28-02.09.36:570][297]LogEditorTransaction: Undo 위젯 크기조정
+[2021.09.28-02.09.36:979][320]LogEditorTransaction: Undo Left 편집
+[2021.09.28-02.09.37:428][346]LogEditorTransaction: Undo 위젯 크기조정
+[2021.09.28-02.09.38:944][432]BlueprintLog: New page: BP_UpgradeUI 컴파일
+[2021.09.28-02.09.39:161][432]LogUObjectHash: Compacting FUObjectHashTables data took   8.42ms
+[2021.09.28-02.09.39:446][441]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/BP_UpgradeUI" FILE="../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_UpgradeUI.uasset" SILENT=true
+[2021.09.28-02.09.39:496][441]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/BP_UpgradeUI7C8D845D41B60830DE895795A647D633.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_UpgradeUI.uasset'
+[2021.09.28-02.09.39:521][441]AssetCheck: New page: 애셋 저장: BP_UpgradeUI
+[2021.09.28-02.09.39:521][441]LogContentValidation: Display: WidgetBlueprint /Game/UI/BP_UpgradeUI.BP_UpgradeUI 유효성 검사
+[2021.09.28-02.09.40:535][499]LogSlate: Took 0.000214 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.09.28-02.11.51:887][ 16]LogSlate: Window '프로젝트 세팅' being destroyed
+[2021.09.28-02.11.51:893][ 16]LogSlate: Window '프로젝트 세팅' being destroyed
+[2021.09.28-02.13.33:629][109]LogEditorTransaction: Undo 위젯 이동
+[2021.09.28-02.16.51:725][768]LogEditorTransaction: Undo Top 편집
+[2021.09.28-02.17.13:438][ 10]BlueprintLog: New page: BP_UpgradeUI 컴파일
+[2021.09.28-02.17.13:545][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   5.25ms
+[2021.09.28-02.17.14:153][ 42]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/BP_UpgradeUI" FILE="../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_UpgradeUI.uasset" SILENT=true
+[2021.09.28-02.17.14:195][ 42]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/BP_UpgradeUI9E015F2F439561257DC61480947672B4.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_UpgradeUI.uasset'
+[2021.09.28-02.17.14:215][ 42]AssetCheck: New page: 애셋 저장: BP_UpgradeUI
+[2021.09.28-02.17.14:215][ 42]LogContentValidation: Display: WidgetBlueprint /Game/UI/BP_UpgradeUI.BP_UpgradeUI 유효성 검사
+[2021.09.28-02.19.05:321][527]BlueprintLog: New page: BP_UpgradeUI 컴파일
+[2021.09.28-02.19.05:370][527]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2021.09.28-02.19.06:240][568]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/BP_UpgradeUI" FILE="../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_UpgradeUI.uasset" SILENT=true
+[2021.09.28-02.19.06:280][568]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/BP_UpgradeUIFDAF9F39486A3FB240E2C685B474F342.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_UpgradeUI.uasset'
+[2021.09.28-02.19.06:295][568]AssetCheck: New page: 애셋 저장: BP_UpgradeUI
+[2021.09.28-02.19.06:295][568]LogContentValidation: Display: WidgetBlueprint /Game/UI/BP_UpgradeUI.BP_UpgradeUI 유효성 검사
+[2021.09.28-02.21.28:371][889]BlueprintLog: New page: BP_UpgradeUI 컴파일
+[2021.09.28-02.21.28:419][889]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2021.09.28-02.21.28:857][910]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/BP_UpgradeUI" FILE="../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_UpgradeUI.uasset" SILENT=true
+[2021.09.28-02.21.28:899][910]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/BP_UpgradeUI051A8E9E4296D9E63D78CDA83FD5815F.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_UpgradeUI.uasset'
+[2021.09.28-02.21.28:917][910]AssetCheck: New page: 애셋 저장: BP_UpgradeUI
+[2021.09.28-02.21.28:917][910]LogContentValidation: Display: WidgetBlueprint /Game/UI/BP_UpgradeUI.BP_UpgradeUI 유효성 검사
+[2021.09.28-02.21.42:636][727]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2021.09.28-02.21.42:654][727]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.28-02.21.42:655][727]PIE: New page: PIE 세션: Land (2021. 9. 28. 오후 8:21:42)
+[2021.09.28-02.21.42:655][727]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Land
+[2021.09.28-02.21.42:658][727]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002992s)
+[2021.09.28-02.21.42:659][727]LogAIModule: Creating AISystem for world Land
+[2021.09.28-02.21.42:660][727]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000023129C87E00), frame # 332727
+[2021.09.28-02.21.42:660][727]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002311F861940), frame # 332727
+[2021.09.28-02.21.42:660][727]LogPlayLevel: PIE: World Init took: (0.002147s)
+[2021.09.28-02.21.42:660][727]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Land.Land to /Game/Maps/UEDPIE_0_Land.Land (0.005436s)
+[2021.09.28-02.21.42:695][727]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2021.09.28-02.21.42:697][727]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.28-02.21.42:697][727]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.28-02.21.42:697][727]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.28-02.21.42:697][727]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.28-02.21.42:697][727]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.28-02.21.42:697][727]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.28-02.21.42:697][727]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.28-02.21.42:697][727]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.28-02.21.42:697][727]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.28-02.21.42:697][727]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.28-02.21.42:716][727]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.28-02.21.42:716][727]LogAudioMixer: Display: 1: FrontRight
+[2021.09.28-02.21.42:807][727]LogAudioMixer: Display: Using Audio Device 스피커(USB Audio Device)
+[2021.09.28-02.21.42:807][727]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.28-02.21.42:807][727]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.28-02.21.42:807][727]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.28-02.21.42:808][727]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.28-02.21.42:825][727]LogInit: FAudioDevice initialized.
+[2021.09.28-02.21.42:873][727]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.28-02.21.42:873][727]LogLoad: Game class is 'GameModeBase'
+[2021.09.28-02.21.42:874][727]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Land.Land up for play (max tick rate 60) at 2021.09.28-11.21.42
+[2021.09.28-02.21.42:874][727]LogWorld: Bringing up level for play took: 0.000774
+[2021.09.28-02.21.42:875][727]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2021.09.28-02.21.42:877][727]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.09.28-02.21.42:883][727]PIE: 서버가 로그인했습니다.
+[2021.09.28-02.21.42:884][727]PIE: 에디터에서 플레이 총 시작 시간 0.231초입니다.
+[2021.09.28-02.21.46:102][910]LogBlueprintUserMessages: [BP_MainUI_C_0] cilked Upgrade
+[2021.09.28-02.21.59:474][ 69]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 2/1 Pages; frames since last flush: 40680
+[2021.09.28-02.21.59:493][ 69]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.28-02.21.59:531][ 69]LogSlate: Took 0.000242 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.09.28-02.21.59:533][ 69]LogSlate: Took 0.001699 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2021.09.28-02.22.04:082][ 69]LogSlate: Took 0.000275 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.09.28-02.22.04:084][ 69]LogSlate: Took 0.001730 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2021.09.28-02.22.04:084][ 69]LogSlate: Took 0.000174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.09.28-02.22.04:085][ 69]LogSlate: Took 0.000150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.09.28-02.22.04:088][ 69]LogSlate: Took 0.000237 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.09.28-02.22.04:094][ 69]LogSlate: Took 0.000230 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.09.28-02.22.04:096][ 69]LogSlate: Took 0.001675 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicExtraBold.ttf' (4074K)
+[2021.09.28-02.22.07:678][271]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.28-02.22.07:678][271]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Land
+[2021.09.28-02.22.07:678][271]LogSlate: Window 'GrowWings 프리뷰 [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.09.28-02.22.07:682][271]LogWorld: UWorld::CleanupWorld for Land, bSessionEnded=true, bCleanupResources=true
+[2021.09.28-02.22.07:682][271]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.28-02.22.07:692][271]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.28-02.22.07:698][271]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.28-02.22.07:759][271]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002311F861940), frame # 333271
+[2021.09.28-02.22.07:759][271]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000023129C87E00), frame # 333271
+[2021.09.28-02.22.07:765][271]LogUObjectHash: Compacting FUObjectHashTables data took   6.15ms
+[2021.09.28-02.22.07:790][272]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2021.09.28-02.24.36:000][ 50]BlueprintLog: New page: BP_UpgradeUI 컴파일
+[2021.09.28-02.24.36:048][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2021.09.28-02.24.36:425][ 67]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/BP_UpgradeUI" FILE="../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_UpgradeUI.uasset" SILENT=true
+[2021.09.28-02.24.36:465][ 67]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/BP_UpgradeUI6F13C6C34EE3C0AE77AFC78771E32D78.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_UpgradeUI.uasset'
+[2021.09.28-02.24.36:488][ 67]AssetCheck: New page: 애셋 저장: BP_UpgradeUI
+[2021.09.28-02.24.36:488][ 67]LogContentValidation: Display: WidgetBlueprint /Game/UI/BP_UpgradeUI.BP_UpgradeUI 유효성 검사
+[2021.09.28-02.24.41:116][342]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2021.09.28-02.24.41:135][342]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.28-02.24.41:135][342]PIE: New page: PIE 세션: Land (2021. 9. 28. 오후 8:24:41)
+[2021.09.28-02.24.41:135][342]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Land
+[2021.09.28-02.24.41:138][342]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003016s)
+[2021.09.28-02.24.41:139][342]LogAIModule: Creating AISystem for world Land
+[2021.09.28-02.24.41:139][342]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002313235FE00), frame # 342342
+[2021.09.28-02.24.41:140][342]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002316B380F40), frame # 342342
+[2021.09.28-02.24.41:140][342]LogPlayLevel: PIE: World Init took: (0.001917s)
+[2021.09.28-02.24.41:140][342]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Land.Land to /Game/Maps/UEDPIE_0_Land.Land (0.005097s)
+[2021.09.28-02.24.41:174][342]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2021.09.28-02.24.41:175][342]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.28-02.24.41:175][342]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.28-02.24.41:175][342]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.28-02.24.41:175][342]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.28-02.24.41:176][342]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.28-02.24.41:176][342]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.28-02.24.41:176][342]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.28-02.24.41:176][342]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.28-02.24.41:176][342]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.28-02.24.41:176][342]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.28-02.24.41:192][342]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.28-02.24.41:192][342]LogAudioMixer: Display: 1: FrontRight
+[2021.09.28-02.24.41:283][342]LogAudioMixer: Display: Using Audio Device 스피커(USB Audio Device)
+[2021.09.28-02.24.41:283][342]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.28-02.24.41:283][342]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.28-02.24.41:283][342]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.28-02.24.41:284][342]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.28-02.24.41:302][342]LogInit: FAudioDevice initialized.
+[2021.09.28-02.24.41:351][342]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.28-02.24.41:351][342]LogLoad: Game class is 'GameModeBase'
+[2021.09.28-02.24.41:352][342]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Land.Land up for play (max tick rate 60) at 2021.09.28-11.24.41
+[2021.09.28-02.24.41:352][342]LogWorld: Bringing up level for play took: 0.000685
+[2021.09.28-02.24.41:352][342]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2021.09.28-02.24.41:354][342]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.09.28-02.24.41:362][342]PIE: 서버가 로그인했습니다.
+[2021.09.28-02.24.41:363][342]PIE: 에디터에서 플레이 총 시작 시간 0.229초입니다.
+[2021.09.28-02.24.43:036][431]LogBlueprintUserMessages: [BP_MainUI_C_0] cilked Upgrade
+[2021.09.28-02.25.05:648][865]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.28-02.25.05:648][865]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Land
+[2021.09.28-02.25.05:648][865]LogSlate: Window 'GrowWings 프리뷰 [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.09.28-02.25.05:652][865]LogWorld: UWorld::CleanupWorld for Land, bSessionEnded=true, bCleanupResources=true
+[2021.09.28-02.25.05:652][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.28-02.25.05:664][865]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.28-02.25.05:669][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.28-02.25.05:737][865]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002316B380F40), frame # 342865
+[2021.09.28-02.25.05:737][865]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002313235FE00), frame # 342865
+[2021.09.28-02.25.05:741][865]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2021.09.28-02.25.05:768][866]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2021.09.28-02.25.18:307][610]LogSlate: Window '위젯 리플렉터' being destroyed
+[2021.09.28-02.26.00:247][ 89]BlueprintLog: New page: BP_UpgradeUI 컴파일
+[2021.09.28-02.26.00:298][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2021.09.28-02.26.00:742][105]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/BP_UpgradeUI" FILE="../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_UpgradeUI.uasset" SILENT=true
+[2021.09.28-02.26.00:781][105]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/BP_UpgradeUI3FD4184945BE617B0EEA3287FBE83373.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_UpgradeUI.uasset'
+[2021.09.28-02.26.00:796][105]AssetCheck: New page: 애셋 저장: BP_UpgradeUI
+[2021.09.28-02.26.00:796][105]LogContentValidation: Display: WidgetBlueprint /Game/UI/BP_UpgradeUI.BP_UpgradeUI 유효성 검사
+[2021.09.28-02.26.09:095][592]LogSlate: Window '위젯 리플렉터' being destroyed
+[2021.09.28-02.26.09:106][592]LogSlate: Window '위젯 리플렉터' being destroyed
+[2021.09.28-02.26.10:003][646]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2021.09.28-02.26.10:019][646]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.28-02.26.10:019][646]PIE: New page: PIE 세션: Land (2021. 9. 28. 오후 8:26:10)
+[2021.09.28-02.26.10:019][646]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Land
+[2021.09.28-02.26.10:021][646]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002315s)
+[2021.09.28-02.26.10:023][646]LogAIModule: Creating AISystem for world Land
+[2021.09.28-02.26.10:023][646]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000231293C4800), frame # 346646
+[2021.09.28-02.26.10:023][646]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000023133FE0F40), frame # 346646
+[2021.09.28-02.26.10:023][646]LogPlayLevel: PIE: World Init took: (0.001863s)
+[2021.09.28-02.26.10:023][646]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Land.Land to /Game/Maps/UEDPIE_0_Land.Land (0.004322s)
+[2021.09.28-02.26.10:056][646]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2021.09.28-02.26.10:058][646]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.28-02.26.10:058][646]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.28-02.26.10:058][646]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.28-02.26.10:058][646]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.28-02.26.10:058][646]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.28-02.26.10:058][646]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.28-02.26.10:058][646]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.28-02.26.10:058][646]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.28-02.26.10:059][646]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.28-02.26.10:059][646]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.28-02.26.10:078][646]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.28-02.26.10:078][646]LogAudioMixer: Display: 1: FrontRight
+[2021.09.28-02.26.10:172][646]LogAudioMixer: Display: Using Audio Device 스피커(USB Audio Device)
+[2021.09.28-02.26.10:172][646]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.28-02.26.10:172][646]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.28-02.26.10:172][646]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.28-02.26.10:173][646]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.28-02.26.10:191][646]LogInit: FAudioDevice initialized.
+[2021.09.28-02.26.10:239][646]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.28-02.26.10:239][646]LogLoad: Game class is 'GameModeBase'
+[2021.09.28-02.26.10:240][646]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Land.Land up for play (max tick rate 60) at 2021.09.28-11.26.10
+[2021.09.28-02.26.10:240][646]LogWorld: Bringing up level for play took: 0.000690
+[2021.09.28-02.26.10:241][646]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.09.28-02.26.10:242][646]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.09.28-02.26.10:248][646]PIE: 서버가 로그인했습니다.
+[2021.09.28-02.26.10:251][646]PIE: 에디터에서 플레이 총 시작 시간 0.234초입니다.
+[2021.09.28-02.26.11:790][725]LogBlueprintUserMessages: [BP_MainUI_C_0] cilked Upgrade
+[2021.09.28-02.26.18:707][136]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.28-02.26.18:707][136]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Land
+[2021.09.28-02.26.18:708][136]LogSlate: Window 'GrowWings 프리뷰 [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.09.28-02.26.18:715][136]LogWorld: UWorld::CleanupWorld for Land, bSessionEnded=true, bCleanupResources=true
+[2021.09.28-02.26.18:716][136]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.28-02.26.18:734][136]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.28-02.26.18:740][136]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.28-02.26.18:888][136]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000023133FE0F40), frame # 347136
+[2021.09.28-02.26.18:888][136]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000231293C4800), frame # 347136
+[2021.09.28-02.26.18:904][136]LogUObjectHash: Compacting FUObjectHashTables data took  14.80ms
+[2021.09.28-02.26.18:959][137]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.09.28-02.26.48:969][736]BlueprintLog: New page: BP_UpgradeUI 컴파일
+[2021.09.28-02.26.49:029][736]LogUObjectHash: Compacting FUObjectHashTables data took   5.60ms
+[2021.09.28-02.26.49:589][754]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/BP_UpgradeUI" FILE="../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_UpgradeUI.uasset" SILENT=true
+[2021.09.28-02.26.49:638][754]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/BP_UpgradeUI6D26726F45E5E463C71A4F9196594FEC.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_UpgradeUI.uasset'
+[2021.09.28-02.26.49:656][754]AssetCheck: New page: 애셋 저장: BP_UpgradeUI
+[2021.09.28-02.26.49:656][754]LogContentValidation: Display: WidgetBlueprint /Game/UI/BP_UpgradeUI.BP_UpgradeUI 유효성 검사
+[2021.09.28-02.26.50:482][793]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2021.09.28-02.26.50:523][793]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.28-02.26.50:524][793]PIE: New page: PIE 세션: Land (2021. 9. 28. 오후 8:26:50)
+[2021.09.28-02.26.50:524][793]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Land
+[2021.09.28-02.26.50:529][793]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005036s)
+[2021.09.28-02.26.50:530][793]LogAIModule: Creating AISystem for world Land
+[2021.09.28-02.26.50:530][793]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002311BB8A800), frame # 347793
+[2021.09.28-02.26.50:530][793]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002316B577240), frame # 347793
+[2021.09.28-02.26.50:531][793]LogPlayLevel: PIE: World Init took: (0.001711s)
+[2021.09.28-02.26.50:531][793]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Land.Land to /Game/Maps/UEDPIE_0_Land.Land (0.006923s)
+[2021.09.28-02.26.50:570][793]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2021.09.28-02.26.50:571][793]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.28-02.26.50:571][793]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.28-02.26.50:571][793]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.28-02.26.50:571][793]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.28-02.26.50:571][793]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.28-02.26.50:571][793]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.28-02.26.50:571][793]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.28-02.26.50:571][793]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.28-02.26.50:572][793]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.28-02.26.50:572][793]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.28-02.26.50:591][793]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.28-02.26.50:591][793]LogAudioMixer: Display: 1: FrontRight
+[2021.09.28-02.26.50:771][793]LogAudioMixer: Display: Using Audio Device 스피커(USB Audio Device)
+[2021.09.28-02.26.50:771][793]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.28-02.26.50:771][793]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.28-02.26.50:771][793]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.28-02.26.50:773][793]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.28-02.26.50:783][793]LogInit: FAudioDevice initialized.
+[2021.09.28-02.26.50:841][793]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.28-02.26.50:841][793]LogLoad: Game class is 'GameModeBase'
+[2021.09.28-02.26.50:842][793]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Land.Land up for play (max tick rate 60) at 2021.09.28-11.26.50
+[2021.09.28-02.26.50:843][793]LogWorld: Bringing up level for play took: 0.001122
+[2021.09.28-02.26.50:843][793]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2021.09.28-02.26.50:847][793]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.09.28-02.26.50:853][793]PIE: 서버가 로그인했습니다.
+[2021.09.28-02.26.50:854][793]PIE: 에디터에서 플레이 총 시작 시간 0.332초입니다.
+[2021.09.28-02.26.52:520][876]LogBlueprintUserMessages: [BP_MainUI_C_0] cilked Upgrade
+[2021.09.28-02.27.02:879][432]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.28-02.27.02:879][432]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Land
+[2021.09.28-02.27.02:880][432]LogSlate: Window 'GrowWings 프리뷰 [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.09.28-02.27.02:886][432]LogWorld: UWorld::CleanupWorld for Land, bSessionEnded=true, bCleanupResources=true
+[2021.09.28-02.27.02:887][432]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.28-02.27.02:902][432]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.28-02.27.02:909][432]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.28-02.27.02:987][432]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002316B577240), frame # 348432
+[2021.09.28-02.27.02:987][432]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002311BB8A800), frame # 348432
+[2021.09.28-02.27.02:990][432]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2021.09.28-02.27.03:022][433]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.09.28-02.27.05:615][579]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2021.09.28-02.27.05:637][579]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.28-02.27.05:637][579]PIE: New page: PIE 세션: Land (2021. 9. 28. 오후 8:27:05)
+[2021.09.28-02.27.05:637][579]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Land
+[2021.09.28-02.27.05:639][579]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002706s)
+[2021.09.28-02.27.05:641][579]LogAIModule: Creating AISystem for world Land
+[2021.09.28-02.27.05:642][579]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000231A96EDC00), frame # 348579
+[2021.09.28-02.27.05:642][579]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002316B576480), frame # 348579
+[2021.09.28-02.27.05:643][579]LogPlayLevel: PIE: World Init took: (0.003353s)
+[2021.09.28-02.27.05:643][579]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Land.Land to /Game/Maps/UEDPIE_0_Land.Land (0.006583s)
+[2021.09.28-02.27.05:683][579]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2021.09.28-02.27.05:684][579]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.28-02.27.05:684][579]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.28-02.27.05:684][579]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.28-02.27.05:684][579]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.28-02.27.05:684][579]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.28-02.27.05:684][579]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.28-02.27.05:684][579]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.28-02.27.05:684][579]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.28-02.27.05:685][579]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.28-02.27.05:685][579]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.28-02.27.05:704][579]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.28-02.27.05:704][579]LogAudioMixer: Display: 1: FrontRight
+[2021.09.28-02.27.05:836][579]LogAudioMixer: Display: Using Audio Device 스피커(USB Audio Device)
+[2021.09.28-02.27.05:836][579]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.28-02.27.05:836][579]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.28-02.27.05:836][579]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.28-02.27.05:837][579]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.28-02.27.05:864][579]LogInit: FAudioDevice initialized.
+[2021.09.28-02.27.05:919][579]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.28-02.27.05:919][579]LogLoad: Game class is 'GameModeBase'
+[2021.09.28-02.27.05:920][579]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Land.Land up for play (max tick rate 60) at 2021.09.28-11.27.05
+[2021.09.28-02.27.05:921][579]LogWorld: Bringing up level for play took: 0.000778
+[2021.09.28-02.27.05:921][579]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2021.09.28-02.27.05:923][579]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.09.28-02.27.05:931][579]PIE: 서버가 로그인했습니다.
+[2021.09.28-02.27.05:933][579]PIE: 에디터에서 플레이 총 시작 시간 0.297초입니다.
+[2021.09.28-02.27.10:331][794]LogBlueprintUserMessages: [BP_MainUI_C_0] cilked Upgrade
+[2021.09.28-02.27.19:082][150]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 2/1 Pages; frames since last flush: 16081
+[2021.09.28-02.27.19:104][150]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.28-02.27.19:845][150]LogSlate: Took 0.000360 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.09.28-02.27.19:847][150]LogSlate: Took 0.002074 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2021.09.28-02.27.32:414][150]LogSlate: Took 0.000294 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.09.28-02.27.32:417][150]LogSlate: Took 0.002461 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2021.09.28-02.27.32:417][150]LogSlate: Took 0.000272 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.09.28-02.27.32:419][150]LogSlate: Took 0.000252 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.09.28-02.27.32:424][150]LogSlate: Took 0.000279 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.09.28-02.27.32:430][150]LogSlate: Took 0.000335 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.09.28-02.27.32:432][150]LogSlate: Took 0.002336 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicExtraBold.ttf' (4074K)
+[2021.09.28-02.27.44:542][188]LogRenderer: Reallocating scene render targets to support 1524x888 Format 10 NumSamples 1 (Frame:820).
+[2021.09.28-02.27.44:626][188]LogRenderer: Reallocating scene render targets to support 1532x888 Format 10 NumSamples 1 (Frame:821).
+[2021.09.28-02.27.44:734][188]LogRenderer: Reallocating scene render targets to support 1536x888 Format 10 NumSamples 1 (Frame:822).
+[2021.09.28-02.27.44:831][188]LogRenderer: Reallocating scene render targets to support 1540x888 Format 10 NumSamples 1 (Frame:823).
+[2021.09.28-02.27.45:126][188]LogRenderer: Reallocating scene render targets to support 1544x888 Format 10 NumSamples 1 (Frame:826).
+[2021.09.28-02.27.55:227][537]LogSlate: Window 'GrowWings 프리뷰 [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.09.28-02.27.55:234][537]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Land
+[2021.09.28-02.27.55:234][537]LogWorld: UWorld::CleanupWorld for Land, bSessionEnded=true, bCleanupResources=true
+[2021.09.28-02.27.55:235][537]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.28-02.27.55:247][537]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.28-02.27.55:253][537]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.28-02.27.55:332][537]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002316B576480), frame # 349537
+[2021.09.28-02.27.55:332][537]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000231A96EDC00), frame # 349537
+[2021.09.28-02.27.55:338][537]LogUObjectHash: Compacting FUObjectHashTables data took   5.21ms
+[2021.09.28-02.27.55:395][538]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2021.09.28-02.28.53:723][841]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2021.09.28-02.28.53:743][841]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.28-02.28.53:743][841]PIE: New page: PIE 세션: Land (2021. 9. 28. 오후 8:28:53)
+[2021.09.28-02.28.53:743][841]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Land
+[2021.09.28-02.28.53:748][841]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005256s)
+[2021.09.28-02.28.53:750][841]LogAIModule: Creating AISystem for world Land
+[2021.09.28-02.28.53:750][841]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000231F780BE00), frame # 352841
+[2021.09.28-02.28.53:750][841]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000231A766C680), frame # 352841
+[2021.09.28-02.28.53:750][841]LogPlayLevel: PIE: World Init took: (0.001418s)
+[2021.09.28-02.28.53:750][841]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Land.Land to /Game/Maps/UEDPIE_0_Land.Land (0.006846s)
+[2021.09.28-02.28.53:788][841]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2021.09.28-02.28.53:791][841]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.28-02.28.53:791][841]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.28-02.28.53:791][841]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.28-02.28.53:791][841]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.28-02.28.53:791][841]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.28-02.28.53:791][841]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.28-02.28.53:791][841]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.28-02.28.53:791][841]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.28-02.28.53:792][841]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.28-02.28.53:792][841]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.28-02.28.53:816][841]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.28-02.28.53:817][841]LogAudioMixer: Display: 1: FrontRight
+[2021.09.28-02.28.53:944][841]LogAudioMixer: Display: Using Audio Device 스피커(USB Audio Device)
+[2021.09.28-02.28.53:944][841]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.28-02.28.53:944][841]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.28-02.28.53:944][841]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.28-02.28.53:946][841]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.28-02.28.53:972][841]LogInit: FAudioDevice initialized.
+[2021.09.28-02.28.54:021][841]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.28-02.28.54:022][841]LogLoad: Game class is 'GameModeBase'
+[2021.09.28-02.28.54:023][841]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Land.Land up for play (max tick rate 60) at 2021.09.28-11.28.54
+[2021.09.28-02.28.54:023][841]LogWorld: Bringing up level for play took: 0.000849
+[2021.09.28-02.28.54:023][841]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2021.09.28-02.28.54:026][841]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.09.28-02.28.54:036][841]PIE: 서버가 로그인했습니다.
+[2021.09.28-02.28.54:037][841]PIE: 에디터에서 플레이 총 시작 시간 0.295초입니다.
+[2021.09.28-02.28.54:182][842]LogRenderer: Reallocating scene render targets to support 1912x1008 Format 10 NumSamples 1 (Frame:1).
+[2021.09.28-02.29.00:429][  8]LogBlueprintUserMessages: [BP_MainUI_C_0] cilked Upgrade
+[2021.09.28-02.29.08:373][117]LogRenderer: Reallocating scene render targets to support 1920x1016 Format 10 NumSamples 1 (Frame:277).
+[2021.09.28-02.29.12:533][351]LogHttp: Warning: 00000231D6DEA400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB3848318-4313-DB4D-0F46-FAA775355068%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=9de648bc40e94b670662499739886417%7C7fcd3065dbe74d018cef09b9f638d8fb%7Cc26a8d64-550b-49b3-9622-9e456636e0ea&AppEnvironment=datacollector-source&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.09.28-02.29.12:533][351]LogHttp: Warning: 00000231D6DEA400: request failed, libcurl error: 0 (No error)
+[2021.09.28-02.29.12:533][351]LogHttp: Warning: 00000231D6DEA400: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x23155517f70 [can pipeline])
+[2021.09.28-02.29.12:533][351]LogHttp: Warning: 00000231D6DEA400: libcurl info message cache 1 (Re-using existing connection! (#249) with host datarouter.ol.epicgames.com)
+[2021.09.28-02.29.12:533][351]LogHttp: Warning: 00000231D6DEA400: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (44.198.27.27) port 443 (#249))
+[2021.09.28-02.29.12:533][351]LogHttp: Warning: 00000231D6DEA400: libcurl info message cache 3 (We are completely uploaded and fine)
+[2021.09.28-02.29.12:534][351]LogHttp: Warning: 00000231D6DEA400: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2021.09.28-02.29.12:534][351]LogHttp: Warning: 00000231D6DEA400: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2021.09.28-02.29.12:534][351]LogHttp: Warning: 00000231D6DEA400: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2021.09.28-02.29.12:534][351]LogHttp: Warning: 00000231D6DEA400: libcurl info message cache 7 (Closing connection 249)
+[2021.09.28-02.29.12:534][351]LogHttp: Warning: 00000231D6DEA400: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2021.09.28-02.29.12:550][352]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB3848318-4313-DB4D-0F46-FAA775355068%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=9de648bc40e94b670662499739886417%7C7fcd3065dbe74d018cef09b9f638d8fb%7Cc26a8d64-550b-49b3-9622-9e456636e0ea&AppEnvironment=datacollector-source&UploadType=eteventstream
+[2021.09.28-02.30.17:310][983]LogSlate: Window '에디터 개인설정' being destroyed
+[2021.09.28-02.30.17:318][983]LogSlate: Window '에디터 개인설정' being destroyed
+[2021.09.28-02.30.19:728][105]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.28-02.30.19:728][105]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Land
+[2021.09.28-02.30.19:728][105]LogSlate: Window 'GrowWings 프리뷰 [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.09.28-02.30.19:732][105]LogWorld: UWorld::CleanupWorld for Land, bSessionEnded=true, bCleanupResources=true
+[2021.09.28-02.30.19:733][105]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.28-02.30.19:749][105]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.28-02.30.19:759][105]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.28-02.30.19:851][105]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000231A766C680), frame # 357105
+[2021.09.28-02.30.19:851][105]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000231F780BE00), frame # 357105
+[2021.09.28-02.30.19:862][105]LogUObjectHash: Compacting FUObjectHashTables data took   8.70ms
+[2021.09.28-02.30.19:908][106]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2021.09.28-02.30.20:643][149]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2021.09.28-02.30.20:666][149]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.28-02.30.20:667][149]PIE: New page: PIE 세션: Land (2021. 9. 28. 오후 8:30:20)
+[2021.09.28-02.30.20:667][149]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Land
+[2021.09.28-02.30.20:673][149]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006468s)
+[2021.09.28-02.30.20:675][149]LogAIModule: Creating AISystem for world Land
+[2021.09.28-02.30.20:675][149]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000023129426400), frame # 357149
+[2021.09.28-02.30.20:675][149]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002317E82EC00), frame # 357149
+[2021.09.28-02.30.20:675][149]LogPlayLevel: PIE: World Init took: (0.001878s)
+[2021.09.28-02.30.20:675][149]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Land.Land to /Game/Maps/UEDPIE_0_Land.Land (0.008600s)
+[2021.09.28-02.30.20:725][149]LogUObjectHash: Compacting FUObjectHashTables data took   7.98ms
+[2021.09.28-02.30.20:726][149]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.28-02.30.20:726][149]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.28-02.30.20:726][149]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.28-02.30.20:726][149]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.28-02.30.20:726][149]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.28-02.30.20:726][149]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.28-02.30.20:726][149]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.28-02.30.20:726][149]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.28-02.30.20:727][149]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.28-02.30.20:727][149]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.28-02.30.20:757][149]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.28-02.30.20:757][149]LogAudioMixer: Display: 1: FrontRight
+[2021.09.28-02.30.20:909][149]LogAudioMixer: Display: Using Audio Device 스피커(USB Audio Device)
+[2021.09.28-02.30.20:909][149]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.28-02.30.20:909][149]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.28-02.30.20:909][149]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.28-02.30.20:910][149]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.28-02.30.20:934][149]LogInit: FAudioDevice initialized.
+[2021.09.28-02.30.20:995][149]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.28-02.30.20:995][149]LogLoad: Game class is 'GameModeBase'
+[2021.09.28-02.30.20:997][149]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Land.Land up for play (max tick rate 60) at 2021.09.28-11.30.20
+[2021.09.28-02.30.20:997][149]LogWorld: Bringing up level for play took: 0.000953
+[2021.09.28-02.30.20:997][149]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2021.09.28-02.30.21:000][149]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.09.28-02.30.21:010][149]PIE: 서버가 로그인했습니다.
+[2021.09.28-02.30.21:011][149]PIE: 에디터에서 플레이 총 시작 시간 0.346초입니다.
+[2021.09.28-02.30.29:915][365]LogBlueprintUserMessages: [BP_MainUI_C_0] cilked Upgrade
+[2021.09.28-02.30.43:795][733]LogSlate: Window 'GrowWings 프리뷰 [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.09.28-02.30.43:804][733]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Land
+[2021.09.28-02.30.43:804][733]LogWorld: UWorld::CleanupWorld for Land, bSessionEnded=true, bCleanupResources=true
+[2021.09.28-02.30.43:804][733]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.28-02.30.43:816][733]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.28-02.30.43:823][733]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.28-02.30.43:915][733]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002317E82EC00), frame # 357733
+[2021.09.28-02.30.43:915][733]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000023129426400), frame # 357733
+[2021.09.28-02.30.43:922][733]LogUObjectHash: Compacting FUObjectHashTables data took   6.81ms
+[2021.09.28-02.30.43:957][734]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2021.09.28-02.30.54:624][364]LogSlate: Took 0.000269 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.09.28-02.30.57:671][535]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (MainCamera)
+[2021.09.28-02.31.18:675][695]LogEditorViewport: Clicking Background
+[2021.09.28-02.31.20:063][774]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2021.09.28-02.31.21:092][774]LogSlate: Window '콘텐츠 저장' being destroyed
+[2021.09.28-02.31.21:129][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Land" FILE="../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/Maps/Land.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.09.28-02.31.21:171][774]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.09.28-02.31.21:227][774]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/LandB9B92B854846981F96692C874208D935.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/Maps/Land.umap'
+[2021.09.28-02.31.21:275][774]LogFileHelpers: Saving map 'Land' took 0.146
+[2021.09.28-02.31.21:276][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Land_BuiltData" FILE="../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/Maps/Land_BuiltData.uasset" SILENT=true
+[2021.09.28-02.31.21:358][774]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/Land_BuiltDataCCD4542D4ED3D4C6475A55972C0729CB.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/Maps/Land_BuiltData.uasset'
+[2021.09.28-02.31.21:389][774]AssetCheck: New page: 애셋 저장: 애셋이 다수입니다.
+[2021.09.28-02.31.21:389][774]LogContentValidation: Display: World /Game/Maps/Land.Land 유효성 검사
+[2021.09.28-02.31.21:389][774]LogContentValidation: Display: MapBuildDataRegistry /Game/Maps/Land_BuiltData.Land_BuiltData 유효성 검사
+[2021.09.28-02.31.22:737][847]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2021.09.28-02.31.22:773][847]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.28-02.31.22:773][847]PIE: New page: PIE 세션: Land (2021. 9. 28. 오후 8:31:22)
+[2021.09.28-02.31.22:773][847]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Land
+[2021.09.28-02.31.22:777][847]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003576s)
+[2021.09.28-02.31.22:778][847]LogAIModule: Creating AISystem for world Land
+[2021.09.28-02.31.22:778][847]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000023128C9F400), frame # 359847
+[2021.09.28-02.31.22:778][847]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002317EF8A840), frame # 359847
+[2021.09.28-02.31.22:779][847]LogPlayLevel: PIE: World Init took: (0.002235s)
+[2021.09.28-02.31.22:779][847]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Land.Land to /Game/Maps/UEDPIE_0_Land.Land (0.006081s)
+[2021.09.28-02.31.22:842][847]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2021.09.28-02.31.22:844][847]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.28-02.31.22:844][847]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.28-02.31.22:845][847]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.28-02.31.22:845][847]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.28-02.31.22:845][847]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.28-02.31.22:845][847]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.28-02.31.22:845][847]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.28-02.31.22:845][847]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.28-02.31.22:846][847]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.28-02.31.22:846][847]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.28-02.31.22:869][847]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.28-02.31.22:869][847]LogAudioMixer: Display: 1: FrontRight
+[2021.09.28-02.31.22:983][847]LogAudioMixer: Display: Using Audio Device 스피커(USB Audio Device)
+[2021.09.28-02.31.22:984][847]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.28-02.31.22:984][847]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.28-02.31.22:984][847]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.28-02.31.22:985][847]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.28-02.31.23:011][847]LogInit: FAudioDevice initialized.
+[2021.09.28-02.31.23:070][847]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.28-02.31.23:070][847]LogLoad: Game class is 'GameModeBase'
+[2021.09.28-02.31.23:071][847]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Land.Land up for play (max tick rate 60) at 2021.09.28-11.31.23
+[2021.09.28-02.31.23:072][847]LogWorld: Bringing up level for play took: 0.000767
+[2021.09.28-02.31.23:072][847]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2021.09.28-02.31.23:096][847]PIE: 서버가 로그인했습니다.
+[2021.09.28-02.31.23:099][847]PIE: 에디터에서 플레이 총 시작 시간 0.332초입니다.
+[2021.09.28-02.31.40:219][316]LogBlueprintUserMessages: [BP_MainUI_C_0] cilked Upgrade
+[2021.09.28-02.31.50:641][925]Set new viewmode: Wireframe
+[2021.09.28-02.31.52:700][ 48]Set new viewmode: Wireframe
+[2021.09.28-02.31.54:899][175]Set new viewmode: Wireframe
+[2021.09.28-02.32.12:129][196]Set new viewmode: Unlit
+[2021.09.28-02.32.14:732][350]Set new viewmode: Lit
+[2021.09.28-02.32.16:985][484]Set new viewmode: Lit_DetailLighting
+[2021.09.28-02.32.18:611][581]Set new viewmode: Lit_DetailLighting
+[2021.09.28-02.32.19:264][618]Set new viewmode: Lit
+[2021.09.28-02.32.20:382][684]Set new viewmode: Lit_DetailLighting
+[2021.09.28-02.32.21:836][771]Set new viewmode: Lit_DetailLighting
+[2021.09.28-02.32.22:981][839]Set new viewmode: Wireframe
+[2021.09.28-02.32.32:667][411]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.28-02.32.32:667][411]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Land
+[2021.09.28-02.32.32:667][411]LogSlate: Window 'GrowWings 프리뷰 [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.09.28-02.32.32:675][411]LogWorld: UWorld::CleanupWorld for Land, bSessionEnded=true, bCleanupResources=true
+[2021.09.28-02.32.32:675][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.28-02.32.32:684][411]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.28-02.32.32:691][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.28-02.32.32:775][411]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002317EF8A840), frame # 363411
+[2021.09.28-02.32.32:775][411]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000023128C9F400), frame # 363411
+[2021.09.28-02.32.32:780][411]LogUObjectHash: Compacting FUObjectHashTables data took   4.88ms
+[2021.09.28-02.32.32:815][412]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2021.09.28-02.32.34:744][523]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2021.09.28-02.32.34:765][523]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.28-02.32.34:765][523]PIE: New page: PIE 세션: Land (2021. 9. 28. 오후 8:32:34)
+[2021.09.28-02.32.34:765][523]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Land
+[2021.09.28-02.32.34:769][523]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003541s)
+[2021.09.28-02.32.34:772][523]LogAIModule: Creating AISystem for world Land
+[2021.09.28-02.32.34:772][523]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000231D27A6400), frame # 363523
+[2021.09.28-02.32.34:772][523]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002317DC239C0), frame # 363523
+[2021.09.28-02.32.34:772][523]LogPlayLevel: PIE: World Init took: (0.002989s)
+[2021.09.28-02.32.34:772][523]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Land.Land to /Game/Maps/UEDPIE_0_Land.Land (0.006848s)
+[2021.09.28-02.32.34:808][523]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2021.09.28-02.32.34:810][523]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.28-02.32.34:810][523]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.28-02.32.34:810][523]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.28-02.32.34:810][523]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.28-02.32.34:810][523]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.28-02.32.34:810][523]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.28-02.32.34:810][523]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.28-02.32.34:810][523]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.28-02.32.34:811][523]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.28-02.32.34:811][523]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.28-02.32.34:831][523]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.28-02.32.34:831][523]LogAudioMixer: Display: 1: FrontRight
+[2021.09.28-02.32.35:050][523]LogAudioMixer: Display: Using Audio Device 스피커(USB Audio Device)
+[2021.09.28-02.32.35:050][523]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.28-02.32.35:050][523]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.28-02.32.35:051][523]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.28-02.32.35:052][523]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.28-02.32.35:089][523]LogInit: FAudioDevice initialized.
+[2021.09.28-02.32.35:150][523]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.28-02.32.35:150][523]LogLoad: Game class is 'GameModeBase'
+[2021.09.28-02.32.35:152][523]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Land.Land up for play (max tick rate 60) at 2021.09.28-11.32.35
+[2021.09.28-02.32.35:153][523]LogWorld: Bringing up level for play took: 0.001602
+[2021.09.28-02.32.35:153][523]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2021.09.28-02.32.35:169][523]PIE: 서버가 로그인했습니다.
+[2021.09.28-02.32.35:173][523]PIE: 에디터에서 플레이 총 시작 시간 0.409초입니다.
+[2021.09.28-02.33.14:492][929]LogBlueprintUserMessages: [BP_MainUI_C_0] cilked Upgrade
+[2021.09.28-02.34.36:068][440]LogSlate: Window 'GrowWings 프리뷰 [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.09.28-02.34.36:187][440]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Land
+[2021.09.28-02.34.36:187][440]LogWorld: UWorld::CleanupWorld for Land, bSessionEnded=true, bCleanupResources=true
+[2021.09.28-02.34.36:187][440]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.28-02.34.36:213][440]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.28-02.34.36:219][440]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.28-02.34.36:286][440]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002317DC239C0), frame # 367440
+[2021.09.28-02.34.36:286][440]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000231D27A6400), frame # 367440
+[2021.09.28-02.34.36:293][440]LogUObjectHash: Compacting FUObjectHashTables data took   7.38ms
+[2021.09.28-02.34.36:416][441]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2021.09.28-02.34.38:828][522]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/Land.Land:PersistentLevel.Land
+[2021.09.28-02.34.39:231][523]LogSlate: Took 0.000747 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.09.28-02.38.56:048][759]LogEditorTransaction: Undo Left 편집
+[2021.09.28-02.39.17:997][ 42]BlueprintLog: New page: BP_UpgradeUI 컴파일
+[2021.09.28-02.39.18:049][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2021.09.28-02.39.18:467][ 55]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/BP_UpgradeUI" FILE="../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_UpgradeUI.uasset" SILENT=true
+[2021.09.28-02.39.18:512][ 55]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/BP_UpgradeUI9C5234DB4CC812D9CD269F8250F758C3.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_UpgradeUI.uasset'
+[2021.09.28-02.39.18:532][ 55]AssetCheck: New page: 애셋 저장: BP_UpgradeUI
+[2021.09.28-02.39.18:532][ 55]LogContentValidation: Display: WidgetBlueprint /Game/UI/BP_UpgradeUI.BP_UpgradeUI 유효성 검사
+[2021.09.28-02.39.22:063][263]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2021.09.28-02.39.22:081][263]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.28-02.39.22:081][263]PIE: New page: PIE 세션: Land (2021. 9. 28. 오후 8:39:22)
+[2021.09.28-02.39.22:081][263]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Land
+[2021.09.28-02.39.22:084][263]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003072s)
+[2021.09.28-02.39.22:086][263]LogAIModule: Creating AISystem for world Land
+[2021.09.28-02.39.22:086][263]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000023184722A00), frame # 382263
+[2021.09.28-02.39.22:086][263]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000231A9E88180), frame # 382263
+[2021.09.28-02.39.22:086][263]LogPlayLevel: PIE: World Init took: (0.002338s)
+[2021.09.28-02.39.22:087][263]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Land.Land to /Game/Maps/UEDPIE_0_Land.Land (0.005648s)
+[2021.09.28-02.39.22:125][263]LogUObjectHash: Compacting FUObjectHashTables data took   5.22ms
+[2021.09.28-02.39.22:126][263]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.28-02.39.22:127][263]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.28-02.39.22:127][263]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.28-02.39.22:127][263]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.28-02.39.22:127][263]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.28-02.39.22:127][263]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.28-02.39.22:127][263]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.28-02.39.22:127][263]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.28-02.39.22:127][263]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.28-02.39.22:127][263]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.28-02.39.22:144][263]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.28-02.39.22:144][263]LogAudioMixer: Display: 1: FrontRight
+[2021.09.28-02.39.22:235][263]LogAudioMixer: Display: Using Audio Device 스피커(USB Audio Device)
+[2021.09.28-02.39.22:236][263]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.28-02.39.22:236][263]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.28-02.39.22:236][263]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.28-02.39.22:236][263]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.28-02.39.22:261][263]LogInit: FAudioDevice initialized.
+[2021.09.28-02.39.22:314][263]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.28-02.39.22:314][263]LogLoad: Game class is 'GameModeBase'
+[2021.09.28-02.39.22:315][263]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Land.Land up for play (max tick rate 60) at 2021.09.28-11.39.22
+[2021.09.28-02.39.22:315][263]LogWorld: Bringing up level for play took: 0.000823
+[2021.09.28-02.39.22:315][263]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2021.09.28-02.39.22:317][263]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.09.28-02.39.22:324][263]PIE: 서버가 로그인했습니다.
+[2021.09.28-02.39.22:325][263]PIE: 에디터에서 플레이 총 시작 시간 0.245초입니다.
+[2021.09.28-02.39.42:442][806]LogBlueprintUserMessages: [BP_MainUI_C_0] cilked Upgrade
+[2021.09.28-02.40.14:186][330]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.28-02.40.14:186][330]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Land
+[2021.09.28-02.40.14:186][330]LogSlate: Window 'GrowWings 프리뷰 [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.09.28-02.40.14:192][330]LogWorld: UWorld::CleanupWorld for Land, bSessionEnded=true, bCleanupResources=true
+[2021.09.28-02.40.14:192][330]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.28-02.40.14:203][330]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.28-02.40.14:211][330]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.28-02.40.14:288][330]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000231A9E88180), frame # 384330
+[2021.09.28-02.40.14:288][330]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000023184722A00), frame # 384330
+[2021.09.28-02.40.14:292][330]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2021.09.28-02.40.14:320][331]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2021.09.28-02.41.11:150][691]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2021.09.28-02.41.11:170][691]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.28-02.41.11:170][691]PIE: New page: PIE 세션: Land (2021. 9. 28. 오후 8:41:11)
+[2021.09.28-02.41.11:170][691]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Land
+[2021.09.28-02.41.11:174][691]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003480s)
+[2021.09.28-02.41.11:175][691]LogAIModule: Creating AISystem for world Land
+[2021.09.28-02.41.11:175][691]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000023191BA5400), frame # 387691
+[2021.09.28-02.41.11:175][691]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000231965B2AC0), frame # 387691
+[2021.09.28-02.41.11:176][691]LogPlayLevel: PIE: World Init took: (0.001797s)
+[2021.09.28-02.41.11:176][691]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Land.Land to /Game/Maps/UEDPIE_0_Land.Land (0.005485s)
+[2021.09.28-02.41.11:211][691]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2021.09.28-02.41.11:214][691]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.28-02.41.11:214][691]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.28-02.41.11:214][691]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.28-02.41.11:214][691]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.28-02.41.11:214][691]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.28-02.41.11:214][691]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.28-02.41.11:214][691]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.28-02.41.11:214][691]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.28-02.41.11:214][691]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.28-02.41.11:214][691]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.28-02.41.11:234][691]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.28-02.41.11:234][691]LogAudioMixer: Display: 1: FrontRight
+[2021.09.28-02.41.11:326][691]LogAudioMixer: Display: Using Audio Device 스피커(USB Audio Device)
+[2021.09.28-02.41.11:326][691]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.28-02.41.11:326][691]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.28-02.41.11:326][691]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.28-02.41.11:327][691]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.28-02.41.11:345][691]LogInit: FAudioDevice initialized.
+[2021.09.28-02.41.11:403][691]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.28-02.41.11:403][691]LogLoad: Game class is 'GameModeBase'
+[2021.09.28-02.41.11:404][691]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Land.Land up for play (max tick rate 60) at 2021.09.28-11.41.11
+[2021.09.28-02.41.11:404][691]LogWorld: Bringing up level for play took: 0.000775
+[2021.09.28-02.41.11:405][691]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2021.09.28-02.41.11:407][691]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.09.28-02.41.11:417][691]PIE: 서버가 로그인했습니다.
+[2021.09.28-02.41.11:419][691]PIE: 에디터에서 플레이 총 시작 시간 0.25초입니다.
+[2021.09.28-02.41.16:105][960]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.28-02.41.16:105][960]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Land
+[2021.09.28-02.41.16:106][960]LogSlate: Window 'GrowWings 프리뷰 [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.09.28-02.41.16:112][960]LogWorld: UWorld::CleanupWorld for Land, bSessionEnded=true, bCleanupResources=true
+[2021.09.28-02.41.16:113][960]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.28-02.41.16:120][960]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.28-02.41.16:125][960]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.28-02.41.16:192][960]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000231965B2AC0), frame # 387960
+[2021.09.28-02.41.16:192][960]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000023191BA5400), frame # 387960
+[2021.09.28-02.41.16:197][960]LogUObjectHash: Compacting FUObjectHashTables data took   5.16ms
+[2021.09.28-02.41.16:222][961]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2021.09.28-02.41.18:100][ 70]BlueprintLog: New page: BP_UpgradeUI 컴파일
+[2021.09.28-02.41.18:147][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2021.09.28-02.41.18:736][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/BP_UpgradeUI" FILE="../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_UpgradeUI.uasset" SILENT=true
+[2021.09.28-02.41.18:778][ 97]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/BP_UpgradeUI41F02B4A42D75B31F8A987B216B0ABB5.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_UpgradeUI.uasset'
+[2021.09.28-02.41.18:796][ 97]AssetCheck: New page: 애셋 저장: BP_UpgradeUI
+[2021.09.28-02.41.18:797][ 97]LogContentValidation: Display: WidgetBlueprint /Game/UI/BP_UpgradeUI.BP_UpgradeUI 유효성 검사
+[2021.09.28-02.41.19:484][136]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2021.09.28-02.41.19:501][136]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.28-02.41.19:501][136]PIE: New page: PIE 세션: Land (2021. 9. 28. 오후 8:41:19)
+[2021.09.28-02.41.19:501][136]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Land
+[2021.09.28-02.41.19:503][136]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002338s)
+[2021.09.28-02.41.19:505][136]LogAIModule: Creating AISystem for world Land
+[2021.09.28-02.41.19:505][136]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002312F486800), frame # 388136
+[2021.09.28-02.41.19:505][136]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000231B740E840), frame # 388136
+[2021.09.28-02.41.19:505][136]LogPlayLevel: PIE: World Init took: (0.001871s)
+[2021.09.28-02.41.19:505][136]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Land.Land to /Game/Maps/UEDPIE_0_Land.Land (0.004413s)
+[2021.09.28-02.41.19:542][136]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2021.09.28-02.41.19:543][136]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.28-02.41.19:543][136]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.28-02.41.19:543][136]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.28-02.41.19:543][136]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.28-02.41.19:543][136]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.28-02.41.19:543][136]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.28-02.41.19:543][136]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.28-02.41.19:543][136]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.28-02.41.19:543][136]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.28-02.41.19:543][136]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.28-02.41.19:560][136]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.28-02.41.19:560][136]LogAudioMixer: Display: 1: FrontRight
+[2021.09.28-02.41.19:650][136]LogAudioMixer: Display: Using Audio Device 스피커(USB Audio Device)
+[2021.09.28-02.41.19:650][136]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.28-02.41.19:650][136]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.28-02.41.19:650][136]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.28-02.41.19:651][136]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.28-02.41.19:674][136]LogInit: FAudioDevice initialized.
+[2021.09.28-02.41.19:735][136]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.28-02.41.19:735][136]LogLoad: Game class is 'GameModeBase'
+[2021.09.28-02.41.19:736][136]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Land.Land up for play (max tick rate 60) at 2021.09.28-11.41.19
+[2021.09.28-02.41.19:737][136]LogWorld: Bringing up level for play took: 0.000703
+[2021.09.28-02.41.19:737][136]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2021.09.28-02.41.19:739][136]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.09.28-02.41.19:745][136]PIE: 서버가 로그인했습니다.
+[2021.09.28-02.41.19:746][136]PIE: 에디터에서 플레이 총 시작 시간 0.247초입니다.
+[2021.09.28-02.41.20:854][190]LogBlueprintUserMessages: [BP_MainUI_C_0] cilked Upgrade
+[2021.09.28-02.41.28:214][550]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 2/1 Pages; frames since last flush: 39400
+[2021.09.28-02.41.28:221][550]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.28-02.41.28:259][550]LogSlate: Took 0.000270 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.09.28-02.41.28:261][550]LogSlate: Took 0.001595 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2021.09.28-02.41.39:977][550]LogSlate: Warning: SlateFontCache - Setting the threshold to trigger a flush to 2 atlas pages as there is a lot of font data being cached.
+[2021.09.28-02.41.42:909][550]LogSlate: Took 0.000316 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.09.28-02.41.42:911][550]LogSlate: Took 0.001715 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2021.09.28-02.41.42:912][550]LogSlate: Took 0.000211 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.09.28-02.41.42:914][550]LogSlate: Took 0.000406 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.09.28-02.41.42:917][550]LogSlate: Took 0.000322 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.09.28-02.41.42:924][550]LogSlate: Took 0.000418 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.09.28-02.41.42:925][550]LogSlate: Took 0.001569 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicExtraBold.ttf' (4074K)
+[2021.09.28-02.43.46:749][983]LogSlate: Window 'GrowWings 프리뷰 [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.09.28-02.43.46:800][983]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Land
+[2021.09.28-02.43.46:800][983]LogWorld: UWorld::CleanupWorld for Land, bSessionEnded=true, bCleanupResources=true
+[2021.09.28-02.43.46:800][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.28-02.43.46:808][983]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.28-02.43.46:815][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.28-02.43.46:887][983]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000231B740E840), frame # 394983
+[2021.09.28-02.43.46:887][983]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002312F486800), frame # 394983
+[2021.09.28-02.43.46:891][983]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2021.09.28-02.43.47:088][984]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2021.09.28-02.43.53:784][ 62]LogEditorTransaction: Undo 앵커 이동
+[2021.09.28-02.44.31:227][247]BlueprintLog: New page: BP_UpgradeUI 컴파일
+[2021.09.28-02.44.31:275][247]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2021.09.28-02.44.32:516][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/BP_UpgradeUI" FILE="../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_UpgradeUI.uasset" SILENT=true
+[2021.09.28-02.44.32:559][313]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/BP_UpgradeUI2395A519455D8DE51E0257AFAB674C3C.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_UpgradeUI.uasset'
+[2021.09.28-02.44.32:586][313]AssetCheck: New page: 애셋 저장: BP_UpgradeUI
+[2021.09.28-02.44.32:586][313]LogContentValidation: Display: WidgetBlueprint /Game/UI/BP_UpgradeUI.BP_UpgradeUI 유효성 검사
+[2021.09.28-02.44.36:890][570]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2021.09.28-02.44.36:906][570]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.28-02.44.36:906][570]PIE: New page: PIE 세션: Land (2021. 9. 28. 오후 8:44:36)
+[2021.09.28-02.44.36:906][570]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Land
+[2021.09.28-02.44.36:909][570]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002719s)
+[2021.09.28-02.44.36:911][570]LogAIModule: Creating AISystem for world Land
+[2021.09.28-02.44.36:911][570]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000231AAC1A400), frame # 397570
+[2021.09.28-02.44.36:911][570]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000231F45E8F40), frame # 397570
+[2021.09.28-02.44.36:911][570]LogPlayLevel: PIE: World Init took: (0.002044s)
+[2021.09.28-02.44.36:911][570]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Land.Land to /Game/Maps/UEDPIE_0_Land.Land (0.004931s)
+[2021.09.28-02.44.36:947][570]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2021.09.28-02.44.36:948][570]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.28-02.44.36:948][570]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.28-02.44.36:948][570]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.28-02.44.36:948][570]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.28-02.44.36:948][570]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.28-02.44.36:948][570]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.28-02.44.36:948][570]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.28-02.44.36:948][570]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.28-02.44.36:949][570]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.28-02.44.36:949][570]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.28-02.44.36:965][570]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.28-02.44.36:966][570]LogAudioMixer: Display: 1: FrontRight
+[2021.09.28-02.44.37:055][570]LogAudioMixer: Display: Using Audio Device 스피커(USB Audio Device)
+[2021.09.28-02.44.37:055][570]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.28-02.44.37:056][570]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.28-02.44.37:056][570]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.28-02.44.37:056][570]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.28-02.44.37:075][570]LogInit: FAudioDevice initialized.
+[2021.09.28-02.44.37:128][570]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.28-02.44.37:128][570]LogLoad: Game class is 'GameModeBase'
+[2021.09.28-02.44.37:129][570]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Land.Land up for play (max tick rate 60) at 2021.09.28-11.44.37
+[2021.09.28-02.44.37:130][570]LogWorld: Bringing up level for play took: 0.000771
+[2021.09.28-02.44.37:130][570]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2021.09.28-02.44.37:132][570]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.09.28-02.44.37:138][570]PIE: 서버가 로그인했습니다.
+[2021.09.28-02.44.37:139][570]PIE: 에디터에서 플레이 총 시작 시간 0.234초입니다.
+[2021.09.28-02.44.39:030][670]LogBlueprintUserMessages: [BP_MainUI_C_0] cilked Upgrade
+[2021.09.28-02.44.57:707][  4]LogSlate: Window 'GrowWings 프리뷰 [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.09.28-02.44.57:718][  4]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Land
+[2021.09.28-02.44.57:719][  4]LogWorld: UWorld::CleanupWorld for Land, bSessionEnded=true, bCleanupResources=true
+[2021.09.28-02.44.57:720][  4]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.28-02.44.57:732][  4]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.28-02.44.57:738][  4]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.28-02.44.57:800][  4]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000231F45E8F40), frame # 398004
+[2021.09.28-02.44.57:800][  4]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000231AAC1A400), frame # 398004
+[2021.09.28-02.44.57:806][  4]LogUObjectHash: Compacting FUObjectHashTables data took   5.63ms
+[2021.09.28-02.44.57:847][  5]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2021.09.28-02.46.35:679][779]BlueprintLog: New page: BP_UpgradeUI 컴파일
+[2021.09.28-02.46.35:730][779]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2021.09.28-02.46.36:068][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/BP_UpgradeUI" FILE="../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_UpgradeUI.uasset" SILENT=true
+[2021.09.28-02.46.36:111][787]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/BP_UpgradeUIABBEC3334C11EEE228E406A3F87C9AA4.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_UpgradeUI.uasset'
+[2021.09.28-02.46.36:129][787]AssetCheck: New page: 애셋 저장: BP_UpgradeUI
+[2021.09.28-02.46.36:129][787]LogContentValidation: Display: WidgetBlueprint /Game/UI/BP_UpgradeUI.BP_UpgradeUI 유효성 검사
+[2021.09.28-02.46.37:045][838]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2021.09.28-02.46.37:060][838]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.28-02.46.37:061][838]PIE: New page: PIE 세션: Land (2021. 9. 28. 오후 8:46:37)
+[2021.09.28-02.46.37:061][838]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Land
+[2021.09.28-02.46.37:063][838]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002645s)
+[2021.09.28-02.46.37:065][838]LogAIModule: Creating AISystem for world Land
+[2021.09.28-02.46.37:065][838]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000023233235000), frame # 403838
+[2021.09.28-02.46.37:065][838]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002311F8639C0), frame # 403838
+[2021.09.28-02.46.37:066][838]LogPlayLevel: PIE: World Init took: (0.001891s)
+[2021.09.28-02.46.37:066][838]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Land.Land to /Game/Maps/UEDPIE_0_Land.Land (0.004807s)
+[2021.09.28-02.46.37:102][838]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2021.09.28-02.46.37:104][838]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.28-02.46.37:104][838]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.28-02.46.37:104][838]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.28-02.46.37:105][838]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.28-02.46.37:105][838]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.28-02.46.37:105][838]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.28-02.46.37:105][838]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.28-02.46.37:105][838]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.28-02.46.37:105][838]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.28-02.46.37:105][838]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.28-02.46.37:121][838]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.28-02.46.37:121][838]LogAudioMixer: Display: 1: FrontRight
+[2021.09.28-02.46.37:208][838]LogAudioMixer: Display: Using Audio Device 스피커(USB Audio Device)
+[2021.09.28-02.46.37:209][838]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.28-02.46.37:209][838]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.28-02.46.37:209][838]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.28-02.46.37:209][838]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.28-02.46.37:227][838]LogInit: FAudioDevice initialized.
+[2021.09.28-02.46.37:279][838]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.28-02.46.37:279][838]LogLoad: Game class is 'GameModeBase'
+[2021.09.28-02.46.37:280][838]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Land.Land up for play (max tick rate 60) at 2021.09.28-11.46.37
+[2021.09.28-02.46.37:280][838]LogWorld: Bringing up level for play took: 0.000720
+[2021.09.28-02.46.37:280][838]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2021.09.28-02.46.37:282][838]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.09.28-02.46.37:288][838]PIE: 서버가 로그인했습니다.
+[2021.09.28-02.46.37:289][838]PIE: 에디터에서 플레이 총 시작 시간 0.231초입니다.
+[2021.09.28-02.46.38:901][922]LogBlueprintUserMessages: [BP_MainUI_C_0] cilked Upgrade
+[2021.09.28-02.46.50:200][563]LogSlate: Window 'GrowWings 프리뷰 [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.09.28-02.46.50:211][563]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Land
+[2021.09.28-02.46.50:211][563]LogWorld: UWorld::CleanupWorld for Land, bSessionEnded=true, bCleanupResources=true
+[2021.09.28-02.46.50:211][563]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.28-02.46.50:218][563]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.28-02.46.50:224][563]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.28-02.46.50:299][563]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002311F8639C0), frame # 404563
+[2021.09.28-02.46.50:299][563]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000023233235000), frame # 404563
+[2021.09.28-02.46.50:303][563]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2021.09.28-02.46.50:346][564]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2021.09.28-02.47.35:055][162]BlueprintLog: New page: BP_UpgradeUI 컴파일
+[2021.09.28-02.47.35:105][162]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2021.09.28-02.47.35:540][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/BP_UpgradeUI" FILE="../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_UpgradeUI.uasset" SILENT=true
+[2021.09.28-02.47.35:583][183]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/BP_UpgradeUIAC616CE5438D3331C9D215B9304951F9.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_UpgradeUI.uasset'
+[2021.09.28-02.47.35:600][183]AssetCheck: New page: 애셋 저장: BP_UpgradeUI
+[2021.09.28-02.47.35:600][183]LogContentValidation: Display: WidgetBlueprint /Game/UI/BP_UpgradeUI.BP_UpgradeUI 유효성 검사
+[2021.09.28-02.47.40:023][445]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2021.09.28-02.47.40:040][445]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.28-02.47.40:040][445]PIE: New page: PIE 세션: Land (2021. 9. 28. 오후 8:47:40)
+[2021.09.28-02.47.40:040][445]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Land
+[2021.09.28-02.47.40:043][445]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002613s)
+[2021.09.28-02.47.40:044][445]LogAIModule: Creating AISystem for world Land
+[2021.09.28-02.47.40:044][445]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000231BCC3E200), frame # 407445
+[2021.09.28-02.47.40:045][445]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000231F6731080), frame # 407445
+[2021.09.28-02.47.40:045][445]LogPlayLevel: PIE: World Init took: (0.001562s)
+[2021.09.28-02.47.40:045][445]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Land.Land to /Game/Maps/UEDPIE_0_Land.Land (0.004357s)
+[2021.09.28-02.47.40:085][445]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2021.09.28-02.47.40:086][445]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.28-02.47.40:086][445]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.28-02.47.40:086][445]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.28-02.47.40:086][445]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.28-02.47.40:086][445]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.28-02.47.40:086][445]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.28-02.47.40:086][445]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.28-02.47.40:086][445]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.28-02.47.40:087][445]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.28-02.47.40:087][445]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.28-02.47.40:103][445]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.28-02.47.40:103][445]LogAudioMixer: Display: 1: FrontRight
+[2021.09.28-02.47.40:193][445]LogAudioMixer: Display: Using Audio Device 스피커(USB Audio Device)
+[2021.09.28-02.47.40:193][445]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.28-02.47.40:193][445]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.28-02.47.40:193][445]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.28-02.47.40:194][445]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.28-02.47.40:212][445]LogInit: FAudioDevice initialized.
+[2021.09.28-02.47.40:272][445]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.28-02.47.40:272][445]LogLoad: Game class is 'GameModeBase'
+[2021.09.28-02.47.40:273][445]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Land.Land up for play (max tick rate 60) at 2021.09.28-11.47.40
+[2021.09.28-02.47.40:273][445]LogWorld: Bringing up level for play took: 0.000695
+[2021.09.28-02.47.40:273][445]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2021.09.28-02.47.40:275][445]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.09.28-02.47.40:280][445]PIE: 서버가 로그인했습니다.
+[2021.09.28-02.47.40:281][445]PIE: 에디터에서 플레이 총 시작 시간 0.242초입니다.
+[2021.09.28-02.47.41:879][527]LogBlueprintUserMessages: [BP_MainUI_C_0] cilked Upgrade
+[2021.09.28-02.47.48:874][672]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 3/2 Pages; frames since last flush: 19122
+[2021.09.28-02.47.48:886][672]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.28-02.47.48:932][672]LogSlate: Took 0.000312 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.09.28-02.47.48:935][672]LogSlate: Took 0.002366 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2021.09.28-02.47.55:476][672]LogSlate: Took 0.000240 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.09.28-02.47.55:479][672]LogSlate: Took 0.000265 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.09.28-02.47.55:482][672]LogSlate: Took 0.002137 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2021.09.28-02.47.55:482][672]LogSlate: Took 0.000201 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.09.28-02.47.55:484][672]LogSlate: Took 0.000202 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.09.28-02.47.55:489][672]LogSlate: Took 0.000209 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.09.28-02.47.55:491][672]LogSlate: Took 0.001562 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicExtraBold.ttf' (4074K)
+[2021.09.28-02.47.59:855][930]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.28-02.47.59:855][930]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Land
+[2021.09.28-02.47.59:856][930]LogSlate: Window 'GrowWings 프리뷰 [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.09.28-02.47.59:865][930]LogWorld: UWorld::CleanupWorld for Land, bSessionEnded=true, bCleanupResources=true
+[2021.09.28-02.47.59:865][930]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.28-02.47.59:880][930]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.28-02.47.59:886][930]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.28-02.47.59:959][930]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000231F6731080), frame # 407930
+[2021.09.28-02.47.59:959][930]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000231BCC3E200), frame # 407930
+[2021.09.28-02.47.59:963][930]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2021.09.28-02.47.59:991][931]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2021.09.28-02.48.01:549][ 23]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2021.09.28-02.48.01:569][ 23]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.28-02.48.01:569][ 23]PIE: New page: PIE 세션: Land (2021. 9. 28. 오후 8:48:01)
+[2021.09.28-02.48.01:569][ 23]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Land
+[2021.09.28-02.48.01:572][ 23]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002547s)
+[2021.09.28-02.48.01:573][ 23]LogAIModule: Creating AISystem for world Land
+[2021.09.28-02.48.01:573][ 23]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000231EADF7E00), frame # 408023
+[2021.09.28-02.48.01:574][ 23]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002320FD5B240), frame # 408023
+[2021.09.28-02.48.01:574][ 23]LogPlayLevel: PIE: World Init took: (0.002064s)
+[2021.09.28-02.48.01:574][ 23]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Land.Land to /Game/Maps/UEDPIE_0_Land.Land (0.004803s)
+[2021.09.28-02.48.01:608][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2021.09.28-02.48.01:609][ 23]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.28-02.48.01:609][ 23]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.28-02.48.01:609][ 23]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.28-02.48.01:609][ 23]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.28-02.48.01:609][ 23]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.28-02.48.01:609][ 23]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.28-02.48.01:609][ 23]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.28-02.48.01:609][ 23]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.28-02.48.01:610][ 23]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.28-02.48.01:610][ 23]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.28-02.48.01:627][ 23]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.28-02.48.01:627][ 23]LogAudioMixer: Display: 1: FrontRight
+[2021.09.28-02.48.01:718][ 23]LogAudioMixer: Display: Using Audio Device 스피커(USB Audio Device)
+[2021.09.28-02.48.01:718][ 23]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.28-02.48.01:718][ 23]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.28-02.48.01:718][ 23]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.28-02.48.01:719][ 23]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.28-02.48.01:737][ 23]LogInit: FAudioDevice initialized.
+[2021.09.28-02.48.01:785][ 23]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.28-02.48.01:786][ 23]LogLoad: Game class is 'GameModeBase'
+[2021.09.28-02.48.01:787][ 23]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Land.Land up for play (max tick rate 60) at 2021.09.28-11.48.01
+[2021.09.28-02.48.01:787][ 23]LogWorld: Bringing up level for play took: 0.000749
+[2021.09.28-02.48.01:787][ 23]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2021.09.28-02.48.01:789][ 23]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.09.28-02.48.01:795][ 23]PIE: 서버가 로그인했습니다.
+[2021.09.28-02.48.01:796][ 23]PIE: 에디터에서 플레이 총 시작 시간 0.229초입니다.
+[2021.09.28-02.48.08:521][339]LogBlueprintUserMessages: [BP_MainUI_C_0] cilked Upgrade
+[2021.09.28-02.48.34:100][869]LogSlate: Window 'GrowWings 프리뷰 [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.09.28-02.48.34:111][869]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Land
+[2021.09.28-02.48.34:112][869]LogWorld: UWorld::CleanupWorld for Land, bSessionEnded=true, bCleanupResources=true
+[2021.09.28-02.48.34:113][869]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.28-02.48.34:127][869]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.28-02.48.34:133][869]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.28-02.48.34:199][869]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002320FD5B240), frame # 409869
+[2021.09.28-02.48.34:199][869]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000231EADF7E00), frame # 409869
+[2021.09.28-02.48.34:203][869]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2021.09.28-02.48.34:247][870]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2021.09.28-02.48.35:456][940]LogSlate: Took 0.000218 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.09.28-02.48.40:416][161]LogSlate: Window '프로젝트 세팅' being destroyed
+[2021.09.28-02.48.40:420][161]LogSlate: Window '프로젝트 세팅' being destroyed
+[2021.09.28-02.49.15:457][180]LogSlate: Window '에디터 개인설정' being destroyed
+[2021.09.28-02.49.15:463][180]LogSlate: Window '에디터 개인설정' being destroyed
+[2021.09.28-02.49.41:387][629]LogSlate: Window '프로젝트 세팅' being destroyed
+[2021.09.28-02.49.41:393][629]LogSlate: Window '프로젝트 세팅' being destroyed
+[2021.09.28-02.50.31:546][468]LogSlate: Window '메시지' being destroyed
+[2021.09.28-02.50.31:553][468]Message dialog closed, result: Yes, title: 메시지, text: 정말 기본 세팅을 업데이트할까요?
+[2021.09.28-02.50.34:215][468]LogSlate: Window '메시지' being destroyed
+[2021.09.28-02.50.34:222][468]Message dialog closed, result: Ok, title: 메시지, text: 이 세팅에 대한 기본 환경설정 파일이 성공적으로 업데이트되었습니다.
+
+소스 컨트롤에 체크인 하면 다른 개발자들에게 영향을 끼칠 것입니다.
+[2021.09.28-02.50.36:102][580]LogSlate: Window '에디터 개인설정' being destroyed
+[2021.09.28-02.50.36:108][580]LogSlate: Window '에디터 개인설정' being destroyed
+[2021.09.28-02.50.37:851][669]LogSlate: Took 0.000427 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.09.28-02.50.41:382][874]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2021.09.28-02.50.41:398][874]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.28-02.50.41:398][874]PIE: New page: PIE 세션: Land (2021. 9. 28. 오후 8:50:41)
+[2021.09.28-02.50.41:398][874]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Land
+[2021.09.28-02.50.41:401][874]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002695s)
+[2021.09.28-02.50.41:403][874]LogAIModule: Creating AISystem for world Land
+[2021.09.28-02.50.41:403][874]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002317FDB1800), frame # 416874
+[2021.09.28-02.50.41:403][874]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000023130C9EFC0), frame # 416874
+[2021.09.28-02.50.41:403][874]LogPlayLevel: PIE: World Init took: (0.002093s)
+[2021.09.28-02.50.41:403][874]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Land.Land to /Game/Maps/UEDPIE_0_Land.Land (0.004974s)
+[2021.09.28-02.50.41:439][874]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2021.09.28-02.50.41:453][874]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.28-02.50.41:453][874]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.28-02.50.41:453][874]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.28-02.50.41:453][874]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.28-02.50.41:453][874]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.28-02.50.41:453][874]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.28-02.50.41:453][874]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.28-02.50.41:453][874]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.28-02.50.41:454][874]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.28-02.50.41:454][874]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.28-02.50.41:473][874]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.28-02.50.41:473][874]LogAudioMixer: Display: 1: FrontRight
+[2021.09.28-02.50.41:574][874]LogAudioMixer: Display: Using Audio Device 스피커(USB Audio Device)
+[2021.09.28-02.50.41:575][874]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.28-02.50.41:575][874]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.28-02.50.41:575][874]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.28-02.50.41:576][874]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.28-02.50.41:594][874]LogInit: FAudioDevice initialized.
+[2021.09.28-02.50.41:652][874]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.28-02.50.41:652][874]LogLoad: Game class is 'GameModeBase'
+[2021.09.28-02.50.41:653][874]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Land.Land up for play (max tick rate 60) at 2021.09.28-11.50.41
+[2021.09.28-02.50.41:654][874]LogWorld: Bringing up level for play took: 0.000765
+[2021.09.28-02.50.41:654][874]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2021.09.28-02.50.41:665][874]PIE: 서버가 로그인했습니다.
+[2021.09.28-02.50.41:667][874]PIE: 에디터에서 플레이 총 시작 시간 0.271초입니다.
+[2021.09.28-02.50.46:016][117]LogBlueprintUserMessages: [BP_MainUI_C_0] cilked Upgrade
+[2021.09.28-02.50.57:275][785]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.28-02.50.57:275][785]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Land
+[2021.09.28-02.50.57:275][785]LogSlate: Window 'GrowWings 프리뷰 [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.09.28-02.50.57:279][785]LogWorld: UWorld::CleanupWorld for Land, bSessionEnded=true, bCleanupResources=true
+[2021.09.28-02.50.57:279][785]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.28-02.50.57:288][785]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.28-02.50.57:293][785]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.28-02.50.57:362][785]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000023130C9EFC0), frame # 417785
+[2021.09.28-02.50.57:362][785]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002317FDB1800), frame # 417785
+[2021.09.28-02.50.57:366][785]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2021.09.28-02.50.57:396][786]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2021.09.28-02.51.03:419][106]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.09.28-02.51.03:420][106]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.28-02.54.28:244][ 99]LogEditorTransaction: Undo 변경된 앵커
+[2021.09.28-02.54.28:576][107]LogEditorTransaction: Undo 변경된 앵커
+[2021.09.28-02.54.28:912][118]LogEditorTransaction: Undo Y 편집
+[2021.09.28-02.54.29:387][144]LogEditorTransaction: Undo X 편집
+[2021.09.28-02.54.29:888][172]LogEditorTransaction: Undo Vertical Alignment 편집
+[2021.09.28-02.54.31:063][239]LogEditorTransaction: Undo Horizontal Alignment 편집
+[2021.09.28-02.54.31:546][264]LogEditorTransaction: Undo 이동 위젯
+[2021.09.28-02.55.43:414][410]BlueprintLog: New page: BP_MainUI 컴파일
+[2021.09.28-02.55.43:474][410]LogUObjectHash: Compacting FUObjectHashTables data took   5.05ms
+[2021.09.28-02.55.43:921][433]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/BP_MainUI" FILE="../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_MainUI.uasset" SILENT=true
+[2021.09.28-02.55.43:964][433]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/BP_MainUIB58147E5424243F13271A59B760DB452.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_MainUI.uasset'
+[2021.09.28-02.55.43:985][433]AssetCheck: New page: 애셋 저장: BP_MainUI
+[2021.09.28-02.55.43:985][433]LogContentValidation: Display: WidgetBlueprint /Game/UI/BP_MainUI.BP_MainUI 유효성 검사
+[2021.09.28-02.55.49:176][743]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2021.09.28-02.55.49:196][743]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.28-02.55.49:196][743]PIE: New page: PIE 세션: Land (2021. 9. 28. 오후 8:55:49)
+[2021.09.28-02.55.49:196][743]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Land
+[2021.09.28-02.55.49:199][743]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002692s)
+[2021.09.28-02.55.49:201][743]LogAIModule: Creating AISystem for world Land
+[2021.09.28-02.55.49:201][743]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002318515DA00), frame # 434743
+[2021.09.28-02.55.49:201][743]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000231BC045F80), frame # 434743
+[2021.09.28-02.55.49:201][743]LogPlayLevel: PIE: World Init took: (0.001885s)
+[2021.09.28-02.55.49:201][743]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Land.Land to /Game/Maps/UEDPIE_0_Land.Land (0.004839s)
+[2021.09.28-02.55.49:236][743]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2021.09.28-02.55.49:237][743]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.28-02.55.49:237][743]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.28-02.55.49:237][743]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.28-02.55.49:237][743]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.28-02.55.49:237][743]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.28-02.55.49:237][743]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.28-02.55.49:237][743]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.28-02.55.49:237][743]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.28-02.55.49:238][743]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.28-02.55.49:238][743]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.28-02.55.49:255][743]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.28-02.55.49:255][743]LogAudioMixer: Display: 1: FrontRight
+[2021.09.28-02.55.49:346][743]LogAudioMixer: Display: Using Audio Device 스피커(USB Audio Device)
+[2021.09.28-02.55.49:347][743]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.28-02.55.49:347][743]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.28-02.55.49:347][743]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.28-02.55.49:347][743]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.28-02.55.49:365][743]LogInit: FAudioDevice initialized.
+[2021.09.28-02.55.49:418][743]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.28-02.55.49:418][743]LogLoad: Game class is 'GameModeBase'
+[2021.09.28-02.55.49:419][743]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Land.Land up for play (max tick rate 60) at 2021.09.28-11.55.49
+[2021.09.28-02.55.49:419][743]LogWorld: Bringing up level for play took: 0.000793
+[2021.09.28-02.55.49:419][743]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2021.09.28-02.55.49:421][743]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.09.28-02.55.49:430][743]PIE: 서버가 로그인했습니다.
+[2021.09.28-02.55.49:430][743]PIE: 에디터에서 플레이 총 시작 시간 0.24초입니다.
+[2021.09.28-02.56.01:675][945]LogBlueprintUserMessages: [BP_MainUI_C_0] cilked Upgrade
+[2021.09.28-02.56.30:349][544]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 2/1 Pages; frames since last flush: 28872
+[2021.09.28-02.56.30:367][544]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.28-02.56.30:406][544]LogSlate: Took 0.000279 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.09.28-02.56.30:408][544]LogSlate: Took 0.001639 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2021.09.28-02.56.30:632][544]LogSlate: Took 0.000360 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.09.28-02.56.30:634][544]LogSlate: Took 0.001875 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2021.09.28-02.56.30:635][544]LogSlate: Took 0.000348 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.09.28-02.56.30:638][544]LogSlate: Took 0.000260 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.09.28-02.56.30:640][544]LogSlate: Took 0.000233 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.09.28-02.56.30:643][544]LogSlate: Took 0.000235 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.09.28-02.56.30:644][544]LogSlate: Took 0.001551 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicExtraBold.ttf' (4074K)
+[2021.09.28-02.57.09:407][830]Set new viewmode: Wireframe
+[2021.09.28-02.57.31:345][142]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.28-02.57.31:345][142]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Land
+[2021.09.28-02.57.31:346][142]LogSlate: Window 'GrowWings 프리뷰 [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.09.28-02.57.31:351][142]LogWorld: UWorld::CleanupWorld for Land, bSessionEnded=true, bCleanupResources=true
+[2021.09.28-02.57.31:352][142]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.28-02.57.31:362][142]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.28-02.57.31:373][142]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.28-02.57.31:455][142]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000231BC045F80), frame # 439142
+[2021.09.28-02.57.31:455][142]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002318515DA00), frame # 439142
+[2021.09.28-02.57.31:459][142]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2021.09.28-02.57.31:490][143]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2021.09.28-02.57.40:952][705]LogEditorTransaction: Undo 이동 위젯
+[2021.09.28-02.58.21:633][988]LogEditorTransaction: Undo 위젯 이동
+[2021.09.28-02.58.43:413][239]LogEditorTransaction: Undo 변경된 앵커
+[2021.09.28-02.58.55:658][950]LogEditorTransaction: Undo 변경된 앵커
+[2021.09.28-02.58.56:107][963]LogEditorTransaction: Undo 변경된 앵커
+[2021.09.28-02.58.56:724][996]LogEditorTransaction: Undo 변경된 앵커
+[2021.09.28-02.58.57:116][ 19]LogEditorTransaction: Undo 변경된 앵커
+[2021.09.28-02.58.57:524][ 43]LogEditorTransaction: Undo 변경된 앵커
+[2021.09.28-03.00.03:931][863]BlueprintLog: New page: BP_MainUI 컴파일
+[2021.09.28-03.00.03:981][863]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2021.09.28-03.00.04:670][899]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/BP_MainUI" FILE="../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_MainUI.uasset" SILENT=true
+[2021.09.28-03.00.04:714][899]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/BP_MainUI9F87D7824BAE2A810F2295A0C9A3CA94.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_MainUI.uasset'
+[2021.09.28-03.00.04:732][899]AssetCheck: New page: 애셋 저장: BP_MainUI
+[2021.09.28-03.00.04:732][899]LogContentValidation: Display: WidgetBlueprint /Game/UI/BP_MainUI.BP_MainUI 유효성 검사
+[2021.09.28-03.00.08:867][143]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2021.09.28-03.00.08:886][143]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.28-03.00.08:886][143]PIE: New page: PIE 세션: Land (2021. 9. 28. 오후 9:00:08)
+[2021.09.28-03.00.08:886][143]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Land
+[2021.09.28-03.00.08:889][143]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002601s)
+[2021.09.28-03.00.08:890][143]LogAIModule: Creating AISystem for world Land
+[2021.09.28-03.00.08:890][143]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002319E663C00), frame # 448143
+[2021.09.28-03.00.08:890][143]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000023132AA6FC0), frame # 448143
+[2021.09.28-03.00.08:891][143]LogPlayLevel: PIE: World Init took: (0.001540s)
+[2021.09.28-03.00.08:891][143]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Land.Land to /Game/Maps/UEDPIE_0_Land.Land (0.004368s)
+[2021.09.28-03.00.08:925][143]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2021.09.28-03.00.08:927][143]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.28-03.00.08:927][143]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.28-03.00.08:927][143]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.28-03.00.08:927][143]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.28-03.00.08:927][143]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.28-03.00.08:927][143]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.28-03.00.08:927][143]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.28-03.00.08:927][143]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.28-03.00.08:928][143]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.28-03.00.08:928][143]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.28-03.00.08:947][143]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.28-03.00.08:947][143]LogAudioMixer: Display: 1: FrontRight
+[2021.09.28-03.00.09:044][143]LogAudioMixer: Display: Using Audio Device 스피커(USB Audio Device)
+[2021.09.28-03.00.09:044][143]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.28-03.00.09:044][143]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.28-03.00.09:044][143]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.28-03.00.09:045][143]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.28-03.00.09:064][143]LogInit: FAudioDevice initialized.
+[2021.09.28-03.00.09:119][143]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.28-03.00.09:119][143]LogLoad: Game class is 'GameModeBase'
+[2021.09.28-03.00.09:120][143]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Land.Land up for play (max tick rate 60) at 2021.09.28-12.00.09
+[2021.09.28-03.00.09:120][143]LogWorld: Bringing up level for play took: 0.000771
+[2021.09.28-03.00.09:121][143]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2021.09.28-03.00.09:123][143]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.09.28-03.00.09:130][143]PIE: 서버가 로그인했습니다.
+[2021.09.28-03.00.09:131][143]PIE: 에디터에서 플레이 총 시작 시간 0.25초입니다.
+[2021.09.28-03.00.27:207][602]LogBlueprintUserMessages: [BP_MainUI_C_0] cilked Upgrade
+[2021.09.28-03.00.49:397][921]LogSlate: Window 'GrowWings 프리뷰 [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.09.28-03.00.49:404][921]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Land
+[2021.09.28-03.00.49:431][921]LogWorld: UWorld::CleanupWorld for Land, bSessionEnded=true, bCleanupResources=true
+[2021.09.28-03.00.49:431][921]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.28-03.00.49:438][921]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.28-03.00.49:446][921]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.28-03.00.49:504][921]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000023132AA6FC0), frame # 449921
+[2021.09.28-03.00.49:504][921]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002319E663C00), frame # 449921
+[2021.09.28-03.00.49:510][921]LogUObjectHash: Compacting FUObjectHashTables data took   5.75ms
+[2021.09.28-03.00.49:542][922]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2021.09.28-03.00.51:163][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/BP_MainUI" FILE="../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_MainUI.uasset" SILENT=true
+[2021.09.28-03.00.51:204][ 17]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Saved/BP_MainUIA6A5B92740516E09070507BD66A824A3.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/Grow_Wings/GrowWings/Content/UI/BP_MainUI.uasset'
+[2021.09.28-03.00.51:218][ 17]AssetCheck: New page: 애셋 저장: BP_MainUI
+[2021.09.28-03.00.51:218][ 17]LogContentValidation: Display: WidgetBlueprint /Game/UI/BP_MainUI.BP_MainUI 유효성 검사
+[2021.09.28-03.00.51:573][ 32]LogSlate: Took 0.000212 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.09.28-03.04.36:417][758]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (MainCamera)
