@@ -266,7 +266,7 @@
 /FI"C:\Users\happl\OneDrive\Documents\GitHub\Grow_Wings\GrowWings\Intermediate\Build\Win64\GrowWingsEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
 /Yu"C:\Users\happl\OneDrive\Documents\GitHub\Grow_Wings\GrowWings\Intermediate\Build\Win64\GrowWingsEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
 /Fp"C:\Users\happl\OneDrive\Documents\GitHub\Grow_Wings\GrowWings\Intermediate\Build\Win64\GrowWingsEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"C:\Users\happl\OneDrive\Documents\GitHub\Grow_Wings\GrowWings\Source\GrowWings\Private\PlayerData.cpp"
+"C:\Users\happl\OneDrive\Documents\GitHub\Grow_Wings\GrowWings\Source\GrowWings\Public\PlayerData.cpp"
 /FI"C:\Users\happl\OneDrive\Documents\GitHub\Grow_Wings\GrowWings\Intermediate\Build\Win64\UE4Editor\Development\GrowWings\Definitions.GrowWings.h"
 /Fo"C:\Users\happl\OneDrive\Documents\GitHub\Grow_Wings\GrowWings\Intermediate\Build\Win64\UE4Editor\Development\GrowWings\PlayerData.cpp.obj"
 /TP

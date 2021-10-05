@@ -50,14 +50,8 @@
     <Filter Include="Source\GrowWings\Private">
       <UniqueIdentifier>{0B001C9E-19B5-4250-AA61-8744472018F8}</UniqueIdentifier>
     </Filter>
-    <ClCompile Include="..\..\Source\GrowWings\Private\PlayerData.cpp">
-      <Filter>Source\GrowWings\Private</Filter>
-    </ClCompile>
     <Filter Include="Source\GrowWings\Public">
       <UniqueIdentifier>{7D8A2AF6-ED90-460D-9573-0A727AA56A5D}</UniqueIdentifier>
     </Filter>
-    <ClInclude Include="..\..\Source\GrowWings\Public\PlayerData.h">
-      <Filter>Source\GrowWings\Public</Filter>
-    </ClInclude>
   </ItemGroup>
 </Project>
